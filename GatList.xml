@@ -1,36 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GatDetails>
+  <GatCode Code="1">
+    <GatName>???????&#x0;&#x0;</GatName>
+  </GatCode>
+  <GatCode Code="3">
+    <GatName>??????&#x0;&#x0;</GatName>
+  </GatCode>
+  <GatCode Code="4">
+    <GatName>???????&#x0;&#x0;</GatName>
+  </GatCode>
+  <GatCode Code="5">
+    <GatName>???&#x0;&#x0;</GatName>
+  </GatCode>
+  <GatCode Code="6">
+    <GatName>???????&#x0;&#x0;</GatName>
+  </GatCode>
+  <GatCode Code="7">
+    <GatName>???????&#x0;&#x0;</GatName>
+  </GatCode>
+  <GatCode Code="8">
+    <GatName>????&#x0;&#x0;</GatName>
+  </GatCode>
+  <GatCode Code="9">
+    <GatName>????&#x0;&#x0;</GatName>
+  </GatCode>
+  <GatCode Code="10">
+    <GatName>??????&#x0;&#x0;</GatName>
+  </GatCode>
+  <GatCode Code="11">
+    <GatName>???&#x0;&#x0;</GatName>
+  </GatCode>
   <GatCode Code="12">
-    <GatName>राहु</GatName>
-  </GatCode>
-  <GatCode Code="13">
-    <GatName>पारगाव</GatName>
-  </GatCode>
-  <GatCode Code="14">
-    <GatName>रांजणगाव सांडस</GatName>
+    <GatName>?????&#x0;&#x0;</GatName>
   </GatCode>
   <GatCode Code="15">
-    <GatName>हवेली</GatName>
+    <GatName>???????&#x0;&#x0;</GatName>
   </GatCode>
   <GatCode Code="16">
-    <GatName>खेड</GatName>
-  </GatCode>
-  <GatCode Code="17">
-    <GatName>श्रीगोंदा</GatName>
-  </GatCode>
-  <GatCode Code="18">
-    <GatName>गेटकेन</GatName>
+    <GatName>???????&#x0;&#x0;</GatName>
   </GatCode>
   <GatCode Code="19">
-    <GatName>खामगाव</GatName>
+    <GatName>????????&#x0;&#x0;</GatName>
   </GatCode>
   <GatCode Code="20">
-    <GatName>तळेगाव ढमढेरे</GatName>
+    <GatName>??????&#x0;&#x0;</GatName>
   </GatCode>
-  <GatCode Code="1083">
-    <GatName>शिक्रापूर</GatName>
+  <GatCode Code="21">
+    <GatName>????????&#x0;&#x0;</GatName>
   </GatCode>
-  <GatCode Code="1389">
-    <GatName>कर्जत</GatName>
+  <GatCode Code="22">
+    <GatName>??????&#x0;&#x0;</GatName>
+  </GatCode>
+  <GatCode Code="23">
+    <GatName>?????&#x0;&#x0;</GatName>
+  </GatCode>
+  <GatCode Code="24">
+    <GatName>????-?????&#x0;&#x0;</GatName>
   </GatCode>
 </GatDetails>

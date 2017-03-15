@@ -1,975 +1,4014 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VillageList>
-  <GatCode Code="18">
-    <VillageCode Code="1520">
-      <VillageName>आंबी</VillageName>
+  <GatCode Code="1">
+    <VillageCode Code="1">
+      <VillageName>???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1520">
-      <VillageName>आंबी</VillageName>
+    <VillageCode Code="10">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1301">
-      <VillageName>आनंदवाडी</VillageName>
+    <VillageCode Code="11">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1291">
-      <VillageName>आढळगाव</VillageName>
+    <VillageCode Code="12">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1265">
-      <VillageName>अजनुज</VillageName>
+    <VillageCode Code="13">
+      <VillageName>???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1399">
-      <VillageName>भाबोरा</VillageName>
+    <VillageCode Code="14">
+      <VillageName>????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1285">
-      <VillageName>भावडी(गेटकेन)</VillageName>
+    <VillageCode Code="122">
+      <VillageName>?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1554">
-      <VillageName>बहुळ</VillageName>
-    </VillageCode>
-    <VillageCode Code="1447">
-      <VillageName>बेर्डी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1317">
-      <VillageName>बेलवंडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1566">
-      <VillageName>दौंडकरवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1423">
-      <VillageName>दुधवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1443">
-      <VillageName>रुईगव्हाण</VillageName>
-    </VillageCode>
-    <VillageCode Code="1195">
-      <VillageName>इनामगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1530">
-      <VillageName>गोलेगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1215">
-      <VillageName>घोटवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1227">
-      <VillageName>घारगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1263">
-      <VillageName>गणेशवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1563">
-      <VillageName>हाजी टाकळी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1535">
-      <VillageName>हंगेवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1273">
-      <VillageName>लिपनगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1269">
-      <VillageName>निमगाव खलु</VillageName>
-    </VillageCode>
-    <VillageCode Code="1353">
-      <VillageName>पिंप्री कोलंदर</VillageName>
-    </VillageCode>
-    <VillageCode Code="1369">
-      <VillageName>पिपंळगाव पिसा</VillageName>
-    </VillageCode>
-    <VillageCode Code="1840">
-      <VillageName>पिंपळगाव फडके</VillageName>
-    </VillageCode>
-    <VillageCode Code="1411">
-      <VillageName>पिपंळवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1403">
-      <VillageName>शिंदा</VillageName>
-    </VillageCode>
-    <VillageCode Code="1451">
-      <VillageName>सिध्दटेक</VillageName>
-    </VillageCode>
-    <VillageCode Code="1845">
-      <VillageName>वीर</VillageName>
-    </VillageCode>
-    <VillageCode Code="1387">
-      <VillageName>जलालपूर</VillageName>
-    </VillageCode>
-    <VillageCode Code="1525">
-      <VillageName>खळद</VillageName>
-    </VillageCode>
-    <VillageCode Code="1830">
-      <VillageName>खेड</VillageName>
-    </VillageCode>
-    <VillageCode Code="1297">
-      <VillageName>कोकणगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1295">
-      <VillageName>कोकणगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1509">
-      <VillageName>कोंडबावी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1337">
-      <VillageName>कोंडेगव्हाण</VillageName>
-    </VillageCode>
-    <VillageCode Code="1435">
-      <VillageName>कोपर्डी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1277">
-      <VillageName>कौढा</VillageName>
-    </VillageCode>
-    <VillageCode Code="77">
-      <VillageName>कोयाळी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1257">
-      <VillageName>खरातवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1313">
-      <VillageName>काष्टी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1365">
-      <VillageName>उक्कडगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1191">
-      <VillageName>कर्डे</VillageName>
-    </VillageCode>
-    <VillageCode Code="1069">
-      <VillageName>कर्जत</VillageName>
-    </VillageCode>
-    <VillageCode Code="1309">
-      <VillageName>कणसेवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1427">
-      <VillageName>कुळधरण</VillageName>
-    </VillageCode>
-    <VillageCode Code="1550">
-      <VillageName>लोहगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1849">
-      <VillageName>लपतडवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1847">
-      <VillageName>मांडकी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1528">
-      <VillageName>मोहीतेवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1203">
-      <VillageName>मढेवडगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="76">
-      <VillageName>मरकळ</VillageName>
-    </VillageCode>
-    <VillageCode Code="1455">
-      <VillageName>उंडाचीवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1395">
-      <VillageName>नांदगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1851">
-      <VillageName>परिचे</VillageName>
-    </VillageCode>
-    <VillageCode Code="1177">
-      <VillageName>पेडगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1475">
-      <VillageName>राक्षसवाडी बु</VillageName>
-    </VillageCode>
-    <VillageCode Code="1359">
-      <VillageName>सांगवी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1537">
-      <VillageName>सांगवी दुमला</VillageName>
-    </VillageCode>
-    <VillageCode Code="1540">
-      <VillageName>सोळू</VillageName>
-    </VillageCode>
-    <VillageCode Code="1419">
-      <VillageName>सोनाळवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="131">
-      <VillageName>सातोली</VillageName>
-    </VillageCode>
-    <VillageCode Code="1431">
-      <VillageName>सुपेकरवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1281">
-      <VillageName>तांदळी दुमला</VillageName>
-    </VillageCode>
-    <VillageCode Code="1439">
-      <VillageName>तोरकरवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1734">
-      <VillageName>वाकी</VillageName>
-    </VillageCode>
-    <VillageCode Code="78">
-      <VillageName>वडगाव शिंदे</VillageName>
-    </VillageCode>
-    <VillageCode Code="1471">
-      <VillageName>श्रीगोंदा</VillageName>
-    </VillageCode>
-    <VillageCode Code="1545">
-      <VillageName>येळपणे</VillageName>
-    </VillageCode>
-    <VillageCode Code="1415">
-      <VillageName>धालोंडी</VillageName>
-    </VillageCode>
-  </GatCode>
-  <GatCode Code="15">
-    <VillageCode Code="1548">
-      <VillageName>*****</VillageName>
-    </VillageCode>
-    <VillageCode Code="1515">
-      <VillageName>आलंदी</VillageName>
-    </VillageCode>
-    <VillageCode Code="73">
-      <VillageName>आव्हाळवाडी (वाघोली)</VillageName>
-    </VillageCode>
-    <VillageCode Code="63">
-      <VillageName>आष्टापूर</VillageName>
-    </VillageCode>
-    <VillageCode Code="182">
-      <VillageName>अष्टापूर फाटा</VillageName>
-    </VillageCode>
-    <VillageCode Code="74">
-      <VillageName>भावडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="181">
-      <VillageName>बकोरी</VillageName>
-    </VillageCode>
-    <VillageCode Code="62">
-      <VillageName>बुर्केगावा</VillageName>
-    </VillageCode>
-    <VillageCode Code="130">
-      <VillageName>भवरापूर</VillageName>
-    </VillageCode>
-    <VillageCode Code="178">
-      <VillageName>भवरापूर</VillageName>
-    </VillageCode>
-    <VillageCode Code="788">
-      <VillageName>चंदननगर</VillageName>
-    </VillageCode>
-    <VillageCode Code="1511">
-      <VillageName>चऱ्होली</VillageName>
-    </VillageCode>
-    <VillageCode Code="168">
-      <VillageName>डाळीब</VillageName>
-    </VillageCode>
-    <VillageCode Code="64">
-      <VillageName>डोंगरगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="140">
-      <VillageName>डोंगरगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1101">
-      <VillageName>फुलगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="781">
-      <VillageName>फुरुसुंगी</VillageName>
-    </VillageCode>
-    <VillageCode Code="212">
-      <VillageName>घोरपडी गाव</VillageName>
+    <VillageCode Code="123">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
     </VillageCode>
     <VillageCode Code="158">
-      <VillageName>हडपसर</VillageName>
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="783">
-      <VillageName>बिबेवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="175">
-      <VillageName>बिवरी</VillageName>
-    </VillageCode>
-    <VillageCode Code="210">
-      <VillageName>चिंचवड</VillageName>
-    </VillageCode>
-    <VillageCode Code="66">
-      <VillageName>हिंगणगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1407">
-      <VillageName>हिंगणगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1107">
-      <VillageName>हिंगणगाव (पाटीलवस्ती) (२०)</VillageName>
-    </VillageCode>
-    <VillageCode Code="83">
-      <VillageName>मिरवडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="61">
-      <VillageName>पिंप्री सांडस</VillageName>
-    </VillageCode>
-    <VillageCode Code="155">
-      <VillageName>शिंदेवाडी(हवेली)</VillageName>
-    </VillageCode>
-    <VillageCode Code="166">
-      <VillageName>शिंदवणे</VillageName>
-    </VillageCode>
-    <VillageCode Code="785">
-      <VillageName>विश्रांतवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="70">
-      <VillageName>कोलवडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="162">
-      <VillageName>कोळपेवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="172">
-      <VillageName>कोरेगाव मूळ</VillageName>
-    </VillageCode>
-    <VillageCode Code="780">
-      <VillageName>कोथरूड</VillageName>
-    </VillageCode>
-    <VillageCode Code="69">
-      <VillageName>केसंद</VillageName>
-    </VillageCode>
-    <VillageCode Code="185">
-      <VillageName>कुंजीरवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="145">
-      <VillageName>लोणारवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="191">
-      <VillageName>लोणी काळभोर</VillageName>
-    </VillageCode>
-    <VillageCode Code="179">
-      <VillageName>लोणीकंद</VillageName>
-    </VillageCode>
-    <VillageCode Code="68">
-      <VillageName>उरुळी कांचन</VillageName>
-    </VillageCode>
-    <VillageCode Code="72">
-      <VillageName>मांजरी</VillageName>
-    </VillageCode>
-    <VillageCode Code="125">
-      <VillageName>मेमाण वाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="786">
-      <VillageName>मुंढवा</VillageName>
-    </VillageCode>
-    <VillageCode Code="1500">
-      <VillageName>नांदेड</VillageName>
-    </VillageCode>
-    <VillageCode Code="195">
-      <VillageName>नायगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="205">
-      <VillageName>न्हावी</VillageName>
-    </VillageCode>
-    <VillageCode Code="60">
-      <VillageName>न्हावी सांडस</VillageName>
-    </VillageCode>
-    <VillageCode Code="211">
-      <VillageName>प्रेमनगर</VillageName>
-    </VillageCode>
-    <VillageCode Code="65">
-      <VillageName>पेरणे</VillageName>
-    </VillageCode>
-    <VillageCode Code="186">
-      <VillageName>पुणे</VillageName>
-    </VillageCode>
-    <VillageCode Code="198">
-      <VillageName>राजेवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="208">
-      <VillageName>रविवार पेठ पुणे</VillageName>
-    </VillageCode>
-    <VillageCode Code="129">
-      <VillageName>सांगवी</VillageName>
-    </VillageCode>
-    <VillageCode Code="204">
-      <VillageName>सांगवी</VillageName>
-    </VillageCode>
-    <VillageCode Code="59">
-      <VillageName>सांगवी सांडस</VillageName>
-    </VillageCode>
-    <VillageCode Code="173">
-      <VillageName>सोरतापवाडी(३६)</VillageName>
-    </VillageCode>
-    <VillageCode Code="196">
-      <VillageName>सोरतापवाडी(३६)</VillageName>
-    </VillageCode>
-    <VillageCode Code="1513">
-      <VillageName>साष्टे</VillageName>
-    </VillageCode>
-    <VillageCode Code="206">
-      <VillageName>सहकारनगर पुणे</VillageName>
-    </VillageCode>
-    <VillageCode Code="213">
-      <VillageName>स्वारगेट</VillageName>
-    </VillageCode>
-    <VillageCode Code="188">
-      <VillageName>तरडे</VillageName>
-    </VillageCode>
-    <VillageCode Code="1465">
-      <VillageName>तरडे</VillageName>
-    </VillageCode>
-    <VillageCode Code="128">
-      <VillageName>तुळापुर</VillageName>
-    </VillageCode>
-    <VillageCode Code="71">
-      <VillageName>वाडेबोल्हाई</VillageName>
-    </VillageCode>
-    <VillageCode Code="189">
-      <VillageName>वाडेगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="157">
-      <VillageName>वाघोली</VillageName>
-    </VillageCode>
-    <VillageCode Code="152">
-      <VillageName>वाळके वस्ती</VillageName>
-    </VillageCode>
-    <VillageCode Code="197">
-      <VillageName>वानवडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="207">
-      <VillageName>वडगाव शेरी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1498">
-      <VillageName>वडगाव धायरी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1614">
-      <VillageName>वडकी</VillageName>
-    </VillageCode>
-    <VillageCode Code="183">
-      <VillageName>वळती</VillageName>
-    </VillageCode>
-    <VillageCode Code="75">
-      <VillageName>वढू खुर्द</VillageName>
-    </VillageCode>
-    <VillageCode Code="782">
-      <VillageName>थेऊर</VillageName>
-    </VillageCode>
-  </GatCode>
-  <GatCode Code="1083">
-    <VillageCode Code="30">
-      <VillageName>आपटी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1518">
-      <VillageName>भांबर्डे</VillageName>
-    </VillageCode>
-    <VillageCode Code="146">
-      <VillageName>बुरुजवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1103">
-      <VillageName>गणेगाव खालसा</VillageName>
-    </VillageCode>
-    <VillageCode Code="1497">
-      <VillageName>हिवरे</VillageName>
-    </VillageCode>
-    <VillageCode Code="1102">
-      <VillageName>पिंपळे जगताप</VillageName>
-    </VillageCode>
-    <VillageCode Code="1106">
-      <VillageName>पिंपळे जगताप</VillageName>
-    </VillageCode>
-    <VillageCode Code="148">
-      <VillageName>पिंपळे धुमाळ</VillageName>
-    </VillageCode>
-    <VillageCode Code="1574">
-      <VillageName>पिंपरी दुमाला</VillageName>
-    </VillageCode>
-    <VillageCode Code="32">
-      <VillageName>शिक्रापूर</VillageName>
-    </VillageCode>
-    <VillageCode Code="58">
-      <VillageName>जातेगाव ब्रु</VillageName>
-    </VillageCode>
-    <VillageCode Code="31">
-      <VillageName>जातेगाव खुर्द</VillageName>
-    </VillageCode>
-    <VillageCode Code="209">
-      <VillageName>जातेगाव मुखई</VillageName>
-    </VillageCode>
-    <VillageCode Code="1559">
-      <VillageName>खंडाळा</VillageName>
-    </VillageCode>
-    <VillageCode Code="1087">
-      <VillageName>कोंढापुरी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1096">
-      <VillageName>कोरेगाव भिमा</VillageName>
-    </VillageCode>
-    <VillageCode Code="34">
-      <VillageName>करंदी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1383">
-      <VillageName>मुखई</VillageName>
-    </VillageCode>
-    <VillageCode Code="1561">
-      <VillageName>वाघाळे</VillageName>
-    </VillageCode>
-    <VillageCode Code="1089">
-      <VillageName>वाजेवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1171">
-      <VillageName>वाजेवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1841">
-      <VillageName>वरुडे</VillageName>
-    </VillageCode>
-    <VillageCode Code="29">
-      <VillageName>वढू बु </VillageName>
-    </VillageCode>
-    <VillageCode Code="1571">
-      <VillageName>धामारी</VillageName>
-    </VillageCode>
-  </GatCode>
-  <GatCode Code="19">
-    <VillageCode Code="184">
-      <VillageName>बोरीभडक</VillageName>
-    </VillageCode>
-    <VillageCode Code="167">
-      <VillageName>बोरीऐंदी</VillageName>
-    </VillageCode>
-    <VillageCode Code="190">
-      <VillageName>बोरीफाटा</VillageName>
-    </VillageCode>
-    <VillageCode Code="200">
-      <VillageName>भोसलेवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="101">
-      <VillageName>भरतगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="199">
-      <VillageName>भुलेश्वर पायथा</VillageName>
-    </VillageCode>
-    <VillageCode Code="187">
-      <VillageName>दरेकरवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="124">
-      <VillageName>गाडमोडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="170">
-      <VillageName>होलेवस्तीकोळगाव </VillageName>
-    </VillageCode>
-    <VillageCode Code="1100">
-      <VillageName>टिळेकर वाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="202">
-      <VillageName>जगतापमळा</VillageName>
-    </VillageCode>
-    <VillageCode Code="95">
-      <VillageName>खामगांव </VillageName>
-    </VillageCode>
-    <VillageCode Code="177">
-      <VillageName>खामगांव टेक</VillageName>
-    </VillageCode>
-    <VillageCode Code="102">
-      <VillageName>कामठ वाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="104">
-      <VillageName>कांचनवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="98">
-      <VillageName>कासुर्डी</VillageName>
-    </VillageCode>
-    <VillageCode Code="93">
-      <VillageName>लडकतवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="127">
-      <VillageName>उंडवडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="99">
-      <VillageName>नांदूर</VillageName>
-    </VillageCode>
-    <VillageCode Code="94">
-      <VillageName>नाथाचीवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1730">
-      <VillageName>पांडेश्वर</VillageName>
-    </VillageCode>
-    <VillageCode Code="100">
-      <VillageName>सहजपूर</VillageName>
-    </VillageCode>
-    <VillageCode Code="48">
-      <VillageName>शेलारवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="97">
-      <VillageName>शेलारवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="96">
-      <VillageName>तांबेवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="169">
-      <VillageName>ताम्हणवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="164">
-      <VillageName>थोरातवस्ती</VillageName>
-    </VillageCode>
-    <VillageCode Code="103">
-      <VillageName>यादववाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="113">
-      <VillageName>यवत </VillageName>
-    </VillageCode>
-    <VillageCode Code="144">
-      <VillageName>यवत स्टेशन</VillageName>
-    </VillageCode>
-  </GatCode>
-  <GatCode Code="16">
-    <VillageCode Code="79">
-      <VillageName>शेळ पिंपळगाव</VillageName>
-    </VillageCode>
-  </GatCode>
-  <GatCode Code="13">
-    <VillageCode Code="153">
-      <VillageName>२२ फाटा</VillageName>
-    </VillageCode>
-    <VillageCode Code="139">
-      <VillageName>भांडगाव</VillageName>
-    </VillageCode>
-    <VillageCode Code="1051">
-      <VillageName>बोरीपार्धी</VillageName>
-    </VillageCode>
-    <VillageCode Code="779">
-      <VillageName>चौफुला</VillageName>
-    </VillageCode>
-    <VillageCode Code="180">
-      <VillageName>दौंड</VillageName>
-    </VillageCode>
-    <VillageCode Code="141">
-      <VillageName>दापोडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="107">
-      <VillageName>देलवडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="156">
-      <VillageName>देलवडी(संगम)</VillageName>
-    </VillageCode>
-    <VillageCode Code="1207">
-      <VillageName>देऊळगाव गाडा</VillageName>
-    </VillageCode>
-    <VillageCode Code="1724">
-      <VillageName>देऊळगाव राजे</VillageName>
-    </VillageCode>
-    <VillageCode Code="108">
-      <VillageName>एकेरीवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1305">
-      <VillageName>गार</VillageName>
-    </VillageCode>
-    <VillageCode Code="1493">
-      <VillageName>गलापूर</VillageName>
-    </VillageCode>
-    <VillageCode Code="110">
-      <VillageName>गलांडवाडी</VillageName>
-    </VillageCode>
-    <VillageCode Code="112">
-      <VillageName>हातवळण</VillageName>
+    <VillageCode Code="159">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
     <VillageCode Code="161">
-      <VillageName>गिरिम</VillageName>
+      <VillageName>?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1461">
-      <VillageName>लिंगाळी</VillageName>
+    <VillageCode Code="172">
+      <VillageName>?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="67">
-      <VillageName>शिंदेवाडी</VillageName>
+    <VillageCode Code="182">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="962">
-      <VillageName>शिंदेवाडी(२४)</VillageName>
+    <VillageCode Code="218">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="118">
-      <VillageName>शिंदेवाडी (पारगाव)</VillageName>
+    <VillageCode Code="233">
+      <VillageName>????????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="126">
-      <VillageName>शिरसुफळ</VillageName>
+    <VillageCode Code="242">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="132">
-      <VillageName>खानोटा</VillageName>
+    <VillageCode Code="260">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="192">
-      <VillageName>खोपोडी</VillageName>
+    <VillageCode Code="263">
+      <VillageName>????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="160">
-      <VillageName>खोपोडी</VillageName>
+    <VillageCode Code="282">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="163">
-      <VillageName>खोर</VillageName>
+    <VillageCode Code="284">
+      <VillageName>????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="165">
-      <VillageName>खोर</VillageName>
+    <VillageCode Code="287">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="44">
-      <VillageName>कामठवाडी</VillageName>
+    <VillageCode Code="303">
+      <VillageName>61 ????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="106">
-      <VillageName>कानगाव</VillageName>
+    <VillageCode Code="305">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="109">
-      <VillageName>खुटबाव</VillageName>
+    <VillageCode Code="309">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="115">
-      <VillageName>कडेठाण</VillageName>
+    <VillageCode Code="319">
+      <VillageName>?????????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="117">
-      <VillageName>केडगाव</VillageName>
+    <VillageCode Code="329">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1147">
-      <VillageName>करमाळा</VillageName>
+    <VillageCode Code="342">
+      <VillageName>?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="176">
-      <VillageName>कुरकुंभ</VillageName>
+    <VillageCode Code="353">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1543">
-      <VillageName>कुसेगाव</VillageName>
+    <VillageCode Code="354">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1491">
-      <VillageName>मलठण</VillageName>
+    <VillageCode Code="359">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1839">
-      <VillageName>मळद</VillageName>
+    <VillageCode Code="367">
+      <VillageName>????? (?)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1727">
-      <VillageName>मेरगळ वाडी</VillageName>
+    <VillageCode Code="381">
+      <VillageName>?????????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="111">
-      <VillageName>नानगाव</VillageName>
+    <VillageCode Code="408">
+      <VillageName>?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="151">
-      <VillageName>नानगाव</VillageName>
+    <VillageCode Code="410">
+      <VillageName>??????????? (??)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="116">
-      <VillageName>नानवीज</VillageName>
+    <VillageCode Code="413">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="105">
-      <VillageName>पारगाव</VillageName>
+    <VillageCode Code="427">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1225">
-      <VillageName>पारेवाडी</VillageName>
+    <VillageCode Code="443">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1075">
-      <VillageName>पाटस</VillageName>
+    <VillageCode Code="463">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="464">
+      <VillageName>?????????.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="467">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="498">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="546">
+      <VillageName>??????.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="642">
+      <VillageName>???????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="781">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="801">
+      <VillageName>60 ????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="883">
+      <VillageName>??????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1059">
+      <VillageName>???? ?????? ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1311">
+      <VillageName>?????????(???????? ?????)&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="3">
+    <VillageCode Code="2">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="17">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="18">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="19">
+      <VillageName>????????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="20">
+      <VillageName>????????? (?)&#x0;</VillageName>
     </VillageCode>
     <VillageCode Code="21">
-      <VillageName>वाखारी</VillageName>
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="114">
-      <VillageName>वरवंड</VillageName>
+    <VillageCode Code="22">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="23">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="24">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="25">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="26">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="100">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="101">
+      <VillageName>?????????? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="115">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="124">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="129">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="131">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="136">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="137">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="138">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="138">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="145">
+      <VillageName>?????? ??.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="146">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="147">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="148">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="154">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="166">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="171">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="174">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="186">
+      <VillageName>????????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="188">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="190">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="193">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="217">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="220">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="221">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="222">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="235">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="253">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="254">
+      <VillageName>?.??.????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="257">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="280">
+      <VillageName>???????? (?)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="318">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="327">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="330">
+      <VillageName>?????? ??. (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="331">
+      <VillageName>??????????(?)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="332">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="333">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="335">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="337">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="338">
+      <VillageName>????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="360">
+      <VillageName>?????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="373">
+      <VillageName>???????? (??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="382">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="383">
+      <VillageName>???????? ???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="395">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="396">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="414">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="428">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="450">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="454">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="455">
+      <VillageName>????????? (????????? ?? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="456">
+      <VillageName>????? ????? ????????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="610">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="620">
+      <VillageName>??????? (?)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="643">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="690">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="732">
+      <VillageName>??????? (??)&#x0;</VillageName>
     </VillageCode>
     <VillageCode Code="787">
-      <VillageName>येळेवस्ती</VillageName>
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="812">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="834">
+      <VillageName>????????? (?)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="846">
+      <VillageName>?????? ????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="884">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1051">
+      <VillageName>??????(?)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1060">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1066">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1067">
+      <VillageName>????????????? (?)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1068">
+      <VillageName>??????? ??.????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1069">
+      <VillageName>???????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1070">
+      <VillageName>??????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1080">
+      <VillageName>??????? (?)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1097">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1133">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1314">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="4">
+    <VillageCode Code="27">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="28">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="29">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="30">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="31">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="32">
+      <VillageName>??? ????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="33">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="34">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="35">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="36">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="98">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="102">
+      <VillageName>???????? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="141">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="142">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="149">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="165">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="167">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="169">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="170">
+      <VillageName>???? ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="173">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="189">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="236">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="281">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="285">
+      <VillageName>????????? ??.2&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="313">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="322">
+      <VillageName>????????? ??.1&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="323">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="334">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="344">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="352">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="370">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="379">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="384">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="394">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="417">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="458">
+      <VillageName>????????? ??1&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="459">
+      <VillageName>????????? ??2&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="469">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="499">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="528">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="553">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="555">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="562">
+      <VillageName>??????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="563">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="564">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="565">
+      <VillageName>????.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="568">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="622">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="674">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="725">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="731">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="746">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="886">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="887">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="968">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1043">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1103">
+      <VillageName>???????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1391">
+      <VillageName>?????? (???????)&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="5">
+    <VillageCode Code="37">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="38">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="39">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="40">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="42">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="43">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="45">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="46">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="48">
+      <VillageName>???????? ??.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="99">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="105">
+      <VillageName>??????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="106">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="107">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="108">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="109">
+      <VillageName>?????? ??.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="110">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="111">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="112">
+      <VillageName>??????-??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="126">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="127">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="128">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="128">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="133">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="134">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="135">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="139">
+      <VillageName>??????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="143">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="150">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="151">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="153">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="155">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="156">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="168">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="175">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="180">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="181">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="183">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="184">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="185">
+      <VillageName>??????-?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="187">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="191">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="192">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="192">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="207">
+      <VillageName>????? ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="208">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="209">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="223">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="225">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="228">
+      <VillageName>???????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="243">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="244">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="245">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="246">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="250">
+      <VillageName>?????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="252">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="258">
+      <VillageName>??????(???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="259">
+      <VillageName>???? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="265">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="267">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="269">
+      <VillageName>??????????(???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="270">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="271">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="272">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="273">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="274">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="275">
+      <VillageName>???? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="276">
+      <VillageName>?????????? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="277">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="279">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="310">
+      <VillageName>????????? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="314">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="315">
+      <VillageName>????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="321">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="361">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="362">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="363">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="399">
+      <VillageName>????? - ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="401">
+      <VillageName>???? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="403">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="404">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="412">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="419">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="422">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="444">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="445">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="466">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="514">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="634">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="943">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="984">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1029">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1098">
+      <VillageName>?????? ????? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1306">
+      <VillageName>?????????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1401">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1402">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="6">
+    <VillageCode Code="49">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="50">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="51">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="52">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="53">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="54">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="55">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="56">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="57">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="58">
+      <VillageName>???? (?)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="59">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="234">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="289">
+      <VillageName>????????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="298">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="300">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="301">
+      <VillageName>????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="304">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="325">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="345">
+      <VillageName>??????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="358">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="376">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="402">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="411">
+      <VillageName>??????? ?????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="420">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="436">
+      <VillageName>????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="452">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="468">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="483">
+      <VillageName>???? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="489">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="501">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="517">
+      <VillageName>?????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="518">
+      <VillageName>????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="519">
+      <VillageName>??????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="520">
+      <VillageName>???????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="521">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="523">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="535">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="537">
+      <VillageName>???????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="540">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="544">
+      <VillageName>?????? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="561">
+      <VillageName>????????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="566">
+      <VillageName>?????????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="567">
+      <VillageName>?????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="578">
+      <VillageName>????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="579">
+      <VillageName>??????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="600">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="605">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="609">
+      <VillageName>??????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="616">
+      <VillageName>???? (?????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="659">
+      <VillageName>???????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="662">
+      <VillageName>????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="675">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="688">
+      <VillageName>??? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="689">
+      <VillageName>???? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="691">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="692">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="699">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="700">
+      <VillageName>?????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="701">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="707">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="715">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="720">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="723">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="729">
+      <VillageName>?????? ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="730">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="738">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="743">
+      <VillageName>????? ?? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="758">
+      <VillageName>?????? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="759">
+      <VillageName>??????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="760">
+      <VillageName>??????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="761">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="762">
+      <VillageName>???? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="763">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="764">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="765">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="767">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="768">
+      <VillageName>?????????(??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="769">
+      <VillageName>??????.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="782">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="783">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="784">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="785">
+      <VillageName>??????? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="792">
+      <VillageName>?????????? (??????? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="793">
+      <VillageName>?????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="796">
+      <VillageName>????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="797">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="800">
+      <VillageName>??????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="802">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="804">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="805">
+      <VillageName>???????( ??????? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="806">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="808">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="811">
+      <VillageName>?????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="813">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="814">
+      <VillageName>?????????? ( ??????? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="815">
+      <VillageName>???????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="831">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="833">
+      <VillageName>????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="893">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1057">
+      <VillageName>????????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1065">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1071">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1074">
+      <VillageName>?????????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1081">
+      <VillageName>??????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1096">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1107">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1281">
+      <VillageName>?????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1282">
+      <VillageName>????????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1283">
+      <VillageName>?????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1284">
+      <VillageName>???? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1285">
+      <VillageName>????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1286">
+      <VillageName>?????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1287">
+      <VillageName>??????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1288">
+      <VillageName>???????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1296">
+      <VillageName>??????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1316">
+      <VillageName>???????????(???????)&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="7">
+    <VillageCode Code="60">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="61">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="62">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="63">
+      <VillageName>??????.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="64">
+      <VillageName>??? ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="65">
+      <VillageName>????????.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="66">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="67">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="118">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="119">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="152">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="163">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="201">
+      <VillageName>?????.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="290">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="356">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="357">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="371">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="372">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="374">
+      <VillageName>?????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="375">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="426">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="433">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="434">
+      <VillageName>????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="451">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="471">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="584">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="602">
+      <VillageName>????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="603">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="604">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="687">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="727">
+      <VillageName>?????????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="728">
+      <VillageName>????????? ??.1&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="747">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="748">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="749">
+      <VillageName>????????? ??.2&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="770">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="771">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="775">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="859">
+      <VillageName>????????? (?????? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1039">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1090">
+      <VillageName>?????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1108">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1114">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1115">
+      <VillageName>??? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1117">
+      <VillageName>?????? ??.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1119">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1135">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1136">
+      <VillageName>?????  ??.1&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1137">
+      <VillageName>????? ??2&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1138">
+      <VillageName>????? ??.3&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1139">
+      <VillageName>?????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1143">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1145">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1148">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1153">
+      <VillageName>???? ????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1155">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1169">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1211">
+      <VillageName>???? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1274">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1275">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1276">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1277">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1309">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1313">
+      <VillageName>???????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1318">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1327">
+      <VillageName>??????? ??1(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1331">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="8">
+    <VillageCode Code="68">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="69">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="70">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="71">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="72">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="73">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="74">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="76">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="77">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="78">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="312">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="377">
+      <VillageName>???????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="473">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="530">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="531">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="532">
+      <VillageName>??????(????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="534">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="547">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="548">
+      <VillageName>?????? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="550">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="554">
+      <VillageName>????? ??? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="581">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="582">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="583">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="585">
+      <VillageName>???????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="586">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="587">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="592">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="593">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="596">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="598">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="599">
+      <VillageName>???????? (???? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="601">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="606">
+      <VillageName>?????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="611">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="676">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="786">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="877">
+      <VillageName>??? (???? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="896">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="897">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="898">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="930">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="931">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="932">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1038">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1078">
+      <VillageName>????? ????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1132">
+      <VillageName>?????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1134">
+      <VillageName>???? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1144">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1156">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1180">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1205">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1225">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1227">
+      <VillageName>?????????(????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1230">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1231">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1378">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="9">
+    <VillageCode Code="79">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="80">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="81">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="83">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="84">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="85">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="86">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="87">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="206">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="385">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="386">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="387">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="388">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="391">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="392">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="431">
+      <VillageName>???? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="432">
+      <VillageName>??????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="446">
+      <VillageName>?????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="461">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="462">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="552">
+      <VillageName>????? ????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="557">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="559">
+      <VillageName>????? ??&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="612">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="613">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="614">
+      <VillageName>?????? ??.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="617">
+      <VillageName>?????????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="618">
+      <VillageName>??????? (???? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="619">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="694">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="695">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="696">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="697">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="698">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="717">
+      <VillageName>????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="721">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="722">
+      <VillageName>??????????(????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="733">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="734">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="735">
+      <VillageName>???????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="736">
+      <VillageName>?????? (?????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="739">
+      <VillageName>????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="753">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="754">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="777">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="778">
+      <VillageName>????? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="779">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="803">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="807">
+      <VillageName>????? ??.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="809">
+      <VillageName>??????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="810">
+      <VillageName>???????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="830">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="832">
+      <VillageName>????????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="855">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="865">
+      <VillageName>???? ??????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="904">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1017">
+      <VillageName>???? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1058">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1289">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1292">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="10">
+    <VillageCode Code="88">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="89">
+      <VillageName>????.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="90">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="91">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="92">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="93">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="94">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="95">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="96">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="97">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="297">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="556">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="558">
+      <VillageName>?????? ?? 1&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="714">
+      <VillageName>???????? (??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="742">
+      <VillageName>????? ??.3&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="755">
+      <VillageName>????? ??.1&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="756">
+      <VillageName>????? ??. 2&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="757">
+      <VillageName>????? ??. 4&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="788">
+      <VillageName>?????? ?? 2&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="857">
+      <VillageName>???????? (??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="858">
+      <VillageName>?????? ???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="892">
+      <VillageName>?????? ??.3&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="895">
+      <VillageName>??????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1269">
+      <VillageName>?????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1278">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1279">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1280">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1295">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1297">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1298">
+      <VillageName>????? ??. 1&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1299">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1308">
+      <VillageName>??? ?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1342">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1343">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1344">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1355">
+      <VillageName>??????(??????)&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="11">
+    <VillageCode Code="82">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="194">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="195">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="196">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="197">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="198">
+      <VillageName>????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="199">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="202">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="203">
+      <VillageName>???????? ??.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="204">
+      <VillageName>??? ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="205">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="210">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="226">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="227">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="229">
+      <VillageName>???????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="230">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="231">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="232">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="237">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="255">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="256">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="262">
+      <VillageName>?.???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="288">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="291">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="292">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="293">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="294">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="295">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="296">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="336">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="340">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="346">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="347">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="349">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="351">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="378">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="390">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="406">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="407">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="416">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="421">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="423">
+      <VillageName>????? (??? ?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="424">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="425">
+      <VillageName>?????? ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="429">
+      <VillageName>?-??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="435">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="437">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="438">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="439">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="440">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="490">
+      <VillageName>???????? ??.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="491">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="492">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="493">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="494">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="495">
+      <VillageName>????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="496">
+      <VillageName>?????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="497">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="538">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="551">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="623">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="624">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="628">
+      <VillageName>???? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="629">
+      <VillageName>??????? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="630">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="631">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="636">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="637">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="638">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="639">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="641">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="644">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="645">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="646">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="647">
+      <VillageName>?????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="648">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="649">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="650">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="651">
+      <VillageName>??????? ???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="652">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="653">
+      <VillageName>???? ????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="654">
+      <VillageName>????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="655">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="656">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="657">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="658">
+      <VillageName>???? (???? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="660">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="661">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="663">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="664">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="665">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="666">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="667">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="668">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="669">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="670">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="671">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="672">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="673">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="677">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="678">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="679">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="680">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="681">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="702">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="703">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="704">
+      <VillageName>?????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="705">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="706">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="708">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="709">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="710">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="711">
+      <VillageName>??????? ??.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="712">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="713">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="718">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="724">
+      <VillageName>?????? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="737">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="740">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="741">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="744">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="745">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="750">
+      <VillageName>??????? (??? ?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="751">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="752">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="791">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="818">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="827">
+      <VillageName>?????????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="835">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="836">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="838">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="839">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="840">
+      <VillageName>?????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="841">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="842">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="843">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="844">
+      <VillageName>????????? ( ???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="845">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="847">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="848">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="849">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="850">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="851">
+      <VillageName>????????? ????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="852">
+      <VillageName>??? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="853">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="854">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="856">
+      <VillageName>?????? ????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="860">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="861">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="862">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="863">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="864">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="866">
+      <VillageName>????????? (?????????? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="867">
+      <VillageName>????? ???? ( ?????????? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="868">
+      <VillageName>???????? (?????? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="869">
+      <VillageName>??????? (?????? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="870">
+      <VillageName>????? (??????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="871">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="872">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="873">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="874">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="875">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="876">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="878">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="879">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="880">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="881">
+      <VillageName>???????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="882">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="889">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="890">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="899">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="900">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="901">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="902">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="903">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="905">
+      <VillageName>???????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="906">
+      <VillageName>??????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="907">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="908">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="909">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="945">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="947">
+      <VillageName>????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="948">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="949">
+      <VillageName>?????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="950">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="951">
+      <VillageName>?????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="952">
+      <VillageName>??????(???????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="953">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="954">
+      <VillageName>??.?&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="955">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="956">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="957">
+      <VillageName>?????????(?)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="958">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="959">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="960">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="961">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="962">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="963">
+      <VillageName>????????(?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="964">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="965">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="967">
+      <VillageName>???? (??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="970">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="971">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="972">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="973">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="974">
+      <VillageName>???? ( ??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="975">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="976">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="977">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="978">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="985">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="986">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="989">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1019">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1025">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1027">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1028">
+      <VillageName>?????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1030">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1031">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1032">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1033">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1034">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1035">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1036">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1037">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1040">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1044">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1047">
+      <VillageName>?????? ??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1048">
+      <VillageName>????? ??&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1049">
+      <VillageName>????? ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1050">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1061">
+      <VillageName>?????? ?&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1072">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1073">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1083">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1084">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1085">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1086">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1087">
+      <VillageName>??????(?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1091">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1092">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1093">
+      <VillageName>????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1094">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1099">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1100">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1101">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1102">
+      <VillageName>??????????(???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1104">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1105">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1116">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1118">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1142">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1163">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1167">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1270">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1271">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1272">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1273">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1290">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1291">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1293">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1294">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1300">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1301">
+      <VillageName>??????(???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1302">
+      <VillageName>??????(???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1303">
+      <VillageName>?????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1304">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1307">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1310">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1322">
+      <VillageName>????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1333">
+      <VillageName>????????? ( ?????????? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1336">
+      <VillageName>?????????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1337">
+      <VillageName>?????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1338">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1346">
+      <VillageName>???????(??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1347">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1349">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1350">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1360">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1361">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1363">
+      <VillageName>??????? (?.???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1364">
+      <VillageName>??? (?.???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1366">
+      <VillageName>??? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1368">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1369">
+      <VillageName>????????? (??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1371">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1376">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1377">
+      <VillageName>?????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1384">
+      <VillageName>???????? (??? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1399">
+      <VillageName>???????? (????? )&#x0;</VillageName>
     </VillageCode>
   </GatCode>
   <GatCode Code="12">
-    <VillageCode Code="154">
-      <VillageName>चव्हाणवाडी</VillageName>
+    <VillageCode Code="3">
+      <VillageName>?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="82">
-      <VillageName>दहीटणे</VillageName>
+    <VillageCode Code="4">
+      <VillageName>?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="84">
-      <VillageName>देवकरवाडी</VillageName>
+    <VillageCode Code="5">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="6">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="7">
+      <VillageName>?.???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="8">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="9">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="103">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="104">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="114">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="116">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="117">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
     <VillageCode Code="121">
-      <VillageName>डुबेवाडी</VillageName>
+      <VillageName>?????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="120">
-      <VillageName>गरदरे वाडी</VillageName>
+    <VillageCode Code="125">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="91">
-      <VillageName>पिलाणवाडी</VillageName>
+    <VillageCode Code="130">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="92">
-      <VillageName>पिपंळगाव</VillageName>
+    <VillageCode Code="140">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="150">
-      <VillageName>शिंदेनगर</VillageName>
+    <VillageCode Code="144">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="784">
-      <VillageName>शितोळे वस्ती</VillageName>
+    <VillageCode Code="213">
+      <VillageName>?????? (????????)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="122">
-      <VillageName>कानडखेल</VillageName>
+    <VillageCode Code="278">
+      <VillageName>?????.&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="135">
-      <VillageName>कोरेगाव फाटा</VillageName>
+    <VillageCode Code="369">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="88">
-      <VillageName>कोरेगाव भिवर</VillageName>
+    <VillageCode Code="542">
+      <VillageName>???????????? (??????)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="123">
-      <VillageName>मगरवाडी</VillageName>
+    <VillageCode Code="789">
+      <VillageName>???????(???????)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="201">
-      <VillageName>मगरवाडी</VillageName>
+    <VillageCode Code="799">
+      <VillageName>?????? ???? ???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="90">
-      <VillageName>टेळेवाडी</VillageName>
+    <VillageCode Code="837">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="86">
-      <VillageName>पानवली</VillageName>
+    <VillageCode Code="1052">
+      <VillageName>????? ???? ????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="80">
-      <VillageName>पाटेठाण</VillageName>
+    <VillageCode Code="1053">
+      <VillageName>??????? ?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="159">
-      <VillageName>राहु</VillageName>
+    <VillageCode Code="1054">
+      <VillageName>???????? (?????)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="81">
-      <VillageName>राहु</VillageName>
-    </VillageCode>
-    <VillageCode Code="85">
-      <VillageName>टाकळी भिमा</VillageName>
-    </VillageCode>
-    <VillageCode Code="89">
-      <VillageName>वाळकी</VillageName>
-    </VillageCode>
-    <VillageCode Code="119">
-      <VillageName>वाळकी संगम</VillageName>
-    </VillageCode>
-    <VillageCode Code="133">
-      <VillageName>वांदारा</VillageName>
-    </VillageCode>
-    <VillageCode Code="134">
-      <VillageName>वांधारे</VillageName>
-    </VillageCode>
-    <VillageCode Code="87">
-      <VillageName>वडगाव बांडे</VillageName>
+    <VillageCode Code="1055">
+      <VillageName>???????? (?????????? )&#x0;</VillageName>
     </VillageCode>
   </GatCode>
-  <GatCode Code="14">
-    <VillageCode Code="41">
-      <VillageName>आलेगाव पागा</VillageName>
+  <GatCode Code="15">
+    <VillageCode Code="216">
+      <VillageName>???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1539">
-      <VillageName>आंबळे</VillageName>
+    <VillageCode Code="302">
+      <VillageName>?????(??)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="136">
-      <VillageName>आंधळगाव</VillageName>
+    <VillageCode Code="343">
+      <VillageName>?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="39">
-      <VillageName>आरणगाव</VillageName>
+    <VillageCode Code="366">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="54">
-      <VillageName>बाभूळसर</VillageName>
+    <VillageCode Code="409">
+      <VillageName>???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="55">
-      <VillageName>इनामगाव</VillageName>
+    <VillageCode Code="442">
+      <VillageName>????????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="52">
-      <VillageName>गणेगाव</VillageName>
+    <VillageCode Code="447">
+      <VillageName>?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="921">
-      <VillageName>गणेगाव दुमला</VillageName>
+    <VillageCode Code="448">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="149">
-      <VillageName>चिंचणी</VillageName>
+    <VillageCode Code="449">
+      <VillageName>????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1034">
-      <VillageName>निमोणे</VillageName>
+    <VillageCode Code="465">
+      <VillageName>???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="203">
-      <VillageName>निर्वी</VillageName>
+    <VillageCode Code="543">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="56">
-      <VillageName>पिपंळसुटी</VillageName>
+    <VillageCode Code="545">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="57">
-      <VillageName>शिरसगाव काटा</VillageName>
+    <VillageCode Code="588">
+      <VillageName>???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="171">
-      <VillageName>कोळगाव डोळस</VillageName>
+    <VillageCode Code="589">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1187">
-      <VillageName>कर्डे</VillageName>
+    <VillageCode Code="591">
+      <VillageName>???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="46">
-      <VillageName>कुरुळी</VillageName>
+    <VillageCode Code="595">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="50">
-      <VillageName>मांडवगण फराटा</VillageName>
+    <VillageCode Code="693">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1175">
-      <VillageName>मुळेवाडी</VillageName>
+    <VillageCode Code="719">
+      <VillageName>????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="45">
-      <VillageName>नागरगाव</VillageName>
+    <VillageCode Code="794">
+      <VillageName>???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="51">
-      <VillageName>नांद्रेमळा</VillageName>
+    <VillageCode Code="795">
+      <VillageName>????.???????? ??.???? ???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="147">
-      <VillageName>न्हावरा</VillageName>
+    <VillageCode Code="1328">
+      <VillageName>????? ?????(???????)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1183">
-      <VillageName>ढवळे वाडी</VillageName>
+    <VillageCode Code="1332">
+      <VillageName>???????? (????)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="42">
-      <VillageName>रांजणगाव सांडस</VillageName>
+  </GatCode>
+  <GatCode Code="16">
+    <VillageCode Code="120">
+      <VillageName>????????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="43">
-      <VillageName>राक्षेवाडी</VillageName>
+    <VillageCode Code="132">
+      <VillageName>???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="40">
-      <VillageName>उरळगाव</VillageName>
+    <VillageCode Code="164">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1072">
-      <VillageName>उरळगाव पठार</VillageName>
+    <VillageCode Code="211">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="49">
-      <VillageName>साद्लगाव</VillageName>
+    <VillageCode Code="214">
+      <VillageName>???? (???????)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="53">
-      <VillageName>तांदळी</VillageName>
+    <VillageCode Code="215">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="47">
-      <VillageName>वडगाव रासाई</VillageName>
+    <VillageCode Code="264">
+      <VillageName>????????(??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="306">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="364">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="415">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="441">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="457">
+      <VillageName>?????????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="460">
+      <VillageName>????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="536">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="539">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="541">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="766">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1106">
+      <VillageName>??????? (??????)&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="19">
+    <VillageCode Code="16">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="157">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="162">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="176">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="177">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="178">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="179">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="219">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="238">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="240">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="241">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="266">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="268">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="283">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="286">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="308">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="311">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="317">
+      <VillageName>?????-??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="326">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="328">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="341">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="365">
+      <VillageName>?????? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="430">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="508">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="516">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="522">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="621">
+      <VillageName>????????? (??????? )&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="726">
+      <VillageName>?????????? (?????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="891">
+      <VillageName>????????-????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="966">
+      <VillageName>??????? (????????)&#x0;</VillageName>
     </VillageCode>
   </GatCode>
   <GatCode Code="20">
-    <VillageCode Code="38">
-      <VillageName>दहिवडी</VillageName>
+    <VillageCode Code="299">
+      <VillageName>???? (???????)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="945">
-      <VillageName>दरेकरवस्ती</VillageName>
+    <VillageCode Code="320">
+      <VillageName>???????? (???????)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="26">
-      <VillageName>दरेकरवाडी</VillageName>
+    <VillageCode Code="475">
+      <VillageName>????????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1105">
-      <VillageName>गुरव मळा (१५)</VillageName>
+    <VillageCode Code="640">
+      <VillageName>?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="23">
-      <VillageName>भिमशेत</VillageName>
+    <VillageCode Code="828">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="27">
-      <VillageName>डिंग्रजवाडी</VillageName>
+    <VillageCode Code="910">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="138">
-      <VillageName>मिरगव्हाण(१)</VillageName>
+    <VillageCode Code="911">
+      <VillageName>???????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="193">
-      <VillageName>निमगाव म्हाळुंगी</VillageName>
+    <VillageCode Code="912">
+      <VillageName>?????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="36">
-      <VillageName>शिवतक्रर म्हाळुंगी</VillageName>
+    <VillageCode Code="913">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="24">
-      <VillageName>विठ्ठलवाडी</VillageName>
+    <VillageCode Code="914">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="915">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="916">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="917">
+      <VillageName>??????? (??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="918">
+      <VillageName>?????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="919">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="920">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="921">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="922">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="923">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="924">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="925">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="926">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="927">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="928">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="929">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="934">
+      <VillageName>????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="935">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="936">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="937">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="938">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="939">
+      <VillageName>????????????(??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="940">
+      <VillageName>???????(??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="941">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="942">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="969">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="980">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="981">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1008">
+      <VillageName>????????(??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1016">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1149">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1150">
+      <VillageName>???????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1173">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1182">
+      <VillageName>?????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1195">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1210">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1214">
+      <VillageName>????? (??????) ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1217">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1224">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1226">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1229">
+      <VillageName>?????? (??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1233">
+      <VillageName>????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1242">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1260">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1312">
+      <VillageName>???????(??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1315">
+      <VillageName>???????? (??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1321">
+      <VillageName>??????? ???????(??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1326">
+      <VillageName>???????(??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1340">
+      <VillageName>??????(??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1341">
+      <VillageName>??????? (??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1348">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1351">
+      <VillageName>??????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1362">
+      <VillageName>?????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1375">
+      <VillageName>?????(??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1383">
+      <VillageName>?????????(??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1387">
+      <VillageName>???(??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1388">
+      <VillageName>???????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1390">
+      <VillageName>????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1392">
+      <VillageName>????????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1394">
+      <VillageName>??????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1395">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1396">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1397">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1398">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1400">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="21">
+    <VillageCode Code="160">
+      <VillageName>?????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="248">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="339">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="348">
+      <VillageName>????? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="350">
+      <VillageName>????? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="355">
+      <VillageName>????? (??????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="368">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="393">
+      <VillageName>???????? ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="400">
+      <VillageName>????????? (???)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="453">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="481">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="524">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="525">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="526">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="527">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="549">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="569">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="570">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="571">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="573">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="574">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="575">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="576">
+      <VillageName>????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="577">
+      <VillageName>????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="580">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="597">
+      <VillageName>???????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="607">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="608">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="615">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="716">
+      <VillageName>?????????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="946">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="982">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="987">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="988">
+      <VillageName>??????? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="990">
+      <VillageName>???? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="991">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="992">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="993">
+      <VillageName>???????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="996">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="997">
+      <VillageName>?????? ?.??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="998">
+      <VillageName>??????? ????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="999">
+      <VillageName>???????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1000">
+      <VillageName>???????? ??????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1001">
+      <VillageName>?????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1003">
+      <VillageName>????? (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1005">
+      <VillageName>??????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1006">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1007">
+      <VillageName>??????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1010">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1011">
+      <VillageName>???????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1012">
+      <VillageName>????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1013">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1014">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1015">
+      <VillageName>??????? ????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1018">
+      <VillageName>???? - ????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1020">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1021">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1022">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1023">
+      <VillageName>???????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1024">
+      <VillageName>???? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1076">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1077">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1079">
+      <VillageName>??????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1110">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1121">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1122">
+      <VillageName>?????-??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1126">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1128">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1129">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1130">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1131">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1140">
+      <VillageName>?????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1141">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1146">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1154">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1157">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1158">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1159">
+      <VillageName>?????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1160">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1161">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1164">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1165">
+      <VillageName>?????(??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1166">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1170">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1171">
+      <VillageName>????? (?)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1172">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1174">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1175">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1177">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1178">
+      <VillageName>?????????(????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1179">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1181">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1183">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1184">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1185">
+      <VillageName>????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1186">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1187">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1188">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1189">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1190">
+      <VillageName>???????(??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1191">
+      <VillageName>???????(?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1192">
+      <VillageName>?????(??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1193">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1194">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1198">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1199">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1200">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1201">
+      <VillageName>?????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1202">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1203">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1216">
+      <VillageName>???????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1218">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1223">
+      <VillageName>???????? (??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1228">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1232">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1234">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1236">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1238">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1240">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1245">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1246">
+      <VillageName>???? 8 ????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1249">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1250">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1252">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1254">
+      <VillageName>?????-???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1255">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1256">
+      <VillageName>??? ?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1258">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1265">
+      <VillageName>????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1317">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1319">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1320">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1324">
+      <VillageName>??? ?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1330">
+      <VillageName>??? ????????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1335">
+      <VillageName>?????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1345">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1352">
+      <VillageName>????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1353">
+      <VillageName>????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1354">
+      <VillageName>?????(???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1356">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1357">
+      <VillageName>???????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1358">
+      <VillageName>???????? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1359">
+      <VillageName>???? (????????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1365">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
     </VillageCode>
     <VillageCode Code="1379">
-      <VillageName>कासारी</VillageName>
+      <VillageName>????????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1532">
-      <VillageName>करजावणे</VillageName>
+    <VillageCode Code="1380">
+      <VillageName>????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1045">
-      <VillageName>न्हावरारोड</VillageName>
+    <VillageCode Code="1381">
+      <VillageName>??????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="37">
-      <VillageName>पारोडी</VillageName>
+    <VillageCode Code="1382">
+      <VillageName>????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="1133">
-      <VillageName>रांजणगाव गणपती</VillageName>
+    <VillageCode Code="1385">
+      <VillageName>?????(????????)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="33">
-      <VillageName>सणसवाडी</VillageName>
+    <VillageCode Code="1403">
+      <VillageName>???????? (????????)&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="35">
-      <VillageName>टाकळी भिमा</VillageName>
+  </GatCode>
+  <GatCode Code="23">
+    <VillageCode Code="994">
+      <VillageName>????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="22">
-      <VillageName>तळेगाव ढमढेरे</VillageName>
+    <VillageCode Code="1109">
+      <VillageName>????????&#x0;&#x0;</VillageName>
     </VillageCode>
-    <VillageCode Code="25">
-      <VillageName>धानोरे</VillageName>
+    <VillageCode Code="1111">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1112">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1113">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1120">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1123">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1124">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1125">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1127">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1152">
+      <VillageName>?????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1176">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1196">
+      <VillageName>???? - ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1197">
+      <VillageName>??????? - ???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1204">
+      <VillageName>?????(?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1207">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1208">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1212">
+      <VillageName>??????(??)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1213">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1219">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1221">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1235">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1237">
+      <VillageName>????????(?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1239">
+      <VillageName>???????? (?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1241">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1243">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1244">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1247">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1248">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1251">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1253">
+      <VillageName>??????? ??&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1259">
+      <VillageName>???????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1261">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1262">
+      <VillageName>?????-?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1263">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1264">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1325">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1329">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1367">
+      <VillageName>????(?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1372">
+      <VillageName>?????????(?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1373">
+      <VillageName>???????(?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1374">
+      <VillageName>?????????(?????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1393">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="24">
+    <VillageCode Code="212">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="307">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="316">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="324">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="380">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="398">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="418">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="500">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="502">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="503">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="504">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="506">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="507">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="509">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="510">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="511">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="512">
+      <VillageName>?????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="513">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="515">
+      <VillageName>???&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="529">
+      <VillageName>??????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="572">
+      <VillageName>??????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="590">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="632">
+      <VillageName>???????????????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="633">
+      <VillageName>?????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="635">
+      <VillageName>????????.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="798">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="894">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="933">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="979">
+      <VillageName>????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="983">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="995">
+      <VillageName>????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1002">
+      <VillageName>??? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1009">
+      <VillageName>???????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1056">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1075">
+      <VillageName>????????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1147">
+      <VillageName>???????? ??.&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1151">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1162">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1168">
+      <VillageName>????????? ??, (???????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1206">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1209">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1220">
+      <VillageName>?????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1222">
+      <VillageName>??????(?.????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1257">
+      <VillageName>???????? ??&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1334">
+      <VillageName>???????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1339">
+      <VillageName>????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1370">
+      <VillageName>?????????&#x0;&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1386">
+      <VillageName>?????? (????)&#x0;</VillageName>
+    </VillageCode>
+    <VillageCode Code="1389">
+      <VillageName>???(????-?????)????&#x0;&#x0;</VillageName>
     </VillageCode>
   </GatCode>
 </VillageList>
