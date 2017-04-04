@@ -1,0 +1,2451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bank>
+  <BankCode Code="1">
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchCode Code="1">
+      <BranchName>बँक आँफ इंडिया-आटपाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="2">
+      <BranchName>बँक ऑफ इंडिया- झरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="3">
+      <BranchName>बँक ऑफ इंडिया - पिलीव</BranchName>
+    </BranchCode>
+    <BranchCode Code="7">
+      <BranchName>खरसुंडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="9">
+      <BranchName>रेडणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="33">
+      <BranchName>बँक ऑफ इंडिया - खरसुंडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="46">
+      <BranchName>बँँक आँँफ इंडिया-सोनके</BranchName>
+    </BranchCode>
+    <BranchCode Code="50">
+      <BranchName>बँक ऑफ इंडिया - घाटकोपर</BranchName>
+    </BranchCode>
+    <BranchCode Code="56">
+      <BranchName>बँँक ऑफ इंडिया-मालाड</BranchName>
+    </BranchCode>
+    <BranchCode Code="58">
+      <BranchName>बँक ऑफ इंडिया-सहकारनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="61">
+      <BranchName>बँक ऑफ इंडिया - चेंबूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="70">
+      <BranchName>बँक ऑफ इंडिया - हातीद</BranchName>
+    </BranchCode>
+    <BranchCode Code="71">
+      <BranchName>बँक ऑफ इंडिया - पंढरपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="81">
+      <BranchName>बँक ऑफ इंडया - राणंद</BranchName>
+    </BranchCode>
+    <BranchCode Code="82">
+      <BranchName>बँक ऑफ इंडया - सांगोला</BranchName>
+    </BranchCode>
+    <BranchCode Code="90">
+      <BranchName>बँँक आँँफ इंडिया - इंदापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="93">
+      <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    </BranchCode>
+    <BranchCode Code="94">
+      <BranchName>बँक ऑफ इंडिया - अकलूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="98">
+      <BranchName>बँक ऑफ इंडिया - नातेपुते</BranchName>
+    </BranchCode>
+    <BranchCode Code="110">
+      <BranchName>बँक ऑफ इंडिया - कव्हे</BranchName>
+    </BranchCode>
+    <BranchCode Code="111">
+      <BranchName>बँक ऑफ इंडिया - माळेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="112">
+      <BranchName>बँक ऑफ इंडिया - कोळेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="113">
+      <BranchName>बँक ऑफ इंडिया - जत</BranchName>
+    </BranchCode>
+    <BranchCode Code="114">
+      <BranchName>बँक ऑफ इंडिया - जडार</BranchName>
+    </BranchCode>
+    <BranchCode Code="121">
+      <BranchName>बँक ऑफ इंडिया - खर्डी</BranchName>
+    </BranchCode>
+    <BranchCode Code="122">
+      <BranchName>बँक ऑफ इंडिया - रेडणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="124">
+      <BranchName>बँक ऑफ इंडिया - मंगळवेढा</BranchName>
+    </BranchCode>
+    <BranchCode Code="125">
+      <BranchName>बँक ऑफ इंडिया - टेंभुर्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="126">
+      <BranchName>बँक ऑफ इंडिया - दहिवडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="134">
+      <BranchName>बँक ऑफ इंडिया - वडूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="135">
+      <BranchName>बँक ऑफ इंडिया - मायणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="147">
+      <BranchName>बँक ऑफ इंडिया - अकलूज (माळेवाडी)</BranchName>
+    </BranchCode>
+    <BranchCode Code="152">
+      <BranchName>ब्ंंंंंंंंंॉक ऑफ इंडिया - भिमानगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="160">
+      <BranchName>बँक ऑफ इंडिया - गुरसाळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="161">
+      <BranchName>बँक ऑफ इंडिया - कुर्डूवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="174">
+      <BranchName>बॅक ऑफ इंडिया -वालचंदनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="175">
+      <BranchName>बँक ऑफ इंडिया - पुणे (वानवडी)</BranchName>
+    </BranchCode>
+    <BranchCode Code="179">
+      <BranchName>बँक ऑफ इंडिया - कोथरुड (गुजरात कॉलनी)</BranchName>
+    </BranchCode>
+    <BranchCode Code="180">
+      <BranchName>बँक ऑफ इंडिया - खांदा कॉलनी (न्यू पनवेल)</BranchName>
+    </BranchCode>
+    <BranchCode Code="183">
+      <BranchName>बँक ऑफ इंडिया - पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="186">
+      <BranchName>बँक ऑफ इंडिया - काटोळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="193">
+      <BranchName>बॅक ऑफ इंडिया - एरोली शाखा न्यु मुंबई</BranchName>
+    </BranchCode>
+    <BranchCode Code="196">
+      <BranchName>बँक ऑफ इंडिया -लक्ष्मी दहीवडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="199">
+      <BranchName>बँक ऑफ इंडिया - टिळक रोड पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="209">
+      <BranchName>बॅंक ऑफ इंडिया स्वारगेट पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="222">
+      <BranchName>बँक ऑफ इंडिया - नांदेड</BranchName>
+    </BranchCode>
+    <BranchCode Code="223">
+      <BranchName>बँक ऑफ इंडिया - तेलगांव (बीड)</BranchName>
+    </BranchCode>
+    <BranchCode Code="226">
+      <BranchName>बँक ऑफ इंडिया - धारुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="235">
+      <BranchName>बॅंक ऑफ इंडीया  विटा</BranchName>
+    </BranchCode>
+    <BranchCode Code="240">
+      <BranchName>बॅंक ऑफ इं़डीया - अहमदनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="243">
+      <BranchName>बॅंक ऑफ इं़डीया - सांगली</BranchName>
+    </BranchCode>
+    <BranchCode Code="244">
+      <BranchName>बॅंक ऑफ इं़डीया - पोर्ले तर्फ ठाणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="254">
+      <BranchName>बॅक ऑफ इंडिया  -  फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="255">
+      <BranchName>बॅक ऑफ इंडियाृ  -  माधवनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="262">
+      <BranchName>बँक ऑफ इंडिया - कलेढोण</BranchName>
+    </BranchCode>
+    <BranchCode Code="275">
+      <BranchName>बँक ऑफ इंडिया - बारामती</BranchName>
+    </BranchCode>
+    <BranchCode Code="283">
+      <BranchName>बँक ऑफ इंडिया - खानापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="284">
+      <BranchName>बँक ऑफ इंडिया - पिंपरी (पुणे)</BranchName>
+    </BranchCode>
+    <BranchCode Code="288">
+      <BranchName>बँक ऑफ इंडिया - सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="289">
+      <BranchName>बँक ऑफ इंडिया - कोरेगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="290">
+      <BranchName>बँक ऑफ इंडिया - बुध</BranchName>
+    </BranchCode>
+    <BranchCode Code="294">
+      <BranchName>बँक ऑफ इंडिया - पाषाण रोड (पुणे)</BranchName>
+    </BranchCode>
+    <BranchCode Code="297">
+      <BranchName>बॅंक ऑफ इंडीया - करमाळा</BranchName>
+    </BranchCode>
+    <BranchCode Code="299">
+      <BranchName>बँक ऑफ इंडिया - मुलुड (वेस्ट) मुंबई</BranchName>
+    </BranchCode>
+    <BranchCode Code="313">
+      <BranchName>बँक ऑफ इंडिया - अलिबाग</BranchName>
+    </BranchCode>
+    <BranchCode Code="314">
+      <BranchName>बँक ऑफ इंडिया - आसु</BranchName>
+    </BranchCode>
+    <BranchCode Code="315">
+      <BranchName>बँक ऑफ इंडिया  कासेगाव (वाळवा)</BranchName>
+    </BranchCode>
+    <BranchCode Code="319">
+      <BranchName>बॅंक ऑफ इंडिया - मरवडे</BranchName>
+    </BranchCode>
+    <BranchCode Code="321">
+      <BranchName>बॅंक ऑफ इंडिया - जालना</BranchName>
+    </BranchCode>
+    <BranchCode Code="322">
+      <BranchName>बँक ऑफ इंडिया - मोहोळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="343">
+      <BranchName>बँक ऑफ इंडिया - सानपाडा नवी मुंबई</BranchName>
+    </BranchCode>
+    <BranchCode Code="359">
+      <BranchName>बँक ऑफ इंडिया - कमोठे, नवी मुंबई</BranchName>
+    </BranchCode>
+    <BranchCode Code="362">
+      <BranchName>बँक ऑफ इंडिया - माढा</BranchName>
+    </BranchCode>
+    <BranchCode Code="363">
+      <BranchName>बँक ऑफ इंडिया - बार्शी</BranchName>
+    </BranchCode>
+    <BranchCode Code="366">
+      <BranchName>बँक ऑफ इंडिया - शाळगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="386">
+      <BranchName>बँक ऑफ इंडिया  नेरुळ, नवी मुंबई</BranchName>
+    </BranchCode>
+    <BranchCode Code="387">
+      <BranchName>बँक ऑफ इंडिया  सहकार नगर सी आणि पी, पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="390">
+      <BranchName>बँक ऑफ इंडिया - परेल</BranchName>
+    </BranchCode>
+    <BranchCode Code="420">
+      <BranchName>बँक ऑफ इंडिया - वसई</BranchName>
+    </BranchCode>
+    <BranchCode Code="421">
+      <BranchName>बँक ऑफ इंडिया - रत्नागिरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="423">
+      <BranchName>बँक ऑफ इंडिया - महुद बुद्रूक</BranchName>
+    </BranchCode>
+    <BranchCode Code="433">
+      <BranchName>साडे</BranchName>
+    </BranchCode>
+    <BranchCode Code="444">
+      <BranchName>पंधार</BranchName>
+    </BranchCode>
+    <BranchCode Code="482">
+      <BranchName>बॅंक ऑफ इंडिया- मिरज 02332222023/24</BranchName>
+    </BranchCode>
+    <BranchCode Code="492">
+      <BranchName>बॅंक ऑफ इँडिया- बांद्र (इ.)022-26429518, 26510097</BranchName>
+    </BranchCode>
+    <BranchCode Code="493">
+      <BranchName>बॅंक ऑफ इंडिया - कवठेमहंकाळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="494">
+      <BranchName>बॅंक ऑफ इंडिया - पुसेसावळी</BranchName>
+    </BranchCode>
+    <BranchCode Code="495">
+      <BranchName>बॅंक ऑफ इँडिया - पेड</BranchName>
+    </BranchCode>
+    <BranchCode Code="504">
+      <BranchName>बॅंक ऑफ इंडिया -हडपसर</BranchName>
+    </BranchCode>
+    <BranchCode Code="505">
+      <BranchName>बॅंक ऑफ इंडिया - कडेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="506">
+      <BranchName>बॅंक ऑफ इंडिया - निमसोड</BranchName>
+    </BranchCode>
+    <BranchCode Code="569">
+      <BranchName>बदलापूर (इ)</BranchName>
+    </BranchCode>
+    <BranchCode Code="570">
+      <BranchName>तासगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="571">
+      <BranchName>डिसकळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="600">
+      <BranchName>श्रीगोंदा</BranchName>
+    </BranchCode>
+    <BranchCode Code="621">
+      <BranchName>अजनाळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="657">
+      <BranchName>तासगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="680">
+      <BranchName>तुर्भी</BranchName>
+    </BranchCode>
+    <BranchCode Code="688">
+      <BranchName>खनापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="698">
+      <BranchName>वडूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="717">
+      <BranchName>गंगापुर रोड</BranchName>
+    </BranchCode>
+    <BranchCode Code="718">
+      <BranchName>गुरुवारपेठ सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="731">
+      <BranchName>बॅंक ऑफ इंडिया - आनंदवाडी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="2">
+    <BankName>सांगली जि.म.स.बँक लि.</BankName>
+    <BranchCode Code="39">
+      <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
+    </BranchCode>
+    <BranchCode Code="74">
+      <BranchName>सांगली जि.म.स.बँक लि.- राजेवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="241">
+      <BranchName>सांगली जि.म.स.बॅंक  - कारंदवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="242">
+      <BranchName>सांगली जि.म.स.बॅंक  - आष्टा</BranchName>
+    </BranchCode>
+    <BranchCode Code="251">
+      <BranchName>सांगली जि.म.स.बॅंक  - नांद्रे</BranchName>
+    </BranchCode>
+    <BranchCode Code="257">
+      <BranchName>सांगली जि.म.सह.बँक लि - वसगडे (ता.पलूस)</BranchName>
+    </BranchCode>
+    <BranchCode Code="258">
+      <BranchName>सांगली जि.म.सह.बँक लि. - मंगरुळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="270">
+      <BranchName>सांगली जि.म.सह.बँक - निंबवडे</BranchName>
+    </BranchCode>
+    <BranchCode Code="368">
+      <BranchName>सांगली जि.म.स.बँक.लि - आटपाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="371">
+      <BranchName>सांगली जि.म.स.बँक लि - करगणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="379">
+      <BranchName>सांगली जि.म.स.बँक - रांजणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="394">
+      <BranchName>सांगली जि.म.स.बँक लि - शेटफळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="416">
+      <BranchName>सांगली जि.म.स.बॅंक लि. - आवळाई</BranchName>
+    </BranchCode>
+    <BranchCode Code="464">
+      <BranchName>सागली जि.म.स बॅंक- खरसुंडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="473">
+      <BranchName>सांगली जि.म.स. झरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="476">
+      <BranchName>सांगली जि.म.स बॅंक - घानंद</BranchName>
+    </BranchCode>
+    <BranchCode Code="489">
+      <BranchName>सांगली  जि. म. स लि. गोमेवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="520">
+      <BranchName>सांगली जि.म. स बॅंक लि. मार्केट यार्ड विटा</BranchName>
+    </BranchCode>
+    <BranchCode Code="521">
+      <BranchName>सांगली जि.म. स बॅंक लि. घरणीकी</BranchName>
+    </BranchCode>
+    <BranchCode Code="522">
+      <BranchName>सांगली जि.म. स बॅंक लि. वांगी</BranchName>
+    </BranchCode>
+    <BranchCode Code="590">
+      <BranchName>आळते</BranchName>
+    </BranchCode>
+    <BranchCode Code="591">
+      <BranchName>खेराडे वांगी</BranchName>
+    </BranchCode>
+    <BranchCode Code="592">
+      <BranchName>नेवरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="593">
+      <BranchName>बोरगांव तासगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="594">
+      <BranchName>मंग्ळुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="595">
+      <BranchName>मार्केटयार्ड तासगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="636">
+      <BranchName>नागेवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="637">
+      <BranchName>साळशिंगे</BranchName>
+    </BranchCode>
+    <BranchCode Code="660">
+      <BranchName>मोराळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="681">
+      <BranchName>मार्केटयार्ड आटपाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="689">
+      <BranchName>भाळवणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="690">
+      <BranchName>विटा</BranchName>
+    </BranchCode>
+    <BranchCode Code="699">
+      <BranchName>पेड</BranchName>
+    </BranchCode>
+    <BranchCode Code="740">
+      <BranchName>विसापूर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="3">
+    <BankName>बँक ऑफ महाराष्ट्र</BankName>
+    <BranchCode Code="23">
+      <BranchName>बँक ऑफ महाराष्ट्र, गोंदवले बुद्रूक</BranchName>
+    </BranchCode>
+    <BranchCode Code="29">
+      <BranchName>बँक ऑफ महाराष्ट्र, आटपाडी.</BranchName>
+    </BranchCode>
+    <BranchCode Code="48">
+      <BranchName>बँक ऑफ महाराष्ट्र- देवनार कॉलनी, चेंबूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="67">
+      <BranchName>बँक ऑफ महाराष्ट्र- धनकवडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="68">
+      <BranchName>बँक ऑफ महाराष्ट्र - घाटकोपर</BranchName>
+    </BranchCode>
+    <BranchCode Code="84">
+      <BranchName>बँक ऑफ महाराष्ट्र - महूद</BranchName>
+    </BranchCode>
+    <BranchCode Code="89">
+      <BranchName>(ड्डद्वद्रथ्त्ड़ठ्ठद्यड्ढ) बॅक ऑफ महाराट्र - महुद बु</BranchName>
+    </BranchCode>
+    <BranchCode Code="116">
+      <BranchName>बँक ऑफ महाराष्ट्र - मांजर्डे</BranchName>
+    </BranchCode>
+    <BranchCode Code="117">
+      <BranchName>बँक ऑफ महाराष्ट्र - आष्टा</BranchName>
+    </BranchCode>
+    <BranchCode Code="119">
+      <BranchName>बॅक ऑफ महाराष्ट्र- श्रीपुर-बोरगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="120">
+      <BranchName>बँक ऑफ महाराष्ट्र - पंढरपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="123">
+      <BranchName>बँक ऑफ महाराष्ट्र - म्हसवड</BranchName>
+    </BranchCode>
+    <BranchCode Code="133">
+      <BranchName>बँक ऑफ महाराष्ट्र - बावडा</BranchName>
+    </BranchCode>
+    <BranchCode Code="144">
+      <BranchName>बँक ऑफ महाराष्ट्र - सांगोला</BranchName>
+    </BranchCode>
+    <BranchCode Code="148">
+      <BranchName>बंॅक ऑफ महाराष्ट्र -संसर(भवानी नगर)</BranchName>
+    </BranchCode>
+    <BranchCode Code="149">
+      <BranchName>बंॅक ऑफ महाराष्ट्र -सोलापुर स्टेशन</BranchName>
+    </BranchCode>
+    <BranchCode Code="162">
+      <BranchName>बँक ऑफ महाराष्ट़्‌ - अकलुज</BranchName>
+    </BranchCode>
+    <BranchCode Code="169">
+      <BranchName>बॅक ऑफ महाराष्ट्र -इंदापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="171">
+      <BranchName>बॅक ऑफ महाराष्ट्र - तळेगांव दाभाडे (पुणे)</BranchName>
+    </BranchCode>
+    <BranchCode Code="187">
+      <BranchName>बँक ऑफ महाराष्ट्र - टाकळी सिकंदर</BranchName>
+    </BranchCode>
+    <BranchCode Code="192">
+      <BranchName>बॅक ऑफ महाराष्ट्र - पवईनाका सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="197">
+      <BranchName>बॅंक ऑफ महाराष्ट्र - शिंगणापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="218">
+      <BranchName>बँक ऑफ महाराष्ट्र - निमगांव (माढा)</BranchName>
+    </BranchCode>
+    <BranchCode Code="227">
+      <BranchName>बॅंक ऑफ महाराट्र-अंबड</BranchName>
+    </BranchCode>
+    <BranchCode Code="228">
+      <BranchName>बॅंक ऑफ महाराट्र - घनसांगवी</BranchName>
+    </BranchCode>
+    <BranchCode Code="237">
+      <BranchName>बॅंक ऑफ महाराष्ट्र -नांदरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="239">
+      <BranchName>बॅँक ऑफ महाराष्ट्र  - ब्रम्हपुरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="250">
+      <BranchName>बॅंक ऑफ महाराष्टृ  -  वसगडे</BranchName>
+    </BranchCode>
+    <BranchCode Code="253">
+      <BranchName>बॅक ऑफ महाराष्टृ  - फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="256">
+      <BranchName>बँक ऑफ महाराष्ट्र - हरभटरोड सांगली</BranchName>
+    </BranchCode>
+    <BranchCode Code="274">
+      <BranchName>बॅंक ऑफ महाराष्ट्र  -  आकूर्डी</BranchName>
+    </BranchCode>
+    <BranchCode Code="278">
+      <BranchName>बँक ऑफ महाराष्ट्र - कोळकी (फलटण)</BranchName>
+    </BranchCode>
+    <BranchCode Code="281">
+      <BranchName>बँक ऑफ महाराष्ट्र - चिमनगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="292">
+      <BranchName>बँक ऑफ महाराष्ट्र - माळशिरस</BranchName>
+    </BranchCode>
+    <BranchCode Code="298">
+      <BranchName>बँक ऑफ महाराष्ट्र - जत (मंगळवार पेठ)</BranchName>
+    </BranchCode>
+    <BranchCode Code="300">
+      <BranchName>बँक ऑफ महाराष्ट्र - लासुर्णे</BranchName>
+    </BranchCode>
+    <BranchCode Code="301">
+      <BranchName>बँक ऑफ महाराष्ट्र - कोरेगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="302">
+      <BranchName>बँक ऑफ महाराष्ट्र - वाठार स्टेशन सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="307">
+      <BranchName>बँक ऑफ महाराष्ट्र  निरा (पुरंदर)</BranchName>
+    </BranchCode>
+    <BranchCode Code="308">
+      <BranchName>बँक ऑफ महाराष्ट्र - पुसेगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="326">
+      <BranchName>बँक ऑफ महाराष्ट्र - रेल्वे स्टेशन बदलापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="332">
+      <BranchName>बँक ऑफ महाराष्ट्र - वडुज</BranchName>
+    </BranchCode>
+    <BranchCode Code="335">
+      <BranchName>बँक ऑफ महाराष्ट्र  न्यु पनवेल</BranchName>
+    </BranchCode>
+    <BranchCode Code="350">
+      <BranchName>बँक ऑफ महाराष्ट्र - हुपरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="354">
+      <BranchName>बँक ऑफ महाराष्ट्र - कोपरखैराने (नवी मुंबई)</BranchName>
+    </BranchCode>
+    <BranchCode Code="364">
+      <BranchName>बँक ऑफ महाराष्ट्र - वरकुटे-मलवडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="369">
+      <BranchName>बँक ऑफ महाराष्ट्र - विटा</BranchName>
+    </BranchCode>
+    <BranchCode Code="376">
+      <BranchName>बँक ऑफ महाराष्ट्र - दहिवडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="377">
+      <BranchName>बँक ऑफ महाराष्ट्र - गणेशनगर पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="385">
+      <BranchName>बँक आँफ महाराष्ट्र - शिरभावी</BranchName>
+    </BranchCode>
+    <BranchCode Code="389">
+      <BranchName>बँक ऑफ महाराष्ट्र - महूद बु.</BranchName>
+    </BranchCode>
+    <BranchCode Code="395">
+      <BranchName>बँक ऑफ महाराष्ट्र - मोहळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="424">
+      <BranchName>बॅंक ऑफ महाराष्ट्र - मिरजगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="427">
+      <BranchName>बॅंक ऑफ महाराष्ट्र - बार्शी</BranchName>
+    </BranchCode>
+    <BranchCode Code="431">
+      <BranchName>राजंणगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="436">
+      <BranchName>बॅंक ऑफ महाराष्ट्र - जामखेड</BranchName>
+    </BranchCode>
+    <BranchCode Code="438">
+      <BranchName>बॅंक ऑफ महाराष्ट्र - सुस्ते</BranchName>
+    </BranchCode>
+    <BranchCode Code="468">
+      <BranchName>बॅंक ऑफ महाष्ट्र - नेलकरंजी</BranchName>
+    </BranchCode>
+    <BranchCode Code="469">
+      <BranchName>बॅंक ऑफ महाराष्ट्र - जेजुरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="496">
+      <BranchName>बॅंक ऑफ महाराष्ट्र - चळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="497">
+      <BranchName>बॅंक ऑफ महाराष्ट्र - टेंभुर्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="498">
+      <BranchName>बॅंक ऑफ महाराष्ट्रा - निमगांव केतकी</BranchName>
+    </BranchCode>
+    <BranchCode Code="507">
+      <BranchName>बॅंक ऑफ महाराष्ट्रा - कडेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="508">
+      <BranchName>बॅंक ऑफ महाराष्ट्र -विटा</BranchName>
+    </BranchCode>
+    <BranchCode Code="572">
+      <BranchName>पिंपवडे बु.</BranchName>
+    </BranchCode>
+    <BranchCode Code="573">
+      <BranchName>फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="574">
+      <BranchName>पेटकिनई</BranchName>
+    </BranchCode>
+    <BranchCode Code="575">
+      <BranchName>नांद्रे</BranchName>
+    </BranchCode>
+    <BranchCode Code="576">
+      <BranchName>खटाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="577">
+      <BranchName>पिंपोडे</BranchName>
+    </BranchCode>
+    <BranchCode Code="578">
+      <BranchName>नसरापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="579">
+      <BranchName>वडूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="580">
+      <BranchName>औंध</BranchName>
+    </BranchCode>
+    <BranchCode Code="613">
+      <BranchName>यळंबघाट</BranchName>
+    </BranchCode>
+    <BranchCode Code="629">
+      <BranchName>पुसेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="634">
+      <BranchName>वाठारस्टेशन</BranchName>
+    </BranchCode>
+    <BranchCode Code="643">
+      <BranchName>लोणंद</BranchName>
+    </BranchCode>
+    <BranchCode Code="649">
+      <BranchName>कोरेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="659">
+      <BranchName>शिवाजीनगर पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="667">
+      <BranchName>लिंब</BranchName>
+    </BranchCode>
+    <BranchCode Code="668">
+      <BranchName>बारामती</BranchName>
+    </BranchCode>
+    <BranchCode Code="675">
+      <BranchName>मारतळा</BranchName>
+    </BranchCode>
+    <BranchCode Code="694">
+      <BranchName>तासगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="697">
+      <BranchName>सातारा पवईनाका</BranchName>
+    </BranchCode>
+    <BranchCode Code="702">
+      <BranchName>पाटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="704">
+      <BranchName>माका</BranchName>
+    </BranchCode>
+    <BranchCode Code="708">
+      <BranchName>पुणे हाय.टेक ऍ़ग्री बॅंक</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="4">
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchCode Code="5">
+      <BranchName>स्टेट बँक ऑफ इंडिया</BranchName>
+    </BranchCode>
+    <BranchCode Code="16">
+      <BranchName>स्टेट बँक ऑफ इंडिया, दहिवडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="17">
+      <BranchName>स्टेट बँक ऑफ इंडिया, म्हसवड</BranchName>
+    </BranchCode>
+    <BranchCode Code="41">
+      <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    </BranchCode>
+    <BranchCode Code="79">
+      <BranchName>स्टेट बँक ऑफ इंडिया - पंढरपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="88">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - इंदापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="95">
+      <BranchName>स्टेट बँक ऑफ इंडिया - सांगोला</BranchName>
+    </BranchCode>
+    <BranchCode Code="96">
+      <BranchName>स्टेट बँक ऑफ इंडिया - नातेपुते</BranchName>
+    </BranchCode>
+    <BranchCode Code="102">
+      <BranchName>स्टेट बँक ऑफ इंडिया - धारुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="103">
+      <BranchName>स्टेट बँक ऑफ इंडिया - वडवाणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="104">
+      <BranchName>स्टेट बँक ऑफ इंडिया - सांगली</BranchName>
+    </BranchCode>
+    <BranchCode Code="127">
+      <BranchName>स्टेट बँक ऑफ इंडिया - मंगळवेढा</BranchName>
+    </BranchCode>
+    <BranchCode Code="128">
+      <BranchName>स्टेट बँक ऑफ इंडिया - टेंभुर्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="129">
+      <BranchName>स्टेट बँक ऑफ इंडिया - जेऊर</BranchName>
+    </BranchCode>
+    <BranchCode Code="137">
+      <BranchName>स्टेट बँक ऑफ इंडिया - वडूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="139">
+      <BranchName>स्टेट बँक ऑफ इंडिया - अकलुज</BranchName>
+    </BranchCode>
+    <BranchCode Code="153">
+      <BranchName>स्टेट ब्ंॉंक ऑफ इंडिया - भांडूप(मुंबई)</BranchName>
+    </BranchCode>
+    <BranchCode Code="154">
+      <BranchName>स्टेट ब्ंॉंक ऑफ इंडिया - बारामती</BranchName>
+    </BranchCode>
+    <BranchCode Code="155">
+      <BranchName>स्टेट ब्ंॉंक ऑफ इंडिया - बिबवेवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="159">
+      <BranchName>स्टेट बंॅक ऑफ इंडिया - कुर्डूवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="185">
+      <BranchName>स्टेट बँक ऑफ इंडिया - सोलापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="190">
+      <BranchName>स्टेट बँक ऑफ इंडिया - कात्रज (पुणे)</BranchName>
+    </BranchCode>
+    <BranchCode Code="198">
+      <BranchName>स्टेट बँक ऑफ इंडिया - कोरेगाव भिमा</BranchName>
+    </BranchCode>
+    <BranchCode Code="203">
+      <BranchName>स्टेट बँक ऑफ इंडिया - कोर्टी</BranchName>
+    </BranchCode>
+    <BranchCode Code="205">
+      <BranchName>स्टेट बँक ऑफ इंडिया - मार्केटयार्ड</BranchName>
+    </BranchCode>
+    <BranchCode Code="210">
+      <BranchName>स्टेट बँक ऑफ इंडिया - सांंगवी (पुणे)</BranchName>
+    </BranchCode>
+    <BranchCode Code="211">
+      <BranchName>स्टेट बँक ऑफ इंडिया - चितळी</BranchName>
+    </BranchCode>
+    <BranchCode Code="214">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया टिळक रोड - पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="216">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - लोणावळा</BranchName>
+    </BranchCode>
+    <BranchCode Code="217">
+      <BranchName>स्टेट बँक ऑफ इंडिया - राजापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="224">
+      <BranchName>स्टेट बँक ऑफ इंडिया - वडवणी (बीड)</BranchName>
+    </BranchCode>
+    <BranchCode Code="225">
+      <BranchName>स्टेट बँक ऑफ इंडिया - मालेगांव (धुळे)</BranchName>
+    </BranchCode>
+    <BranchCode Code="231">
+      <BranchName>स्टेट बॅक ऑफ इंडीया  करकंब</BranchName>
+    </BranchCode>
+    <BranchCode Code="232">
+      <BranchName>स्टेट बॅंक ऑफ इंडीया  विटा (खानापूर)</BranchName>
+    </BranchCode>
+    <BranchCode Code="233">
+      <BranchName>स्टेट बॅंक ऑफ इंडीया  आष्टा</BranchName>
+    </BranchCode>
+    <BranchCode Code="234">
+      <BranchName>स्टेट बॅंक ऑफ इंडीया  भिलवडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="238">
+      <BranchName>स्टेट बॅँक ऑफ इंडीया - बरड</BranchName>
+    </BranchCode>
+    <BranchCode Code="252">
+      <BranchName>स्टेट बॅंक ऑफ इं़डीया - फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="277">
+      <BranchName>स्टेट बँक ऑफ इंडिया - फलटण 452</BranchName>
+    </BranchCode>
+    <BranchCode Code="282">
+      <BranchName>स्टेट बँक ऑफ इंडिया - जत</BranchName>
+    </BranchCode>
+    <BranchCode Code="285">
+      <BranchName>स्टेट बँक ऑफ इंडिया - आटपाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="291">
+      <BranchName>स्टेट बँक ऑफ इंडिया - कोरेगाव (वैभव पार्क)</BranchName>
+    </BranchCode>
+    <BranchCode Code="295">
+      <BranchName>स्टे बँक ऑफ इंडिया - लोणंद</BranchName>
+    </BranchCode>
+    <BranchCode Code="303">
+      <BranchName>स्टेट बँक ऑफ इंडिया - ट्रेझरी सोलापुर शाखा</BranchName>
+    </BranchCode>
+    <BranchCode Code="310">
+      <BranchName>स्टेट बँक ऑफ इंडिया - पुसेगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="311">
+      <BranchName>स्टेट बँक ऑफ इंडिया - मांडवी (मुंबई)</BranchName>
+    </BranchCode>
+    <BranchCode Code="318">
+      <BranchName>स्टेट बँक ऑफ इंडिया  जुना आग्रा रोड, नाशिक</BranchName>
+    </BranchCode>
+    <BranchCode Code="325">
+      <BranchName>स्टेट बँक ऑफ इंडिया  शिवाजीनगर युनिव्हर्सिटी रोड (पुण</BranchName>
+    </BranchCode>
+    <BranchCode Code="348">
+      <BranchName>स्टेट बँक ऑफ इंडिया - कोळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="349">
+      <BranchName>स्टेट बँक ऑफ इंडिया - प्रतापगंज पेठ, सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="360">
+      <BranchName>स्टेट बँक ऑफ इंडिया - विश्रामबाग, सांगली</BranchName>
+    </BranchCode>
+    <BranchCode Code="367">
+      <BranchName>स्टेट बँक ऑफ इंडिया - स्टेशन रोड (सोलापुर)</BranchName>
+    </BranchCode>
+    <BranchCode Code="374">
+      <BranchName>स्टेट बँक ऑफ इंडिया - अंबरनाथ पुर्व (ठाणे)</BranchName>
+    </BranchCode>
+    <BranchCode Code="396">
+      <BranchName>बँक ऑफ इंडिया - बोरवली (पु) मुंबई</BranchName>
+    </BranchCode>
+    <BranchCode Code="419">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - खंडाळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="425">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - कडा ( आष्टी )</BranchName>
+    </BranchCode>
+    <BranchCode Code="432">
+      <BranchName>पाटोदा</BranchName>
+    </BranchCode>
+    <BranchCode Code="457">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - पिरंगुत</BranchName>
+    </BranchCode>
+    <BranchCode Code="458">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - रायचुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="461">
+      <BranchName>स्टेट बॅंक ऑफ इंडीया देवनार(मुबई)</BranchName>
+    </BranchCode>
+    <BranchCode Code="463">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - बार्शी</BranchName>
+    </BranchCode>
+    <BranchCode Code="471">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - शिराळा</BranchName>
+    </BranchCode>
+    <BranchCode Code="472">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - कात्रज</BranchName>
+    </BranchCode>
+    <BranchCode Code="477">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया शहापूर (ठाणे)</BranchName>
+    </BranchCode>
+    <BranchCode Code="483">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया- कंजुर मार्ग मुंबई. इ.</BranchName>
+    </BranchCode>
+    <BranchCode Code="490">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया. जेकग्राम (ठाणे)022-25391724</BranchName>
+    </BranchCode>
+    <BranchCode Code="514">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया -भुइंज</BranchName>
+    </BranchCode>
+    <BranchCode Code="515">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - काटोळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="548">
+      <BranchName>स्टेट बॅंक ऑफ इंडिय कडलास</BranchName>
+    </BranchCode>
+    <BranchCode Code="549">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया कुर्ला वेस्ट</BranchName>
+    </BranchCode>
+    <BranchCode Code="550">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया स्वास्तीक पार्क चेंबुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="551">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया ट्रेझरी ब्रॅंच कराड</BranchName>
+    </BranchCode>
+    <BranchCode Code="552">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - नेवरी 02347- 226004</BranchName>
+    </BranchCode>
+    <BranchCode Code="553">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - औंध</BranchName>
+    </BranchCode>
+    <BranchCode Code="557">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया- हिनगे खुर्द</BranchName>
+    </BranchCode>
+    <BranchCode Code="598">
+      <BranchName>जामखेड</BranchName>
+    </BranchCode>
+    <BranchCode Code="612">
+      <BranchName>परतुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="616">
+      <BranchName>आष्टी</BranchName>
+    </BranchCode>
+    <BranchCode Code="617">
+      <BranchName>फलटण (ए.डी.बी)</BranchName>
+    </BranchCode>
+    <BranchCode Code="631">
+      <BranchName>रहीमतपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="635">
+      <BranchName>स्टेट बॅंक ऑफ इंडीया तासगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="645">
+      <BranchName>औंध</BranchName>
+    </BranchCode>
+    <BranchCode Code="650">
+      <BranchName>वैभवपार्क कोरेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="658">
+      <BranchName>विटा</BranchName>
+    </BranchCode>
+    <BranchCode Code="669">
+      <BranchName>सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="672">
+      <BranchName>तुप्पा</BranchName>
+    </BranchCode>
+    <BranchCode Code="676">
+      <BranchName>वाघोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="679">
+      <BranchName>रहीममतपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="711">
+      <BranchName>वसमत</BranchName>
+    </BranchCode>
+    <BranchCode Code="713">
+      <BranchName>पलूस</BranchName>
+    </BranchCode>
+    <BranchCode Code="715">
+      <BranchName>तासगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="722">
+      <BranchName>स्टेट बॅंक ऑफ इंडिया - गेवराई</BranchName>
+    </BranchCode>
+    <BranchCode Code="724">
+      <BranchName>कोलबा मुंबई</BranchName>
+    </BranchCode>
+    <BranchCode Code="728">
+      <BranchName>कुमठे</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="5">
+    <BankName>आय.सी. आय. सी. आय बँक</BankName>
+    <BranchCode Code="10">
+      <BranchName>आय.सी.आय.सी. बँक - दिघंची</BranchName>
+    </BranchCode>
+    <BranchCode Code="57">
+      <BranchName>आय.सी.आय.सी.आय बँक-एरंडवना</BranchName>
+    </BranchCode>
+    <BranchCode Code="92">
+      <BranchName>आय.सी.आय.सी.ूआय बँक - श्रीपूर (बोरगांव)</BranchName>
+    </BranchCode>
+    <BranchCode Code="97">
+      <BranchName>आय.सी.आय.सी.आय बँक - बरड</BranchName>
+    </BranchCode>
+    <BranchCode Code="105">
+      <BranchName>आय.सी.आय.सी.आय बँक - म्हसवड</BranchName>
+    </BranchCode>
+    <BranchCode Code="106">
+      <BranchName>आय.सी.आय.सी.आय बँक - लवंगी</BranchName>
+    </BranchCode>
+    <BranchCode Code="107">
+      <BranchName>आय.सी.आय.सी.आय बँक - बिड</BranchName>
+    </BranchCode>
+    <BranchCode Code="108">
+      <BranchName>आय.सी.आय.सी.आय बँक - कवठेमहांकाळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="109">
+      <BranchName>आय.सी.आय.सी.आय बँक - फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="150">
+      <BranchName>आय.सी.आय.सी.आय बंॅक - सोलापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="182">
+      <BranchName>आय.सी.आय.सी.आय बँक- कुकुडवाड</BranchName>
+    </BranchCode>
+    <BranchCode Code="189">
+      <BranchName>आय.सी.आय.सी.आय बँक - सिध्देश्वर कुरोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="202">
+      <BranchName>आय.सी.आय.सी.आय बँक - पंढरपुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="212">
+      <BranchName>आय.सी.आय.सी.आय.बँक -अकलुज</BranchName>
+    </BranchCode>
+    <BranchCode Code="230">
+      <BranchName>आय.सी.आय.सी.आय बॅक  प .कुरोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="248">
+      <BranchName>आय सी आय सी आय बॅंक - वसगडे</BranchName>
+    </BranchCode>
+    <BranchCode Code="265">
+      <BranchName>आय.सी.आय.सी.आय बँक - पवारवाडी (फलटण)</BranchName>
+    </BranchCode>
+    <BranchCode Code="269">
+      <BranchName>आय.सी.आय.सी.आय बँक - विश्रामबाग (सांगली)</BranchName>
+    </BranchCode>
+    <BranchCode Code="312">
+      <BranchName>आय.सी.आय.सी.आय - दहिगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="320">
+      <BranchName>आय.सी.आय.सी.आय - नाझरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="334">
+      <BranchName>आय.सी.आय.सी.आय बँक - तांदुळवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="383">
+      <BranchName>आय.सी.आय.सी.आय - वाखरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="391">
+      <BranchName>आय.सी.आय.सी.आय - वडगाव हवेली</BranchName>
+    </BranchCode>
+    <BranchCode Code="393">
+      <BranchName>आय.सी.आय.सी.आय बँक - मगरपट्टा पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="406">
+      <BranchName>आय.सी.आय.सी.आय. बँक - माळशिरस</BranchName>
+    </BranchCode>
+    <BranchCode Code="407">
+      <BranchName>आय.सी.आय.सी.आय. बँक - कुरोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="408">
+      <BranchName>आय.सी.आय.सी.आय.बॅंक - बावडा</BranchName>
+    </BranchCode>
+    <BranchCode Code="447">
+      <BranchName>आय.सी.आय.सी.आय बँक - वलवण</BranchName>
+    </BranchCode>
+    <BranchCode Code="453">
+      <BranchName>आय.सी.आय.सी.आय.बॅंक - राणंद</BranchName>
+    </BranchCode>
+    <BranchCode Code="454">
+      <BranchName>आय.सी.आय.सी.आय.बॅंक - उपरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="467">
+      <BranchName>आय.सी.आय.सी बॅंक - करगणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="485">
+      <BranchName>आय. सी. आय. सी. आय. दहिगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="500">
+      <BranchName>आय . सी. आय . सी . आय - बॅंक जांभुळणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="513">
+      <BranchName>आय . सी. आय. सी . आय बॅंक लि. इंदापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="556">
+      <BranchName>आय. सा. आय.सी. आय बॅंक- दहीवडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="603">
+      <BranchName>रांझणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="605">
+      <BranchName>नातेपुते</BranchName>
+    </BranchCode>
+    <BranchCode Code="622">
+      <BranchName>आय.सी. आय.सी.आय बार्शी</BranchName>
+    </BranchCode>
+    <BranchCode Code="639">
+      <BranchName>पवईनाका (सातारा)</BranchName>
+    </BranchCode>
+    <BranchCode Code="651">
+      <BranchName>वडूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="656">
+      <BranchName>सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="662">
+      <BranchName>बोरगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="674">
+      <BranchName>रमानंदनगर किरलोस्करवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="693">
+      <BranchName>इंदापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="706">
+      <BranchName>पवारवाडी(सातारा)</BranchName>
+    </BranchCode>
+    <BranchCode Code="709">
+      <BranchName>बोरगांव(तासगांव)</BranchName>
+    </BranchCode>
+    <BranchCode Code="729">
+      <BranchName>सांगोले</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="6">
+    <BankName>बँक ऑफ बडौदा</BankName>
+    <BranchCode Code="35">
+      <BranchName>बँक ऑफ बडौदा - नेरुळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="43">
+      <BranchName>बँक ऑफ बडौदा- अकलूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="47">
+      <BranchName>बँँक ऑफ बडौेेदा- पंढरपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="115">
+      <BranchName>बँक ऑफ  बडौदा - वेळापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="259">
+      <BranchName>बँक ऑफ बडौदा - विटा</BranchName>
+    </BranchCode>
+    <BranchCode Code="287">
+      <BranchName>बँक ऑफ बडौदा - मार्डी</BranchName>
+    </BranchCode>
+    <BranchCode Code="305">
+      <BranchName>बँक ऑफ बडौदा - वाठार स्टेशन सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="309">
+      <BranchName>बँक ऑफ बडौदा - उरण (रायगड)</BranchName>
+    </BranchCode>
+    <BranchCode Code="342">
+      <BranchName>बॅंक ऑफ बडौदा - उघडेवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="355">
+      <BranchName>बँक ऑफ बडौदा - टेभुर्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="428">
+      <BranchName>बॅंक ऑफ बडौदा - बार्शी</BranchName>
+    </BranchCode>
+    <BranchCode Code="484">
+      <BranchName>बॅंक ऑफ बडौदा - दहीवडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="502">
+      <BranchName>बॅंक ऑफ बडोदा - आटपाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="503">
+      <BranchName>बॅंक ऑफ बडोदा - इंदापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="555">
+      <BranchName>बॅंक ऑफ बडौदा - लाल भादुर शास्त्री रोड पुणे.</BranchName>
+    </BranchCode>
+    <BranchCode Code="564">
+      <BranchName>बदलापूर (इ)</BranchName>
+    </BranchCode>
+    <BranchCode Code="565">
+      <BranchName>हडपसर</BranchName>
+    </BranchCode>
+    <BranchCode Code="566">
+      <BranchName>लोणंद</BranchName>
+    </BranchCode>
+    <BranchCode Code="567">
+      <BranchName>मुरुम</BranchName>
+    </BranchCode>
+    <BranchCode Code="568">
+      <BranchName>वाठार</BranchName>
+    </BranchCode>
+    <BranchCode Code="596">
+      <BranchName>कौठाळी</BranchName>
+    </BranchCode>
+    <BranchCode Code="638">
+      <BranchName>तांबवे(गंगामाईनगर)</BranchName>
+    </BranchCode>
+    <BranchCode Code="661">
+      <BranchName>माहूली</BranchName>
+    </BranchCode>
+    <BranchCode Code="682">
+      <BranchName>कुंणजीरवाडी(देऊर)</BranchName>
+    </BranchCode>
+    <BranchCode Code="692">
+      <BranchName>पलूस</BranchName>
+    </BranchCode>
+    <BranchCode Code="695">
+      <BranchName>भेंडे</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="7">
+    <BankName>सातारा जि.म.स.बँक लि.</BankName>
+    <BranchCode Code="14">
+      <BranchName>राणंद</BranchName>
+    </BranchCode>
+    <BranchCode Code="15">
+      <BranchName>मार्डी बुद्रूक</BranchName>
+    </BranchCode>
+    <BranchCode Code="272">
+      <BranchName>सातारा जि. म. स. बँक लि. - राजाळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="286">
+      <BranchName>सातारा जि. म. स. बँक लि. - चिमणगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="316">
+      <BranchName>सातारा जि. म. स. बँक लि. - गोंदावले (बुद्रुक)</BranchName>
+    </BranchCode>
+    <BranchCode Code="317">
+      <BranchName>सातारा जि. म. स. बँक लि.  कोरेगाव शहर शाखा नं 4</BranchName>
+    </BranchCode>
+    <BranchCode Code="333">
+      <BranchName>सातारा जि. म. स. बँक. लि. - निंबळक</BranchName>
+    </BranchCode>
+    <BranchCode Code="336">
+      <BranchName>सातारा जि. म. स. बँक लि - शाखा माकेर्ट यार्ड फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="337">
+      <BranchName>सातारा जि. म. स. बँक लि -शाखा माकेर्ट यार्ड फलटण पिंप्रद</BranchName>
+    </BranchCode>
+    <BranchCode Code="338">
+      <BranchName>सातारा जि. म. स. बँक लि - गुणवरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="347">
+      <BranchName>सातारा जि. म. स. बँक लि. - पळशी</BranchName>
+    </BranchCode>
+    <BranchCode Code="370">
+      <BranchName>सातारा जि. म. स. बँक लि - वरकुटे-मलवडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="378">
+      <BranchName>सातारा जि.म.सह बँक लि. - कुकुडवाड</BranchName>
+    </BranchCode>
+    <BranchCode Code="380">
+      <BranchName>सातारा जि. म. स. बँक लि - म्हसवड</BranchName>
+    </BranchCode>
+    <BranchCode Code="382">
+      <BranchName>सातारा जि. म. स. बँक लि. - देवापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="397">
+      <BranchName>सातारा जि.म.स.बँक लि. - वडूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="398">
+      <BranchName>सातारा जि.म.स.बँक लि. - कातर खटाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="399">
+      <BranchName>सातारा जि.म.स.बँक लि. - महिमगड</BranchName>
+    </BranchCode>
+    <BranchCode Code="400">
+      <BranchName>सातारा जि.म.स.बँक लि. - पेडगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="401">
+      <BranchName>सातारा जि.म.स.बँक लि. - गुरसाळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="402">
+      <BranchName>सातारा जि.म.स.बँक लि. - आंबवड</BranchName>
+    </BranchCode>
+    <BranchCode Code="403">
+      <BranchName>सातारा जि.म.स.बँक लि. - मायणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="404">
+      <BranchName>सातारा जि.म.स.बँक लि. - विळखे</BranchName>
+    </BranchCode>
+    <BranchCode Code="409">
+      <BranchName>सातारा जि.म.स.बॅंक लि. - पुळकोटी</BranchName>
+    </BranchCode>
+    <BranchCode Code="410">
+      <BranchName>सातारा जि.म.स.बॅंक लि. - कृष्णानगर(सातारा)</BranchName>
+    </BranchCode>
+    <BranchCode Code="411">
+      <BranchName>सातारा जि.म.स.बॅंक लि. - निमसोड</BranchName>
+    </BranchCode>
+    <BranchCode Code="470">
+      <BranchName>सातारा जि.म.स लि. दहीवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="488">
+      <BranchName>सातारा जि. म. स लि. वावरहिरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="523">
+      <BranchName>सातारा जि.म.स लि. अंभेरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="524">
+      <BranchName>सातारा जि.म.स. भोसरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="525">
+      <BranchName>सातारा जि.म.स बिदाल</BranchName>
+    </BranchCode>
+    <BranchCode Code="526">
+      <BranchName>सातारा जि.म.स बुध</BranchName>
+    </BranchCode>
+    <BranchCode Code="527">
+      <BranchName>सातारा जि.म.स चिंचनेर वंदन</BranchName>
+    </BranchCode>
+    <BranchCode Code="528">
+      <BranchName>सांगली जि.म. स चोराडे</BranchName>
+    </BranchCode>
+    <BranchCode Code="529">
+      <BranchName>सातारा जि.म.स . देऊर</BranchName>
+    </BranchCode>
+    <BranchCode Code="530">
+      <BranchName>सातारा जि.म.स खेराडे वांगी</BranchName>
+    </BranchCode>
+    <BranchCode Code="531">
+      <BranchName>सातारा जि.म.स कोरेगांव शहर</BranchName>
+    </BranchCode>
+    <BranchCode Code="532">
+      <BranchName>सातारा जि.म. स कुरोली सिद्देशवर</BranchName>
+    </BranchCode>
+    <BranchCode Code="533">
+      <BranchName>सातारा जि.म.स. लोणंद</BranchName>
+    </BranchCode>
+    <BranchCode Code="534">
+      <BranchName>सातारा जि.म.स शिंगणापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="535">
+      <BranchName>सातारा जि.म.स शिरंबे</BranchName>
+    </BranchCode>
+    <BranchCode Code="536">
+      <BranchName>सातारा जि.म.स वडगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="537">
+      <BranchName>सातारा जि.म.स वाठार स्टेशन</BranchName>
+    </BranchCode>
+    <BranchCode Code="538">
+      <BranchName>सातारा जि.म.स. औंध</BranchName>
+    </BranchCode>
+    <BranchCode Code="539">
+      <BranchName>सातारा जि.म.स पुसेसावळी</BranchName>
+    </BranchCode>
+    <BranchCode Code="540">
+      <BranchName>सातारा जि. म.स साप</BranchName>
+    </BranchCode>
+    <BranchCode Code="541">
+      <BranchName>सातारा जि.म.स फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="561">
+      <BranchName>सातारा जि.म.स -निढळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="624">
+      <BranchName>पाटखळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="625">
+      <BranchName>आरळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="626">
+      <BranchName>सातारा रोड</BranchName>
+    </BranchCode>
+    <BranchCode Code="627">
+      <BranchName>एकंबे</BranchName>
+    </BranchCode>
+    <BranchCode Code="628">
+      <BranchName>कठापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="647">
+      <BranchName>सातारा जि.म.स लोणंद</BranchName>
+    </BranchCode>
+    <BranchCode Code="652">
+      <BranchName>मार्केटयार्ड कोरेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="655">
+      <BranchName>पंढरपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="663">
+      <BranchName>कुमठे</BranchName>
+    </BranchCode>
+    <BranchCode Code="664">
+      <BranchName>खेडनांदगीरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="665">
+      <BranchName>अंबवडे वाघोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="666">
+      <BranchName>भोसे</BranchName>
+    </BranchCode>
+    <BranchCode Code="678">
+      <BranchName>चंचळी</BranchName>
+    </BranchCode>
+    <BranchCode Code="684">
+      <BranchName>खटाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="716">
+      <BranchName>शिवथार</BranchName>
+    </BranchCode>
+    <BranchCode Code="726">
+      <BranchName>मार्केटयार्ड सातारा</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="8">
+    <BankName>सोलापूर जि.म.स.बँक लि.</BankName>
+    <BranchCode Code="4">
+      <BranchName>सोलापूर जि. म. स बँक,अकलुज</BranchName>
+    </BranchCode>
+    <BranchCode Code="11">
+      <BranchName>फोंडशिरस</BranchName>
+    </BranchCode>
+    <BranchCode Code="12">
+      <BranchName>सोलापूर जि.म.सह.बँक लि., महूद</BranchName>
+    </BranchCode>
+    <BranchCode Code="13">
+      <BranchName>सोलापूर जि. म. स बँक,पिलीव</BranchName>
+    </BranchCode>
+    <BranchCode Code="18">
+      <BranchName>सोलापूर जि.म.सह, बँक लि., निमगांव म.</BranchName>
+    </BranchCode>
+    <BranchCode Code="27">
+      <BranchName>सोलापूर जि.म.स.बँक लि., खवासपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="73">
+      <BranchName>सोलापूर जि.म.स.बँक लि. - ब्रम्हपुरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="76">
+      <BranchName>सोलापूर जि.म.स.बँक लि. - लोटेवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="279">
+      <BranchName>सोलापूर जि.म.स.बँक लि. - पंढरपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="324">
+      <BranchName>सोलापुर जि.म.सह.बँक लि., वेळापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="327">
+      <BranchName>सोलापूर जि.म.स.बँक लि - मळोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="328">
+      <BranchName>सोलापूर जि.म.स.बँक लि,. - भाळवणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="330">
+      <BranchName>सोलापुर जि.म.स.बँक लि. - संगम (अकलुज)</BranchName>
+    </BranchCode>
+    <BranchCode Code="331">
+      <BranchName>सोलापुर जि.म.स.बँक लि. - बोरगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="339">
+      <BranchName>सोलापुर जि.म.स.बँक लि.,  खुडुस</BranchName>
+    </BranchCode>
+    <BranchCode Code="341">
+      <BranchName>सोलापूर जि.म.सह.बॅंक - बोंडले</BranchName>
+    </BranchCode>
+    <BranchCode Code="345">
+      <BranchName>सोलापूर जि.म.स.बँक लि. - मांडवे</BranchName>
+    </BranchCode>
+    <BranchCode Code="346">
+      <BranchName>सोलापूर जि.म.स.बँक लि. - माळशिरस शहर</BranchName>
+    </BranchCode>
+    <BranchCode Code="357">
+      <BranchName>सोलापूर जि.म.सह.बँक - कोळेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="358">
+      <BranchName>सोलापूर जि.म.सह.बँक - नेवरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="372">
+      <BranchName>सोलापुर जि.म.स.बँक लि - उपरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="375">
+      <BranchName>सोलापुर जि.म.सह बँक लि - टेभुर्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="412">
+      <BranchName>सोलापूर जि.म.स.बॅंक लि. - चाकोरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="413">
+      <BranchName>सोलापूर जि.म.स.बॅंक लि. - फोंडशिरस</BranchName>
+    </BranchCode>
+    <BranchCode Code="414">
+      <BranchName>सोलापूर जि.म.स.बॅंक लि. - नातेपुते</BranchName>
+    </BranchCode>
+    <BranchCode Code="415">
+      <BranchName>सोलापूर जि.म.स.बॅंक लि. - महिम</BranchName>
+    </BranchCode>
+    <BranchCode Code="443">
+      <BranchName>सदाशिवनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="450">
+      <BranchName>उदनवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="455">
+      <BranchName>सोलापूर जि.म.स.बॅंक लि. - खंडाळी</BranchName>
+    </BranchCode>
+    <BranchCode Code="456">
+      <BranchName>सोलापूर जि.म.स.बॅंक लि. - लवंग</BranchName>
+    </BranchCode>
+    <BranchCode Code="462">
+      <BranchName>सोलापूर जि.म.स बॅंक लि. पट- कुरोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="474">
+      <BranchName>सोलापूर जि.म.स बॅंक लि. यशवंतनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="475">
+      <BranchName>सोलापूर जि.म.स बॅंक- बोंडले</BranchName>
+    </BranchCode>
+    <BranchCode Code="481">
+      <BranchName>सोलापूर जि.म.स बॅंक लि. दहिगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="486">
+      <BranchName>सोलापूर जि.म. स. बॅंक लि. बेंबळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="487">
+      <BranchName>सोलापूर जि.म. स. बॅंक लि. माणकी</BranchName>
+    </BranchCode>
+    <BranchCode Code="491">
+      <BranchName>सोलापूर जि.म.स बॅंक लि. मांडवे</BranchName>
+    </BranchCode>
+    <BranchCode Code="542">
+      <BranchName>सोलापूर जि.म.स भंडीशेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="543">
+      <BranchName>सोलापूर जि.म.स चाकोरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="544">
+      <BranchName>सोलापूर जि.म.स, पिंपरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="545">
+      <BranchName>सोलापूर जि.म.स, बेंबळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="546">
+      <BranchName>सोलापूर जि.म.स, लुमेवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="547">
+      <BranchName>सोलापूर जि.म.स, संगम</BranchName>
+    </BranchCode>
+    <BranchCode Code="559">
+      <BranchName>सोलापूर जि. म. स . उंबरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="560">
+      <BranchName>सोलापूर जि.म.स - निढळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="597">
+      <BranchName>श्रीपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="632">
+      <BranchName>खूडूस</BranchName>
+    </BranchCode>
+    <BranchCode Code="707">
+      <BranchName>मोरोची</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="9">
+    <BankName>स्टेट बँक ऑफ हैद्राबाद</BankName>
+    <BranchCode Code="151">
+      <BranchName>स्टेट ब्ंंांॅक ऑफ हैद्राबाद - पंढरपुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="229">
+      <BranchName>स्टेट बॅक ऑफ हैद्राबाद - आष्टी</BranchName>
+    </BranchCode>
+    <BranchCode Code="384">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद - सांगोला</BranchName>
+    </BranchCode>
+    <BranchCode Code="429">
+      <BranchName>माजलगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="449">
+      <BranchName>अंमळनेर</BranchName>
+    </BranchCode>
+    <BranchCode Code="607">
+      <BranchName>कडा</BranchName>
+    </BranchCode>
+    <BranchCode Code="614">
+      <BranchName>केज</BranchName>
+    </BranchCode>
+    <BranchCode Code="710">
+      <BranchName>खांडेश्वर नवी मुंबई</BranchName>
+    </BranchCode>
+    <BranchCode Code="712">
+      <BranchName>स्टेट बॅंक ऑफ हैद्राबाद - वसमत</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="10">
+    <BankName>अँक्सिस बँक लि.</BankName>
+    <BranchCode Code="34">
+      <BranchName>ऍ़क्सिस बँक - पंढरपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="59">
+      <BranchName>ऍ़क्सिस बँक - सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="91">
+      <BranchName>ऍ़क्सिस बँक - अकलुज</BranchName>
+    </BranchCode>
+    <BranchCode Code="118">
+      <BranchName>ऍ़क्सिस बँक - बिड</BranchName>
+    </BranchCode>
+    <BranchCode Code="165">
+      <BranchName>अँक्सिस बँक - सोलापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="177">
+      <BranchName>ऍ़क्सिस बँक - मुंबई</BranchName>
+    </BranchCode>
+    <BranchCode Code="181">
+      <BranchName>ऍ़क्सिस बँक - कामोठे  नवी मुंबई</BranchName>
+    </BranchCode>
+    <BranchCode Code="184">
+      <BranchName>ऍ़क्सिस बँक - अंधेरी (वेस्ट)</BranchName>
+    </BranchCode>
+    <BranchCode Code="280">
+      <BranchName>अँक्सिस बँक - फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="441">
+      <BranchName>बार्शी</BranchName>
+    </BranchCode>
+    <BranchCode Code="465">
+      <BranchName>ऍ़क्सिस बॅंक -फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="501">
+      <BranchName>ऍ़क्सिस बॅंक लि. भुसावळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="671">
+      <BranchName>पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="719">
+      <BranchName>सिक्रापूर पुणे</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="12">
+    <BankName>जनसेवा सहकारी बँक लि.</BankName>
+    <BranchCode Code="195">
+      <BranchName>जनसेवा सहकारी बँक लि,पुणे - ससाणेनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="215">
+      <BranchName>जनसेवा सहकारी बॅंक लिमीटेड. बिबेवाडी पुणे</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="18">
+    <BankName>पुणे जिल्हा मध्यवर्ती सह.बँक लि.</BankName>
+    <BranchCode Code="24">
+      <BranchName>पुणे जि.म.सह. बँक लि., बावडा</BranchName>
+    </BranchCode>
+    <BranchCode Code="417">
+      <BranchName>पुणे जि.म.स.बॅंक लि. - रेडणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="439">
+      <BranchName>पुणे जिल्हा मध्यवर्ती सह. बॅंक लि - कुरोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="451">
+      <BranchName>लोणी - काळभोर</BranchName>
+    </BranchCode>
+    <BranchCode Code="516">
+      <BranchName>पुणे डी. सी. सी बॅंक लि. इंदापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="517">
+      <BranchName>पुणे डी. सी. सी बॅंक लि. करकम (वालचंदनगर)</BranchName>
+    </BranchCode>
+    <BranchCode Code="518">
+      <BranchName>पुणे डी. सी. सी बॅंक लि. वरकुटे बु.</BranchName>
+    </BranchCode>
+    <BranchCode Code="519">
+      <BranchName>पुणे डी. सी. सी बॅंक लि. सराटी</BranchName>
+    </BranchCode>
+    <BranchCode Code="562">
+      <BranchName>सोमेश्वरनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="563">
+      <BranchName>बिजवडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="609">
+      <BranchName>लोणीभापकर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="22">
+    <BankName>इंडियन ओवरसीज् बँक</BankName>
+    <BranchCode Code="36">
+      <BranchName>इंडियन ओवरसीज् बँक - पुणे कँन्टोमेंट</BranchName>
+    </BranchCode>
+    <BranchCode Code="146">
+      <BranchName>इंडियन ओवरसीज् बँक - श्रीपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="293">
+      <BranchName>इंडियन ओवरसीज् बँक - अकलुज</BranchName>
+    </BranchCode>
+    <BranchCode Code="323">
+      <BranchName>इडियन ओवरसीज् बँक - बानेर रोड पुणे.</BranchName>
+    </BranchCode>
+    <BranchCode Code="687">
+      <BranchName>विटा</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="23">
+    <BankName>दि बाबासाहेब देशमुख स.बँक आटपाडी</BankName>
+    <BranchCode Code="31">
+      <BranchName>दि बाबासाहेब देशमुख स.बँक लि.,आटपाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="32">
+      <BranchName>दि बाबासाहेब देशमुख स.बँक लि.,दिघंची</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="24">
+    <BankName>दि विटा मर्चंट को.ऑप.बँक लि</BankName>
+    <BranchCode Code="28">
+      <BranchName>दि विटा मर्चंट को.ऑप.बँक लि.,दिघंची.</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="25">
+    <BankName>आय.डी. बी. आय. बँक</BankName>
+    <BranchCode Code="25">
+      <BranchName>आय.डी.बी.आय - नातेपुते</BranchName>
+    </BranchCode>
+    <BranchCode Code="37">
+      <BranchName>आय.डी.बी.आय - अकलूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="38">
+      <BranchName>आय.डी.बी.आय. - राणंद</BranchName>
+    </BranchCode>
+    <BranchCode Code="54">
+      <BranchName>आय.डी.बी.आय.बँँक-म्हसवड</BranchName>
+    </BranchCode>
+    <BranchCode Code="60">
+      <BranchName>आ.डी. बी.आय. बँक .मुंबई. प.</BranchName>
+    </BranchCode>
+    <BranchCode Code="65">
+      <BranchName>आय.डी.बी.आय.बँक - ठाणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="86">
+      <BranchName>आय.डी.बी.आय. बँक- चोराडे</BranchName>
+    </BranchCode>
+    <BranchCode Code="99">
+      <BranchName>आय.डी.बी.आय बँक - वावरहिरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="100">
+      <BranchName>आय.डी.बी.आय बँक - सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="101">
+      <BranchName>आय.डी.बी.आय.बँक - तळेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="140">
+      <BranchName>आय.डी.बी.आय.बँक - टेंभुर्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="188">
+      <BranchName>आय.डी.बी.आय. बँक - पंढरपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="200">
+      <BranchName>आय.डि.बी.आय.बँक -म्हासुर्णे</BranchName>
+    </BranchCode>
+    <BranchCode Code="206">
+      <BranchName>आय. डी. बी. आय. बॅंक औैंध  पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="263">
+      <BranchName>आय. डी. बी. आय. बँक - बारामती</BranchName>
+    </BranchCode>
+    <BranchCode Code="264">
+      <BranchName>आय. डी. बी. आय. बँक - फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="304">
+      <BranchName>आय. डी. बी. आय बँक - कोरेगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="306">
+      <BranchName>आय. डी. बी. आय. बँक  पवई नाका सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="329">
+      <BranchName>आय.डी.बी. आय. बँक - गणेशनगर, पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="430">
+      <BranchName>आलेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="440">
+      <BranchName>माढा</BranchName>
+    </BranchCode>
+    <BranchCode Code="442">
+      <BranchName>आय. डी. बी. आय. बार्शी</BranchName>
+    </BranchCode>
+    <BranchCode Code="586">
+      <BranchName>देशमुखनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="587">
+      <BranchName>सुरली</BranchName>
+    </BranchCode>
+    <BranchCode Code="588">
+      <BranchName>लक्ष्मीनगर फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="589">
+      <BranchName>सातारा रोड</BranchName>
+    </BranchCode>
+    <BranchCode Code="606">
+      <BranchName>कळंबोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="615">
+      <BranchName>आगळगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="630">
+      <BranchName>पवईनाका</BranchName>
+    </BranchCode>
+    <BranchCode Code="642">
+      <BranchName>लोणंद</BranchName>
+    </BranchCode>
+    <BranchCode Code="644">
+      <BranchName>होळीचागांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="646">
+      <BranchName>ओगोले (अंध्रप्रदेश)</BranchName>
+    </BranchCode>
+    <BranchCode Code="677">
+      <BranchName>आगलगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="691">
+      <BranchName>विटा</BranchName>
+    </BranchCode>
+    <BranchCode Code="701">
+      <BranchName>तासगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="727">
+      <BranchName>करंजे</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="27">
+    <BankName>शंकरराव मोहिते-पाटील सह.बँक</BankName>
+    <BranchCode Code="42">
+      <BranchName>शंकरराव मोहिते-पाटील सह.बँक- अकलूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="604">
+      <BranchName>माळशिरस</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="29">
+    <BankName>केनरा बँक</BankName>
+    <BranchCode Code="157">
+      <BranchName>केनरा बॅंक - पंढरपुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="365">
+      <BranchName>केनरा बँक - विमाणनगर, पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="422">
+      <BranchName>केनरा बॅंक - सांगली</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="32">
+    <BankName>दि. फेडरल बँक लि.</BankName>
+    <BranchCode Code="696">
+      <BranchName>सातारा</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="33">
+    <BankName>बी. डी. एस.</BankName>
+    <BranchCode Code="6">
+      <BranchName>आटपाडी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="34">
+    <BankName>सोलापूर जनता सहकारी बँक लि.</BankName>
+    <BranchCode Code="220">
+      <BranchName>सोलापूर जनता सहकारी बँक लि.- माळशिरस</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="35">
+    <BankName>देना बँक</BankName>
+    <BranchCode Code="170">
+      <BranchName>देना बँक - निरा-नरसिंगपुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="437">
+      <BranchName>देना बॅंक - सोलापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="479">
+      <BranchName>देना बॅंक वालचंद नगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="512">
+      <BranchName>देना बॅंक लि. देवकर -लोणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="608">
+      <BranchName>कोरेगांव(कर्जत)</BranchName>
+    </BranchCode>
+    <BranchCode Code="683">
+      <BranchName>जिहे</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="36">
+    <BankName>यूको बँक</BankName>
+    <BranchCode Code="725">
+      <BranchName>सातारा</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="37">
+    <BankName>जनता सहकारी बँक</BankName>
+    <BranchCode Code="653">
+      <BranchName>इंदापूर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="39">
+    <BankName>दि कराड अर्बन को.ऑप.बँक लि</BankName>
+    <BranchCode Code="654">
+      <BranchName>दि .कराड अर्बन बॅंक लि. सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="741">
+      <BranchName>पुसेसावळी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="52">
+    <BankName>पंजाब नैशनल बँक</BankName>
+    <BranchCode Code="178">
+      <BranchName>पंजाब नैशनल बँक - मोहोळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="201">
+      <BranchName>पंजाब नैशनल बँक - कस्तुरबा मार्केट सोलापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="445">
+      <BranchName>पंजाब नैशनल बॅंक - उस्मानाबाद</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="58">
+    <BankName>युनियन बँक ऑप.इंडिया</BankName>
+    <BranchCode Code="8">
+      <BranchName>युनियन बँक ऑफ इंडिया, पंढरपुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="260">
+      <BranchName>युनियन बँक ऑप इंडिया - विटा</BranchName>
+    </BranchCode>
+    <BranchCode Code="266">
+      <BranchName>युनियण  बॅक ऑफ इंडिया  -  भाळवणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="271">
+      <BranchName>युनियण  बॅक ऑफ इंडिया - टेंभु्र्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="448">
+      <BranchName>सावेडी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="59">
+    <BankName>एच. डी. एफ. सी. बॅक</BankName>
+    <BranchCode Code="173">
+      <BranchName>एच.डी.एफ.सी. बॅक - पंढरपुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="361">
+      <BranchName>एच.डी.एफ.सी. बँक - फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="558">
+      <BranchName>एच. डी. एफ. सी. बॅंक - शक्तीनगर लक्ष्मीबाई शाळेजवळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="585">
+      <BranchName>विटा</BranchName>
+    </BranchCode>
+    <BranchCode Code="602">
+      <BranchName>टेंभुर्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="633">
+      <BranchName>एच.डी. एफ. सी इंदापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="700">
+      <BranchName>पलूस</BranchName>
+    </BranchCode>
+    <BranchCode Code="720">
+      <BranchName>आकलूज</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="62">
+    <BankName>वैणगंगा कृष्णा ग्रामीण बँक लि.</BankName>
+    <BranchCode Code="19">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि.- माळशिरस</BranchName>
+    </BranchCode>
+    <BranchCode Code="20">
+      <BranchName>गादेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="64">
+      <BranchName>निमगाव (म)</BranchName>
+    </BranchCode>
+    <BranchCode Code="136">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि.- वेळापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="142">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि. - निमगाव (म)</BranchName>
+    </BranchCode>
+    <BranchCode Code="145">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि. - श्रीपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="156">
+      <BranchName>वैणगंगा कृष्णा ग्रामिण बॅंक लि.- भंडीशेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="158">
+      <BranchName>वैनगंगा कृष्णा ग्रामिण बॅंक लि. - गादेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="164">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि.,- टेंभुर्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="166">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि.,- जेऊर</BranchName>
+    </BranchCode>
+    <BranchCode Code="191">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि., - रोपळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="194">
+      <BranchName>़ेवैणगंगा कृष्णा ग्रामीण बँक लि,- भोसे</BranchName>
+    </BranchCode>
+    <BranchCode Code="204">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि - नेवरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="247">
+      <BranchName>वैनगंगा   कृष्णा ग्रामिण बॅंक - नाद्रे</BranchName>
+    </BranchCode>
+    <BranchCode Code="273">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि - माळीनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="340">
+      <BranchName>वैनगंगा कृष्णा ग्रामीण बॅक - ईस्लामपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="344">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि. - पि.कुरोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="351">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि. - नातेपुते</BranchName>
+    </BranchCode>
+    <BranchCode Code="418">
+      <BranchName>वैनगंगा कृष्णा ग्रामीण बॅंक लि. - फोंडशिरस</BranchName>
+    </BranchCode>
+    <BranchCode Code="452">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बँक लि. - पटवर्धन कुरोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="554">
+      <BranchName>वैणगंगा कृष्णा ग्रामीण बॅंक लि. उंबरे</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="63">
+    <BankName>सद्गुरु गहिणीनाथ अर्बन को.ऑप.बँक</BankName>
+    <BranchCode Code="75">
+      <BranchName>सद्गुरु गहिणीनाथ अर्बन को.ऑप.बँक- अकलुज</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="64">
+    <BankName>दि मंगळवेढा अर्बन को.ऑप.बँक लि.</BankName>
+    <BranchCode Code="21">
+      <BranchName>महूद बुद्रूक</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="65">
+    <BankName>इंदापूर अर्बन को. ऑप. बँक लि,</BankName>
+    <BranchCode Code="22">
+      <BranchName>इंदापूर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="67">
+    <BankName>दि बिड जिल्हा मध्यवर्ती सह.बँक लि.</BankName>
+    <BranchCode Code="26">
+      <BranchName>धारुर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="68">
+    <BankName>दि मनमंदिर को.ऑप. बँक लि. विटा</BankName>
+    <BranchCode Code="40">
+      <BranchName>दि मनमंदिर को.ऑप.बँक लि. - आटपाडी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="70">
+    <BankName>कॅासमॉस को ऑप बँक</BankName>
+    <BranchCode Code="52">
+      <BranchName>कॉसमस को ऑप बँक - पार्वती दर्शन</BranchName>
+    </BranchCode>
+    <BranchCode Code="583">
+      <BranchName>फलटण</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="72">
+    <BankName>दि कराड अर्बन बँक</BankName>
+    <BranchCode Code="53">
+      <BranchName>दि कारड अर्बन बँक - औंध</BranchName>
+    </BranchCode>
+    <BranchCode Code="584">
+      <BranchName>कोरेगांव</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="73">
+    <BankName>कार्पोरेशन बँक</BankName>
+    <BranchCode Code="221">
+      <BranchName>कार्पोरशन बँक - खडकवासला</BranchName>
+    </BranchCode>
+    <BranchCode Code="460">
+      <BranchName>कॉर्पोरेशन बॅंक- पंढरपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="499">
+      <BranchName>कार्पोरेशन बॅंक - अकलूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="510">
+      <BranchName>कार्पोरेशन बॅंक - इंदापूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="511">
+      <BranchName>कार्पोरेशन बॅंक - वांगी</BranchName>
+    </BranchCode>
+    <BranchCode Code="582">
+      <BranchName>सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="670">
+      <BranchName>बारामती</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="74">
+    <BankName>सिंडीकेट बँक</BankName>
+    <BranchCode Code="246">
+      <BranchName>सिंडिकेट बॅंक - सांगली</BranchName>
+    </BranchCode>
+    <BranchCode Code="352">
+      <BranchName>सिंडिकेट बँक - शिवाजीनगर, पुणे</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="76">
+    <BankName>युनियन बँक ऑफ इंडिया</BankName>
+    <BranchCode Code="44">
+      <BranchName>युनियन बँक ऑफ इंडिया - हडपसरगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="45">
+      <BranchName>युनियन बँक ऑफ इंडिया - पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="55">
+      <BranchName>युनियन बँँक ऑफ इंडिया-मोहोळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="87">
+      <BranchName>युनियन बँक ऑफ इंडिया - ??????</BranchName>
+    </BranchCode>
+    <BranchCode Code="131">
+      <BranchName>युनियन बँक ऑफ इंडिया - पंढरपूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="141">
+      <BranchName>युनियन बँक ऑफ इंडिया - भाळवणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="167">
+      <BranchName>युनियन बँक ऑफ इंडिया - सांगोला</BranchName>
+    </BranchCode>
+    <BranchCode Code="168">
+      <BranchName>युनियन बँक ऑफ इंडिया - कुर्डूवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="236">
+      <BranchName>युनियन बॅंक ऑफ इंडीया  विटा</BranchName>
+    </BranchCode>
+    <BranchCode Code="267">
+      <BranchName>युनियन बँक ऑफ इंडिया - कसबे डिग्रज</BranchName>
+    </BranchCode>
+    <BranchCode Code="296">
+      <BranchName>युनियन बँक ऑफ इंडिया - फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="388">
+      <BranchName>युनियन बँक ऑफ इंडिया - पिलीव</BranchName>
+    </BranchCode>
+    <BranchCode Code="459">
+      <BranchName>युनियन बँक ऑफ इंडिया - दादर (वेस्ट)</BranchName>
+    </BranchCode>
+    <BranchCode Code="601">
+      <BranchName>कर्जत</BranchName>
+    </BranchCode>
+    <BranchCode Code="623">
+      <BranchName>चिखलठाण</BranchName>
+    </BranchCode>
+    <BranchCode Code="714">
+      <BranchName>तासगाव</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="77">
+    <BankName>शारदा सहकारी बँक पुणे.</BankName>
+    <BranchCode Code="49">
+      <BranchName>शारदा सहकारी बँक पुणे - बिबवेवाडी.</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="80">
+    <BankName>सेंट्रल बँँक ऑफ इंडिया</BankName>
+    <BranchCode Code="62">
+      <BranchName>सेंट्रल बँक ऑफ इडिया शाखा- नेहरुनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="63">
+      <BranchName>सेंट्रल बँक ऑफ इडिया शाखा- चेंबूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="85">
+      <BranchName>सेंट्रल बँक ऑफ इंडिया शाखा सांगोला</BranchName>
+    </BranchCode>
+    <BranchCode Code="130">
+      <BranchName>सेंट्रल बँक ऑफ इंडिया शाखा- वांगी नं.1</BranchName>
+    </BranchCode>
+    <BranchCode Code="143">
+      <BranchName>सेंट्रल बँक ऑफ इंडिया - माळीनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="219">
+      <BranchName>सेंट्रल बँक ऑफ इंडिया - फलटण</BranchName>
+    </BranchCode>
+    <BranchCode Code="405">
+      <BranchName>सेंट्रल बँक ऑफ इंडिया - टेंभुर्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="434">
+      <BranchName>सेंट्रल बॅंक ऑफ इंडिया - जामखेड</BranchName>
+    </BranchCode>
+    <BranchCode Code="466">
+      <BranchName>सेंट्रल बॅंक ऑफ इडिया - माणखुर्द</BranchName>
+    </BranchCode>
+    <BranchCode Code="581">
+      <BranchName>तासगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="599">
+      <BranchName>खर्डा</BranchName>
+    </BranchCode>
+    <BranchCode Code="685">
+      <BranchName>सेंट्रल बॅंक ऑफ इंडिया - बार्शी</BranchName>
+    </BranchCode>
+    <BranchCode Code="703">
+      <BranchName>सांगली</BranchName>
+    </BranchCode>
+    <BranchCode Code="744">
+      <BranchName>होळ</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="81">
+    <BankName>दि रत्नाकर बँक लि.</BankName>
+    <BranchCode Code="66">
+      <BranchName>दि रत्नाकर बँक लि., - अकलूज</BranchName>
+    </BranchCode>
+    <BranchCode Code="249">
+      <BranchName>दि रत्नाकर बॅंक -  सांगली</BranchName>
+    </BranchCode>
+    <BranchCode Code="618">
+      <BranchName>दि रत्नाकर बॅंक - माळशिरस</BranchName>
+    </BranchCode>
+    <BranchCode Code="686">
+      <BranchName>तासगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="730">
+      <BranchName>बार्शी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="82">
+    <BankName>रतनचंद शहा सहकारी बॅंक</BankName>
+    <BranchCode Code="69">
+      <BranchName>रतनचंद शहा सहकारी बँक-मुहद बु.</BranchName>
+    </BranchCode>
+    <BranchCode Code="83">
+      <BranchName>रतनचंद शहा सहकारी बँक लि - मंगळवेढा</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="83">
+    <BankName>भारत अर्बन को-ऑप. बँक लि.</BankName>
+    <BranchCode Code="72">
+      <BranchName>भारत अर्बन को-ऑप. बँक लि. - सोलापूर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="84">
+    <BankName>सर्जेरावदादा नाईक शिराळा सह.बँक  लि.</BankName>
+    <BranchCode Code="77">
+      <BranchName>सर्जेरावदादा नाईक शिराळा सह.बँक  लि.-न्यू शाहूपुरी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="85">
+    <BankName>आदरनीय पी.डी.पाटीलसो स.बँक कराड</BankName>
+    <BranchCode Code="78">
+      <BranchName>आदरनीय पी.डी.पाटीलसो स.बँक कराड- कराड</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="86">
+    <BankName>दि पंढरपुर मर्चंट बँक लि.</BankName>
+    <BranchCode Code="80">
+      <BranchName>दि पंढरपूर मर्चंट बॅक लि. - महूद</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="88">
+    <BankName>सोलापूर ग्रामीण बँक</BankName>
+    <BranchCode Code="138">
+      <BranchName>सोलापूर ग्रामीण बँक - निमगांव (म)</BranchName>
+    </BranchCode>
+    <BranchCode Code="176">
+      <BranchName>सोलापूर ग्रामीण बँक - रोपळे</BranchName>
+    </BranchCode>
+    <BranchCode Code="705">
+      <BranchName>माळीनगर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="89">
+    <BankName>दि युनायटेड वेस्टर्न बँक लि.</BankName>
+    <BranchCode Code="172">
+      <BranchName>दि युनायटेड वेस्टर्न बॅक लि -टेभुंर्णी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="90">
+    <BankName>सेंट्रल बॅक ऑफ इंडीया</BankName>
+    <BranchCode Code="163">
+      <BranchName>सेंन्ट्रल बॅक ऑफ इंडीया -पंढरपुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="213">
+      <BranchName>सेंट्रल बॅंक ऑफ इंडिया टिळक रोड - पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="392">
+      <BranchName>सेंट्रल बँक ऑफ इंडिया - ठाणे विरार (प)</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="91">
+    <BankName>इंण्डियण ओवरसीज बैंक</BankName>
+    <BranchCode Code="207">
+      <BranchName>इंडियण ओवरसीज बैंक सहकार नगर- पुणे</BranchName>
+    </BranchCode>
+    <BranchCode Code="640">
+      <BranchName>इंडीयन नातेपुते</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="92">
+    <BankName>राजारामबापू सह.बॅंक लि,पेठ</BankName>
+    <BranchCode Code="245">
+      <BranchName>राजारामबापू सह.बॅंक लि,पेठ - सांगली</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="93">
+    <BankName>तामिळनाड मेरकँटाईल बँक लि.</BankName>
+    <BranchCode Code="261">
+      <BranchName>तामिळनाड मेरकँटाईल बँक लि - विटा</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="94">
+    <BankName>विदर्भ कोकण ग्रामीण बँक</BankName>
+    <BranchCode Code="353">
+      <BranchName>विदर्भ कोकण ग्रामीण बँक - नातेपुते</BranchName>
+    </BranchCode>
+    <BranchCode Code="356">
+      <BranchName>विदर्भ कोकण ग्रामीण बँक - वेळापुर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="95">
+    <BankName>कोर्ट मॅटर</BankName>
+    <BranchCode Code="373">
+      <BranchName>दिवानी न्यायालय - माळशिरस</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="96">
+    <BankName>इंडियन बँक</BankName>
+    <BranchCode Code="381">
+      <BranchName>इंडियन बँक - भोडणी (इंदापुर)</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="97">
+    <BankName>महाराष्ट्र ग्रामिण बॅंक</BankName>
+    <BranchCode Code="426">
+      <BranchName>महाराष्ट्र ग्रामिण बॅंक - शिराळा ( आष्टी )</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="98">
+    <BankName>पुर्णवादी नागरीक सहकारी बॅंक</BankName>
+    <BranchCode Code="435">
+      <BranchName>पुर्णवादी नागरीक सहकारी बॅंक - आष्टी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="99">
+    <BankName>सांगोला अर्बन को - ऑपरेटिव्ह बॅंक लि</BankName>
+    <BranchCode Code="446">
+      <BranchName>सांगोला</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="100">
+    <BankName>पंजाब आणी महाराष्ट्र को. ऑप. बॅंक लि</BankName>
+    <BranchCode Code="478">
+      <BranchName>पंजाब आणी महाराष्ट्र को. ऑप. बॅंक लि. कोलशशेट रेठाणे</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="101">
+    <BankName>कराड अर्बन बॅंक</BankName>
+    <BranchCode Code="480">
+      <BranchName>कराड अर्बन बॅंक -म्हसवड</BranchName>
+    </BranchCode>
+    <BranchCode Code="641">
+      <BranchName>कराड अर्बन बॅंक कोरेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="723">
+      <BranchName>फलटण</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="102">
+    <BankName>भारती सह. बॅंक लि. पुणे</BankName>
+    <BranchCode Code="509">
+      <BranchName>भारती सह. बॅंक लि,. पुणे. विटा</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="103">
+    <BankName>निशीगंधा सहकारी बॅंक लि.</BankName>
+    <BranchCode Code="610">
+      <BranchName>पंढरपूर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="104">
+    <BankName>पंढरपूर अर्बन को. ऑप. बॅंक लि.</BankName>
+    <BranchCode Code="611">
+      <BranchName>पंढरपूर अर्बन को.ऑप बँक लि.- पंढरपूर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="105">
+    <BankName>माणदेशी महिला बॅंक लि,</BankName>
+    <BranchCode Code="619">
+      <BranchName>म्हसवड</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="106">
+    <BankName>स्टेट बॅंक ऑफ हैदराबाद</BankName>
+    <BranchCode Code="620">
+      <BranchName>किल्ले धारुर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="111">
+    <BankName>मालोजीराजे सह.बॅंक लि. फलटन</BankName>
+    <BranchCode Code="648">
+      <BranchName>कोरेगांव</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="112">
+    <BankName>दि. बारामती सहकारी बॅंक मर्या. बाराम</BankName>
+    <BranchCode Code="673">
+      <BranchName>दि. बारामती सह. बॅंकइंदापूर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="114">
+    <BankName>विद्यानंद को. ऑफ. बॅंक लि. सोलापूर</BankName>
+    <BranchCode Code="721">
+      <BranchName>नातेपुते</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="115">
+    <BankName>विजया बॅंक</BankName>
+    <BranchCode Code="732">
+      <BranchName>विजया बॅंक - तेलगांव</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="116">
+    <BankName>कोयना सह. बॅंक लि.</BankName>
+    <BranchCode Code="733">
+      <BranchName>कोयना सह. बॅंक लि.</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="117">
+    <BankName>कोल आर.डी निकम सैनीक बॅंक</BankName>
+    <BranchCode Code="734">
+      <BranchName>कोल आर.डी निकम सैनीक बॅंक पुसेसावळी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="118">
+    <BankName>फेडरल बॅंक लि.</BankName>
+    <BranchCode Code="735">
+      <BranchName>फेडरल बॅंक लि. सातारा</BranchName>
+    </BranchCode>
+    <BranchCode Code="736">
+      <BranchName>फेडरल बॅंक लि. सांगली</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="119">
+    <BankName>कोल्हापूर जि.म.स बॅंक लि.</BankName>
+    <BranchCode Code="737">
+      <BranchName>कोडोली</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="120">
+    <BankName>माढेश्वरी अर्बन बॅंक लि,</BankName>
+    <BranchCode Code="738">
+      <BranchName>पंढरपूर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="121">
+    <BankName>पलूस सह. बॅंक लि.</BankName>
+    <BranchCode Code="739">
+      <BranchName>पलूस सह.</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="122">
+    <BankName>दि. कोल्हापूर अर्बन बॅंक लि.</BankName>
+    <BranchCode Code="742">
+      <BranchName>दि. कोल्हापूर अर्बन बॅंक लि. उचगांव</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="123">
+    <BankName>दि. विटा अर्बन बॅंक लि</BankName>
+    <BranchCode Code="743">
+      <BranchName>विटा</BranchName>
+    </BranchCode>
+  </BankCode>
+</Bank>
