@@ -1,60 +1,60 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <GatDetails>
   <GatCode Code="1">
-    <GatName>माळशिरस&#x0;&#x0;</GatName>
+    <GatName>माळशिरस</GatName>
   </GatCode>
   <GatCode Code="3">
-    <GatName>आटपाडी&#x0;&#x0;</GatName>
+    <GatName>आटपाडी</GatName>
   </GatCode>
   <GatCode Code="4">
-    <GatName>सांगोला&#x0;&#x0;</GatName>
+    <GatName>सांगोला</GatName>
   </GatCode>
   <GatCode Code="5">
-    <GatName>माण&#x0;&#x0;</GatName>
+    <GatName>माण</GatName>
   </GatCode>
   <GatCode Code="6">
-    <GatName>पंढरपूर&#x0;&#x0;</GatName>
+    <GatName>पंढरपूर</GatName>
   </GatCode>
   <GatCode Code="7">
-    <GatName>इंदापूर&#x0;&#x0;</GatName>
+    <GatName>इंदापूर</GatName>
   </GatCode>
   <GatCode Code="8">
-    <GatName>फलटण&#x0;&#x0;</GatName>
+    <GatName>फलटण</GatName>
   </GatCode>
   <GatCode Code="9">
-    <GatName>माढा&#x0;&#x0;</GatName>
+    <GatName>माढा</GatName>
   </GatCode>
   <GatCode Code="10">
-    <GatName>करमाळा&#x0;&#x0;</GatName>
+    <GatName>करमाळा</GatName>
   </GatCode>
   <GatCode Code="11">
-    <GatName>इतर&#x0;&#x0;</GatName>
+    <GatName>इतर</GatName>
   </GatCode>
   <GatCode Code="12">
-    <GatName>पिलीव&#x0;&#x0;</GatName>
+    <GatName>पिलीव</GatName>
   </GatCode>
   <GatCode Code="15">
-    <GatName>श्रीपूर&#x0;&#x0;</GatName>
+    <GatName>श्रीपूर</GatName>
   </GatCode>
   <GatCode Code="16">
-    <GatName>वेळापूर&#x0;&#x0;</GatName>
+    <GatName>वेळापूर</GatName>
   </GatCode>
   <GatCode Code="19">
-    <GatName>नातेपुते&#x0;&#x0;</GatName>
+    <GatName>नातेपुते</GatName>
   </GatCode>
   <GatCode Code="20">
-    <GatName>तासगाव&#x0;&#x0;</GatName>
+    <GatName>तासगाव</GatName>
   </GatCode>
   <GatCode Code="21">
-    <GatName>कोरेगांव&#x0;&#x0;</GatName>
+    <GatName>कोरेगांव</GatName>
   </GatCode>
   <GatCode Code="22">
-    <GatName>जामखेड&#x0;&#x0;</GatName>
+    <GatName>जामखेड</GatName>
   </GatCode>
   <GatCode Code="23">
-    <GatName>लोणंद&#x0;&#x0;</GatName>
+    <GatName>लोणंद</GatName>
   </GatCode>
   <GatCode Code="24">
-    <GatName>खटाव-मायणी&#x0;&#x0;</GatName>
+    <GatName>खटाव-मायणी</GatName>
   </GatCode>
 </GatDetails>
