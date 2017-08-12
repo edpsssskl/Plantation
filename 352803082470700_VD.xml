@@ -1,0 +1,3333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VerificationData>
+  <PlotNo No="62850">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5956</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय तानाजी मदने</CaneGrowerName>
+    <ServeyNo>335</ServeyNo>
+    <PlantationDate>10-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62854">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>7486</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>211</ServeyNo>
+    <PlantationDate>21-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - पिलीव</BranchName>
+    <IFSC>BKID0000713</IFSC>
+    <AccountNo>071310110004408</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62855">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>17</Distance>
+    <CaneGrowerCode>5939</CaneGrowerCode>
+    <CaneGrowerName>राहूल शंकर दडस</CaneGrowerName>
+    <ServeyNo>217</ServeyNo>
+    <PlantationDate>15-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960036405</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62856">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>4379</CaneGrowerCode>
+    <CaneGrowerName>राजेश्री भिमराव मदने</CaneGrowerName>
+    <ServeyNo>963</ServeyNo>
+    <PlantationDate>15-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919970231025</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62869">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>217</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी फत्तूसिंग भैस</CaneGrowerName>
+    <ServeyNo>110</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919096871187</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62870">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>1620</CaneGrowerCode>
+    <CaneGrowerName>आबासाहेब मुकिंदा शेंडगे</CaneGrowerName>
+    <ServeyNo>196</ServeyNo>
+    <PlantationDate>06-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421023648</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62870">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>1620</CaneGrowerCode>
+    <CaneGrowerName>आबासाहेब मुकिंदा शेंडगे</CaneGrowerName>
+    <ServeyNo>196</ServeyNo>
+    <PlantationDate>07-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421023648</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62871">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5668</CaneGrowerCode>
+    <CaneGrowerName>मायाप्पा कोंडीबा जावळे</CaneGrowerName>
+    <ServeyNo>260</ServeyNo>
+    <PlantationDate>13-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919158197200</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63056">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>3073</CaneGrowerCode>
+    <CaneGrowerName>भामाबाई महादेव मदने</CaneGrowerName>
+    <ServeyNo>37</ServeyNo>
+    <PlantationDate>27-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918806866724</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63058">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5474</CaneGrowerCode>
+    <CaneGrowerName>प्रकाश विठोबा मदने</CaneGrowerName>
+    <ServeyNo>331</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63059">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5297</CaneGrowerCode>
+    <CaneGrowerName>विठ्ठल बाबू मदने</CaneGrowerName>
+    <ServeyNo>295</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63060">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5423</CaneGrowerCode>
+    <CaneGrowerName>बापूराव सिताराम मदने</CaneGrowerName>
+    <ServeyNo>977</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63060">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5423</CaneGrowerCode>
+    <CaneGrowerName>बापूराव सिताराम मदने</CaneGrowerName>
+    <ServeyNo>977</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63061">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5297</CaneGrowerCode>
+    <CaneGrowerName>विठ्ठल बाबू मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>10-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63062">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>4544</CaneGrowerCode>
+    <CaneGrowerName>हणमंत काशिनाथ देशमुख</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>25-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421069566</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63064">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5297</CaneGrowerCode>
+    <CaneGrowerName>विठ्ठल बाबू मदने</CaneGrowerName>
+    <ServeyNo>295</ServeyNo>
+    <PlantationDate>07-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63065">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5297</CaneGrowerCode>
+    <CaneGrowerName>विठ्ठल बाबू मदने</CaneGrowerName>
+    <ServeyNo>295</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63069">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>16968</CaneGrowerCode>
+    <CaneGrowerName>गोरख नारायण सदेवाले</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>05-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63486">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>7486</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>605</ServeyNo>
+    <PlantationDate>07-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - पिलीव</BranchName>
+    <IFSC>BKID0000713</IFSC>
+    <AccountNo>071310110004408</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="69495">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>7963</CaneGrowerCode>
+    <CaneGrowerName>करणसिंह बाबूराव पाटील</CaneGrowerName>
+    <ServeyNo>1200</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="69495">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>7963</CaneGrowerCode>
+    <CaneGrowerName>करणसिंह बाबूराव पाटील</CaneGrowerName>
+    <ServeyNo>1200</ServeyNo>
+    <PlantationDate>02-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="69597">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>17</Distance>
+    <CaneGrowerCode>4342</CaneGrowerCode>
+    <CaneGrowerName>आप्पा नागू सुळ</CaneGrowerName>
+    <ServeyNo>182</ServeyNo>
+    <PlantationDate>07-11-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421933904</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70838">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>4365</CaneGrowerCode>
+    <CaneGrowerName>सतीश दादा करांडे</CaneGrowerName>
+    <ServeyNo>1238</ServeyNo>
+    <PlantationDate>01-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919822282131</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70839">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>1221</CaneGrowerCode>
+    <CaneGrowerName>जालिंदर रामचंद्र कदम</CaneGrowerName>
+    <ServeyNo>619</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918600907664</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71489">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>19520</CaneGrowerCode>
+    <CaneGrowerName>देविदास मल्हारी महानवर</CaneGrowerName>
+    <ServeyNo>97</ServeyNo>
+    <PlantationDate>20-08-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71839">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>7961</CaneGrowerCode>
+    <CaneGrowerName>मालन माधव मदने</CaneGrowerName>
+    <ServeyNo>305</ServeyNo>
+    <PlantationDate>16-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71840">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>19775</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी पांडुरंग महानवर</CaneGrowerName>
+    <ServeyNo>97</ServeyNo>
+    <PlantationDate>20-09-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919921500650</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71918">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>21321</CaneGrowerCode>
+    <CaneGrowerName>राहुल दत्तात्रय जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71918">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>21321</CaneGrowerCode>
+    <CaneGrowerName>राहुल दत्तात्रय जावळे</CaneGrowerName>
+    <ServeyNo>2</ServeyNo>
+    <PlantationDate>01-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71919">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>32037</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>108</ServeyNo>
+    <PlantationDate>20-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - पिलीव</BranchName>
+    <IFSC>BKID0000713</IFSC>
+    <AccountNo>071310110000652</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71925">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>21132</CaneGrowerCode>
+    <CaneGrowerName>रुक्मिणी ज्ञानेश्वर कदम</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>17-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71929">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>493</CaneGrowerCode>
+    <CaneGrowerName>अर्जुन सोपान सुळ</CaneGrowerName>
+    <ServeyNo>168</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919689353230</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71930">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>25866</CaneGrowerCode>
+    <CaneGrowerName>रत्नमाला शिवाजी मदने</CaneGrowerName>
+    <ServeyNo>982</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71931">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>19961</CaneGrowerCode>
+    <CaneGrowerName>बाळु दशरथ काळे</CaneGrowerName>
+    <ServeyNo>620</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71932">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5954</CaneGrowerCode>
+    <CaneGrowerName>दत्ता शिवाजी पाटील</CaneGrowerName>
+    <ServeyNo>240</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919922059150</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72599">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>17</Distance>
+    <CaneGrowerCode>4587</CaneGrowerCode>
+    <CaneGrowerName>किसन शामराव बंडगर</CaneGrowerName>
+    <ServeyNo>1323</ServeyNo>
+    <PlantationDate>15-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919011674694</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72599">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>17</Distance>
+    <CaneGrowerCode>4587</CaneGrowerCode>
+    <CaneGrowerName>किसन शामराव बंडगर</CaneGrowerName>
+    <ServeyNo>123</ServeyNo>
+    <PlantationDate>17-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919011674694</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73771">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5297</CaneGrowerCode>
+    <CaneGrowerName>विठ्ठल बाबू मदने</CaneGrowerName>
+    <ServeyNo>241</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73772">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>35179</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>657</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73776">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1880</CaneGrowerCode>
+    <CaneGrowerName>विलास बाबुराव हावळे</CaneGrowerName>
+    <ServeyNo>238/2</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919922013401</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73780">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>35180</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>225</ServeyNo>
+    <PlantationDate>10-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73780">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>0</Distance>
+    <CaneGrowerCode>35180</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>118</ServeyNo>
+    <PlantationDate>10-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73781">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>35178</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>587</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74219">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>23064</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>292</ServeyNo>
+    <PlantationDate>01-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - पिलीव</BranchName>
+    <IFSC>BKID0000713</IFSC>
+    <AccountNo>071310100002394</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74221">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5535</CaneGrowerCode>
+    <CaneGrowerName>महादेव नामदेव बनगर</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918308305471</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74232">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>17</Distance>
+    <CaneGrowerCode>4587</CaneGrowerCode>
+    <CaneGrowerName>किसन शामराव बंडगर</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>02-11-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919011674694</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74233">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>17</Distance>
+    <CaneGrowerCode>3258</CaneGrowerCode>
+    <CaneGrowerName>अशोक खंडु सुळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>30-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919422447747</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74234">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>17</Distance>
+    <CaneGrowerCode>23968</CaneGrowerCode>
+    <CaneGrowerName>दुर्योधन कोंडीबा सोलनकर</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74234">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>0</Distance>
+    <CaneGrowerCode>23968</CaneGrowerCode>
+    <CaneGrowerName>दुर्योधन कोंडीबा सोलनकर</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>21-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74235">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>17</Distance>
+    <CaneGrowerCode>5939</CaneGrowerCode>
+    <CaneGrowerName>राहूल शंकर दडस</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960036405</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74235">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>0</Distance>
+    <CaneGrowerCode>5939</CaneGrowerCode>
+    <CaneGrowerName>राहूल शंकर दडस</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>17-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960036405</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74236">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>17</Distance>
+    <CaneGrowerCode>860</CaneGrowerCode>
+    <CaneGrowerName>हरी पांडूरंग करे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>25-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74237">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>सुळेवाडी</VillageName>
+    <Distance>17</Distance>
+    <CaneGrowerCode>23840</CaneGrowerCode>
+    <CaneGrowerName>तात्यासाहेब मल्हारी बरकडे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74903">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>3140</CaneGrowerCode>
+    <CaneGrowerName>संजय मारुतीराव देशमुख</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919404996871</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74904">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>6416</CaneGrowerCode>
+    <CaneGrowerName>राजेंद्र मारुती देशमुख</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74904">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>6416</CaneGrowerCode>
+    <CaneGrowerName>राजेंद्र मारुती देशमुख</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74905">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>3139</CaneGrowerCode>
+    <CaneGrowerName>योगेश कृष्णाजी देशमुख</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919665007575</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74906">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>6416</CaneGrowerCode>
+    <CaneGrowerName>राजेंद्र मारुती देशमुख</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74907">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>3138</CaneGrowerCode>
+    <CaneGrowerName>राजेंद्र मारुतीराव देशमुख</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919404996372</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75902">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1874</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी हरिदास जावळे</CaneGrowerName>
+    <ServeyNo>26</ServeyNo>
+    <PlantationDate>20-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918605559073</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75903">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1688</CaneGrowerCode>
+    <CaneGrowerName>महादेव कोंडीबा शिकरे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>07-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919527884340</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75903">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1688</CaneGrowerCode>
+    <CaneGrowerName>महादेव कोंडीबा शिकरे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919527884340</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75904">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>4893</CaneGrowerCode>
+    <CaneGrowerName>केशव रामचंद्र कदम</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421075274</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75904">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>4893</CaneGrowerCode>
+    <CaneGrowerName>केशव रामचंद्र कदम</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421075274</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75905">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>8351</CaneGrowerCode>
+    <CaneGrowerName>श्रावण धोंडीबा जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75905">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>8351</CaneGrowerCode>
+    <CaneGrowerName>श्रावण धोंडीबा जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>27-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75905">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>8351</CaneGrowerCode>
+    <CaneGrowerName>श्रावण धोंडीबा जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75907">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1867</CaneGrowerCode>
+    <CaneGrowerName>बाबुराव तायाप्पा वाघमोडे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>23-11-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918805101289</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75907">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1867</CaneGrowerCode>
+    <CaneGrowerName>बाबुराव तायाप्पा वाघमोडे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918805101289</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75908">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>3488</CaneGrowerCode>
+    <CaneGrowerName>संजय उत्तम गोंजारी</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919503884234</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75909">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>4751</CaneGrowerCode>
+    <CaneGrowerName>रघुनाथ रामचंद्र नरळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919021677509</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75910">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5912</CaneGrowerCode>
+    <CaneGrowerName>बबन कोंडीबा मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75910">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5912</CaneGrowerCode>
+    <CaneGrowerName>बबन कोंडीबा मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75911">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1226</CaneGrowerCode>
+    <CaneGrowerName>रजनी गणपत उर्फ अंबादास काळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75912">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1208</CaneGrowerCode>
+    <CaneGrowerName>सतिश सोपान कदम</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421069573</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75912">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1208</CaneGrowerCode>
+    <CaneGrowerName>सतिश सोपान कदम</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>21-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421069573</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75913">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>3396</CaneGrowerCode>
+    <CaneGrowerName>वसंत मारुती पाटील</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919420643935</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75914">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>6131</CaneGrowerCode>
+    <CaneGrowerName>महादेव बापू जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75914">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>6131</CaneGrowerCode>
+    <CaneGrowerName>महादेव बापू जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75916">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5591</CaneGrowerCode>
+    <CaneGrowerName>उत्तम बापू जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421062648</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75916">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5591</CaneGrowerCode>
+    <CaneGrowerName>उत्तम बापू जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>26-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421062648</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75916">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5591</CaneGrowerCode>
+    <CaneGrowerName>उत्तम बापू जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>03-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421062648</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75917">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5462</CaneGrowerCode>
+    <CaneGrowerName>महादेव श्रीपती नरळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>917507539880</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75917">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5462</CaneGrowerCode>
+    <CaneGrowerName>महादेव श्रीपती नरळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>10-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>917507539880</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75918">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5592</CaneGrowerCode>
+    <CaneGrowerName>प्रकाश सोपान मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>29-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919767969410</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75918">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5592</CaneGrowerCode>
+    <CaneGrowerName>प्रकाश सोपान मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-01-2017</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919767969410</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75921">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5534</CaneGrowerCode>
+    <CaneGrowerName>आजिम आयुब मुजावर</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>26-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918975099721</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75921">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5534</CaneGrowerCode>
+    <CaneGrowerName>आजिम आयुब मुजावर</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918975099721</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75922">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5671</CaneGrowerCode>
+    <CaneGrowerName>संगिता अशोक पाटील</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>02-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918605558665</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75922">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5671</CaneGrowerCode>
+    <CaneGrowerName>संगिता अशोक पाटील</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-12-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918605558665</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75923">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1269</CaneGrowerCode>
+    <CaneGrowerName>मधुकर निवृत्ती मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>08-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75923">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1269</CaneGrowerCode>
+    <CaneGrowerName>मधुकर निवृत्ती मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>29-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75924">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5667</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र बापू जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>23-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421040978</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75924">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5667</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र बापू जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421040978</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75925">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>4899</CaneGrowerCode>
+    <CaneGrowerName>संजय तात्यासाहेब कदम</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>16-11-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919370147543</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75926">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>12446</CaneGrowerCode>
+    <CaneGrowerName>हणमंत बापू जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>07-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919730901199</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75926">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>12446</CaneGrowerCode>
+    <CaneGrowerName>हणमंत बापू जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>29-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919730901199</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75928">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>2697</CaneGrowerCode>
+    <CaneGrowerName>संतोष सदाशिव पिसे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>15-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75929">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>5666</CaneGrowerCode>
+    <CaneGrowerName>श्रावण धोंडीबा जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>17-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75937">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5600</CaneGrowerCode>
+    <CaneGrowerName>अनिल नामदेव जाधव</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>12-11-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919987245621</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75937">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5600</CaneGrowerCode>
+    <CaneGrowerName>अनिल नामदेव जाधव</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919987245621</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75938">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5772</CaneGrowerCode>
+    <CaneGrowerName>तानाजी हरिदास जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>04-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919822930911</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75938">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5772</CaneGrowerCode>
+    <CaneGrowerName>तानाजी हरिदास जावळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>06-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919822930911</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75939">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5812</CaneGrowerCode>
+    <CaneGrowerName>विजय केशवराव पाटील</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>10-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919527721388</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75939">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5812</CaneGrowerCode>
+    <CaneGrowerName>विजय केशवराव पाटील</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>19-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919527721388</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75940">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5334</CaneGrowerCode>
+    <CaneGrowerName>दिलीप विठोबा मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919822166704</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75940">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5334</CaneGrowerCode>
+    <CaneGrowerName>दिलीप विठोबा मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919822166704</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75941">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5420</CaneGrowerCode>
+    <CaneGrowerName>सोनबा सोपान मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70837">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>झिझेवस्ती</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>1757</CaneGrowerCode>
+    <CaneGrowerName>मारुती दत्ताञय बुगड</CaneGrowerName>
+    <ServeyNo>280</ServeyNo>
+    <PlantationDate>28-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919096269096</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76100">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>4420</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र बाबुसिंग भैस</CaneGrowerName>
+    <ServeyNo>1096</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919767505555</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76100">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>4</VillageCode>
+    <VillageName>पिलीव</VillageName>
+    <Distance>15</Distance>
+    <CaneGrowerCode>4420</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र बाबुसिंग भैस</CaneGrowerName>
+    <ServeyNo>1096</ServeyNo>
+    <PlantationDate>25-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919767505555</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+</VerificationData>

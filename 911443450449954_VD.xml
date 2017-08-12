@@ -1,0 +1,4953 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VerificationData>
+  <PlotNo No="73165">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29665</CaneGrowerCode>
+    <CaneGrowerName>विलास ज्ञानू गोरड</CaneGrowerName>
+    <ServeyNo>500</ServeyNo>
+    <PlantationDate>13-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73179">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>21710</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र मारुती गोरड</CaneGrowerName>
+    <ServeyNo>84</ServeyNo>
+    <PlantationDate>01-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73181">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29666</CaneGrowerCode>
+    <CaneGrowerName>पांडुरंग बाळु पुकळे</CaneGrowerName>
+    <ServeyNo>362</ServeyNo>
+    <PlantationDate>31-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>4.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73184">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>21711</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी मारुती गोरड</CaneGrowerName>
+    <ServeyNo>30</ServeyNo>
+    <PlantationDate>15-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73187">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29663</CaneGrowerCode>
+    <CaneGrowerName>सुभाष हरिबा माने</CaneGrowerName>
+    <ServeyNo>35</ServeyNo>
+    <PlantationDate>31-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73220">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>21708</CaneGrowerCode>
+    <CaneGrowerName>सुखदेव ज्ञानू गोरड</CaneGrowerName>
+    <ServeyNo>86</ServeyNo>
+    <PlantationDate>15-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73246">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>25980</CaneGrowerCode>
+    <CaneGrowerName>राहुल पोपट गोरड</CaneGrowerName>
+    <ServeyNo>254</ServeyNo>
+    <PlantationDate>25-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.7</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73438">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>34911</CaneGrowerCode>
+    <CaneGrowerName>तानाजी&#x0;&#x0;                             बापु&#x0;&#x0;                   सातपुते&#x0;&#x0;                                   </CaneGrowerName>
+    <ServeyNo>25</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73490">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>34912</CaneGrowerCode>
+    <CaneGrowerName>अशोक&#x0;&#x0;                       बाबा&#x0;&#x0;                   कोळेकर&#x0;&#x0;                                    </CaneGrowerName>
+    <ServeyNo>380</ServeyNo>
+    <PlantationDate>13-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73491">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>34913</CaneGrowerCode>
+    <CaneGrowerName>महादेव&#x0;&#x0;                                 किसन&#x0;&#x0;                       सातपुते&#x0;&#x0;                                   </CaneGrowerName>
+    <ServeyNo>63</ServeyNo>
+    <PlantationDate>24-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73638">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>35064</CaneGrowerCode>
+    <CaneGrowerName>दादासो&#x0;&#x0;                                 ज्ञानु&#x0;&#x0;                 सातपुते&#x0;&#x0;                                   </CaneGrowerName>
+    <ServeyNo>342</ServeyNo>
+    <PlantationDate>16-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74780">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>522</CaneGrowerCode>
+    <CaneGrowerName>जनार्धन बाबा माने</CaneGrowerName>
+    <ServeyNo>26</ServeyNo>
+    <PlantationDate>15-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919975637722</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74783">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>35064</CaneGrowerCode>
+    <CaneGrowerName>दादासो&#x0;&#x0;                                 ज्ञानु&#x0;&#x0;                 सातपुते&#x0;&#x0;                                   </CaneGrowerName>
+    <ServeyNo>342</ServeyNo>
+    <PlantationDate>16-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73395">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>34886</CaneGrowerCode>
+    <CaneGrowerName>अर्जुन&#x0;&#x0;                     शामराव&#x0;&#x0;                                 माने&#x0;&#x0;                  </CaneGrowerName>
+    <ServeyNo>362</ServeyNo>
+    <PlantationDate>10-11-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73400">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29663</CaneGrowerCode>
+    <CaneGrowerName>सुभाष हरिबा माने</CaneGrowerName>
+    <ServeyNo>432</ServeyNo>
+    <PlantationDate>26-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73429">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>521</CaneGrowerCode>
+    <CaneGrowerName>पोपट कृष्णा माने</CaneGrowerName>
+    <ServeyNo>420</ServeyNo>
+    <PlantationDate>05-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>4.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960095051</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73430">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>6309</CaneGrowerCode>
+    <CaneGrowerName>दादासो भगवान माने</CaneGrowerName>
+    <ServeyNo>342</ServeyNo>
+    <PlantationDate>30-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919503803964</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73431">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>34902</CaneGrowerCode>
+    <CaneGrowerName>ईश्वर&#x0;&#x0;                  जिजाराम&#x0;&#x0;                                    कुलकर्णी&#x0;&#x0;                              </CaneGrowerName>
+    <ServeyNo>33</ServeyNo>
+    <PlantationDate>23-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73437">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>34909</CaneGrowerCode>
+    <CaneGrowerName>संजय&#x0;&#x0;                       ईश्वर&#x0;&#x0;                  माने&#x0;&#x0;                  </CaneGrowerName>
+    <ServeyNo>362</ServeyNo>
+    <PlantationDate>24-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73264">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29666</CaneGrowerCode>
+    <CaneGrowerName>पांडुरंग बाळु पुकळे</CaneGrowerName>
+    <ServeyNo>326</ServeyNo>
+    <PlantationDate>20-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73265">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29667</CaneGrowerCode>
+    <CaneGrowerName>महादेव बच्चु पुकळे</CaneGrowerName>
+    <ServeyNo>326</ServeyNo>
+    <PlantationDate>15-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73295">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29671</CaneGrowerCode>
+    <CaneGrowerName>आधिकराव हरीबा माने</CaneGrowerName>
+    <ServeyNo>452</ServeyNo>
+    <PlantationDate>10-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>6.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73296">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29667</CaneGrowerCode>
+    <CaneGrowerName>महादेव बच्चु पुकळे</CaneGrowerName>
+    <ServeyNo>35</ServeyNo>
+    <PlantationDate>25-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73313">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>21702</CaneGrowerCode>
+    <CaneGrowerName>आप्पा हरिबा माने</CaneGrowerName>
+    <ServeyNo>73</ServeyNo>
+    <PlantationDate>01-02-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73314">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29664</CaneGrowerCode>
+    <CaneGrowerName>भगवान कृष्णा माने</CaneGrowerName>
+    <ServeyNo>439</ServeyNo>
+    <PlantationDate>20-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73250">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>25569</CaneGrowerCode>
+    <CaneGrowerName>दादा नारायण गोरड</CaneGrowerName>
+    <ServeyNo>45</ServeyNo>
+    <PlantationDate>20-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>3.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73251">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29662</CaneGrowerCode>
+    <CaneGrowerName>गणपतराव हरीबा माने</CaneGrowerName>
+    <ServeyNo>432</ServeyNo>
+    <PlantationDate>20-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73252">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>25856</CaneGrowerCode>
+    <CaneGrowerName>शामराव कृष्णा माने</CaneGrowerName>
+    <ServeyNo>529</ServeyNo>
+    <PlantationDate>23-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73252">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>25856</CaneGrowerCode>
+    <CaneGrowerName>शामराव कृष्णा माने</CaneGrowerName>
+    <ServeyNo>528</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73253">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29668</CaneGrowerCode>
+    <CaneGrowerName>विष्णु रामु माने</CaneGrowerName>
+    <ServeyNo>324</ServeyNo>
+    <PlantationDate>20-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73254">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>21706</CaneGrowerCode>
+    <CaneGrowerName>सिताराम ज्ञानू गोरड</CaneGrowerName>
+    <ServeyNo>43</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73242">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29669</CaneGrowerCode>
+    <CaneGrowerName>बाजीराव विठ्ठल माने</CaneGrowerName>
+    <ServeyNo>90</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73244">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>25979</CaneGrowerCode>
+    <CaneGrowerName>भगवान मारुती गोरड</CaneGrowerName>
+    <ServeyNo>459</ServeyNo>
+    <PlantationDate>25-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73245">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>21710</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र मारुती गोरड</CaneGrowerName>
+    <ServeyNo>640</ServeyNo>
+    <PlantationDate>01-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73247">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29665</CaneGrowerCode>
+    <CaneGrowerName>विलास ज्ञानू गोरड</CaneGrowerName>
+    <ServeyNo>324</ServeyNo>
+    <PlantationDate>10-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73248">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>21710</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र मारुती गोरड</CaneGrowerName>
+    <ServeyNo>238</ServeyNo>
+    <PlantationDate>20-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73249">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>21706</CaneGrowerCode>
+    <CaneGrowerName>सिताराम ज्ञानू गोरड</CaneGrowerName>
+    <ServeyNo>325</ServeyNo>
+    <PlantationDate>20-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73221">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>25645</CaneGrowerCode>
+    <CaneGrowerName>कुंडलिक उत्तम माने</CaneGrowerName>
+    <ServeyNo>640</ServeyNo>
+    <PlantationDate>16-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73222">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>29669</CaneGrowerCode>
+    <CaneGrowerName>बाजीराव विठ्ठल माने</CaneGrowerName>
+    <ServeyNo>3442</ServeyNo>
+    <PlantationDate>20-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73223">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>21702</CaneGrowerCode>
+    <CaneGrowerName>आप्पा हरिबा माने</CaneGrowerName>
+    <ServeyNo>432</ServeyNo>
+    <PlantationDate>28-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73224">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>21708</CaneGrowerCode>
+    <CaneGrowerName>सुखदेव ज्ञानू गोरड</CaneGrowerName>
+    <ServeyNo>325</ServeyNo>
+    <PlantationDate>15-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73225">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>25979</CaneGrowerCode>
+    <CaneGrowerName>भगवान मारुती गोरड</CaneGrowerName>
+    <ServeyNo>52</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73226">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>झरे</VillageName>
+    <Distance>41</Distance>
+    <CaneGrowerCode>25569</CaneGrowerCode>
+    <CaneGrowerName>दादा नारायण गोरड</CaneGrowerName>
+    <ServeyNo>93</ServeyNo>
+    <PlantationDate>26-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72027">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>20492</CaneGrowerCode>
+    <CaneGrowerName>बापु भिमराव कोकरे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>12-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72027">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>20492</CaneGrowerCode>
+    <CaneGrowerName>बापु भिमराव कोकरे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>24-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72028">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>25063</CaneGrowerCode>
+    <CaneGrowerName>आबा ज्ञानु कोकरे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>30-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72030">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>20272</CaneGrowerCode>
+    <CaneGrowerName>किसन रामु कोकरे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>24-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72032">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>26075</CaneGrowerCode>
+    <CaneGrowerName>याज्ञिक शिवराम कोकरे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>10-11-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72033">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>20274</CaneGrowerCode>
+    <CaneGrowerName>हरिबा ज्ञानु कोकरे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>27-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73627">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>35054</CaneGrowerCode>
+    <CaneGrowerName>विलास&#x0;&#x0;                          आण्णा&#x0;&#x0;                  चौगुले&#x0;&#x0;                                </CaneGrowerName>
+    <ServeyNo>67</ServeyNo>
+    <PlantationDate>20-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74779">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>20483</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी शंकर घुटुकडे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74781">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>5526</CaneGrowerCode>
+    <CaneGrowerName>तानाजी गलबू काळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>18-11-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919819120292</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73234">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>25919</CaneGrowerCode>
+    <CaneGrowerName>दादा भिमराव मासाळ</CaneGrowerName>
+    <ServeyNo>1231</ServeyNo>
+    <PlantationDate>25-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73524">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>0</Distance>
+    <CaneGrowerCode>34964</CaneGrowerCode>
+    <CaneGrowerName>गोपाळ&#x0;&#x0;                              पारा&#x0;&#x0;                   गरदडे&#x0;&#x0;                             </CaneGrowerName>
+    <ServeyNo>63</ServeyNo>
+    <PlantationDate>03-02-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73525">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>34963</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र&#x0;&#x0;                               आण्णा&#x0;&#x0;                  चौगुले&#x0;&#x0;                                </CaneGrowerName>
+    <ServeyNo>300</ServeyNo>
+    <PlantationDate>03-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73541">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>34952</CaneGrowerCode>
+    <CaneGrowerName>हरी&#x0;&#x0;                भगवान&#x0;&#x0;                              गावडे&#x0;&#x0;                         </CaneGrowerName>
+    <ServeyNo>361</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73542">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>34951</CaneGrowerCode>
+    <CaneGrowerName>सागर&#x0;&#x0;                       शंकर&#x0;&#x0;                       गावडे&#x0;&#x0;                         </CaneGrowerName>
+    <ServeyNo>34</ServeyNo>
+    <PlantationDate>13-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73593">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>35010</CaneGrowerCode>
+    <CaneGrowerName>अंबादास&#x0;&#x0;                                भिमराव&#x0;&#x0;                                 कोकरे&#x0;&#x0;                             </CaneGrowerName>
+    <ServeyNo>3</ServeyNo>
+    <PlantationDate>12-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73594">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>35008</CaneGrowerCode>
+    <CaneGrowerName>तातोबा&#x0;&#x0;                                 रंगनाथ&#x0;&#x0;                                 कोकरे&#x0;&#x0;                             </CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>15-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73202">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>25919</CaneGrowerCode>
+    <CaneGrowerName>दादा भिमराव मासाळ</CaneGrowerName>
+    <ServeyNo>1231</ServeyNo>
+    <PlantationDate>05-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73229">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>25321</CaneGrowerCode>
+    <CaneGrowerName>दादासो बजरंग जुगदर</CaneGrowerName>
+    <ServeyNo>454</ServeyNo>
+    <PlantationDate>14-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>6.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73268">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>31894</CaneGrowerCode>
+    <CaneGrowerName>अर्जून शंकर झंजे</CaneGrowerName>
+    <ServeyNo>82</ServeyNo>
+    <PlantationDate>16-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BranchName>सांगली जि.म.स बॅंक - घानंद</BranchName>
+    <IFSC>IBKL0487SDC</IFSC>
+    <AccountNo>17105110000071</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73444">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>34877</CaneGrowerCode>
+    <CaneGrowerName>शिवराम&#x0;&#x0;                                 ज्ञानु&#x0;&#x0;                 कोकरे&#x0;&#x0;                             </CaneGrowerName>
+    <ServeyNo>82</ServeyNo>
+    <PlantationDate>02-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73445">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>20492</CaneGrowerCode>
+    <CaneGrowerName>बापु भिमराव कोकरे</CaneGrowerName>
+    <ServeyNo>359</ServeyNo>
+    <PlantationDate>25-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73524">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>34964</CaneGrowerCode>
+    <CaneGrowerName>गोपाळ&#x0;&#x0;                              पारा&#x0;&#x0;                   गरदडे&#x0;&#x0;                             </CaneGrowerName>
+    <ServeyNo>63</ServeyNo>
+    <PlantationDate>03-02-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72096">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>26135</CaneGrowerCode>
+    <CaneGrowerName>बाळकू गनू बरकडे</CaneGrowerName>
+    <ServeyNo>83</ServeyNo>
+    <PlantationDate>11-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया- झरे</BranchName>
+    <IFSC>BKID00001524</IFSC>
+    <AccountNo>152410100001241</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72097">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>25539</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>53</ServeyNo>
+    <PlantationDate>04-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - खरसुंडी</BranchName>
+    <IFSC>BKID0001602</IFSC>
+    <AccountNo>160210100008282</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72098">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>525</CaneGrowerCode>
+    <CaneGrowerName>श्रीमंत तुकाराम मासाळ</CaneGrowerName>
+    <ServeyNo>63</ServeyNo>
+    <PlantationDate>03-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919689030089</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72099">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>25669</CaneGrowerCode>
+    <CaneGrowerName>विलास मल्हारी गावडे</CaneGrowerName>
+    <ServeyNo>79</ServeyNo>
+    <PlantationDate>01-11-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72111">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>525</CaneGrowerCode>
+    <CaneGrowerName>श्रीमंत तुकाराम मासाळ</CaneGrowerName>
+    <ServeyNo>65</ServeyNo>
+    <PlantationDate>05-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919689030089</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72113">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>जांभुळणी</VillageName>
+    <Distance>52</Distance>
+    <CaneGrowerCode>25667</CaneGrowerCode>
+    <CaneGrowerName>नामदेव गोविंदा मेटकरी</CaneGrowerName>
+    <ServeyNo>449</ServeyNo>
+    <PlantationDate>10-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73052">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>221</VillageCode>
+    <VillageName>कामथ</VillageName>
+    <Distance>50</Distance>
+    <CaneGrowerCode>34861</CaneGrowerCode>
+    <CaneGrowerName>आप्पा&#x0;&#x0;                  रामू&#x0;&#x0;                   सरक&#x0;&#x0;                   </CaneGrowerName>
+    <ServeyNo>300</ServeyNo>
+    <PlantationDate>30-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73147">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>221</VillageCode>
+    <VillageName>कामथ</VillageName>
+    <Distance>50</Distance>
+    <CaneGrowerCode>1083</CaneGrowerCode>
+    <CaneGrowerName>हणमंत म्हाकु वळकुंडे</CaneGrowerName>
+    <ServeyNo>210</ServeyNo>
+    <PlantationDate>21-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72156">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>2190</CaneGrowerCode>
+    <CaneGrowerName>किसन रंगनाथ ढगे</CaneGrowerName>
+    <ServeyNo>49</ServeyNo>
+    <PlantationDate>26-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>4.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421125020</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>सेंट्रल बँँक ऑफ इंडिया</BankName>
+    <BranchName>सेंट्रल बॅंक ऑफ इडिया - माणखुर्द</BranchName>
+    <IFSC>CBINO282523</IFSC>
+    <AccountNo>3332800157</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72158">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>31894</CaneGrowerCode>
+    <CaneGrowerName>अर्जून शंकर झंजे</CaneGrowerName>
+    <ServeyNo>71</ServeyNo>
+    <PlantationDate>27-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BranchName>सांगली जि.म.स बॅंक - घानंद</BranchName>
+    <IFSC>IBKL0487SDC</IFSC>
+    <AccountNo>17105110000071</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72955">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>3433</CaneGrowerCode>
+    <CaneGrowerName>खशाबा भिमराव जुगदार</CaneGrowerName>
+    <ServeyNo>410</ServeyNo>
+    <PlantationDate>10-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919422383065</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72956">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>2191</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र रंगनाथ ढगे</CaneGrowerName>
+    <ServeyNo>340</ServeyNo>
+    <PlantationDate>13-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>सेंट्रल बँँक ऑफ इंडिया</BankName>
+    <BranchName>सेंट्रल बॅंक ऑफ इडिया - माणखुर्द</BranchName>
+    <IFSC>CBINO282523</IFSC>
+    <AccountNo>3324191701</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72957">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>3433</CaneGrowerCode>
+    <CaneGrowerName>खशाबा भिमराव जुगदार</CaneGrowerName>
+    <ServeyNo>52</ServeyNo>
+    <PlantationDate>13-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919422383065</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73051">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>34862</CaneGrowerCode>
+    <CaneGrowerName>दिपक&#x0;&#x0;                       बाळासो&#x0;&#x0;                                 जुगदर&#x0;&#x0;                             </CaneGrowerName>
+    <ServeyNo>84</ServeyNo>
+    <PlantationDate>13-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73552">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>35003</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी&#x0;&#x0;                             बाळु&#x0;&#x0;                   ढगे&#x0;&#x0;               </CaneGrowerName>
+    <ServeyNo>113</ServeyNo>
+    <PlantationDate>05-02-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73554">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>34999</CaneGrowerCode>
+    <CaneGrowerName>प्रशांत&#x0;&#x0;                        तातोबा&#x0;&#x0;                                 ढगे&#x0;&#x0;               </CaneGrowerName>
+    <ServeyNo>120</ServeyNo>
+    <PlantationDate>13-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73636">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>35060</CaneGrowerCode>
+    <CaneGrowerName>किसन&#x0;&#x0;                       ज्ञानु&#x0;&#x0;                 कटरे&#x0;&#x0;                      </CaneGrowerName>
+    <ServeyNo>68</ServeyNo>
+    <PlantationDate>02-02-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74772">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>5547</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी आप्पा झंजे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>21-11-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2.1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>088025352880</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73447">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>34875</CaneGrowerCode>
+    <CaneGrowerName>सुरेश&#x0;&#x0;                          भगवान&#x0;&#x0;                              झंजे&#x0;&#x0;                  </CaneGrowerName>
+    <ServeyNo>83</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73520">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>30210</CaneGrowerCode>
+    <CaneGrowerName>मधुकर माहादेव झंजे</CaneGrowerName>
+    <ServeyNo>45</ServeyNo>
+    <PlantationDate>08-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73520">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>0</Distance>
+    <CaneGrowerCode>30210</CaneGrowerCode>
+    <CaneGrowerName>मधुकर माहादेव झंजे</CaneGrowerName>
+    <ServeyNo>45</ServeyNo>
+    <PlantationDate>20-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73521">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>34885</CaneGrowerCode>
+    <CaneGrowerName>मच्छिंद्र&#x0;&#x0;                      बबन&#x0;&#x0;                    पांढरे&#x0;&#x0;                            </CaneGrowerName>
+    <ServeyNo>65</ServeyNo>
+    <PlantationDate>03-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73522">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>34970</CaneGrowerCode>
+    <CaneGrowerName>मधुकर&#x0;&#x0;                              नामदेव&#x0;&#x0;                                 झंजे&#x0;&#x0;                  </CaneGrowerName>
+    <ServeyNo>354</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73523">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>34966</CaneGrowerCode>
+    <CaneGrowerName>नारायण&#x0;&#x0;                                 नामदेव&#x0;&#x0;                                 ढगे&#x0;&#x0;               </CaneGrowerName>
+    <ServeyNo>103</ServeyNo>
+    <PlantationDate>15-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>3.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73193">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>24722</CaneGrowerCode>
+    <CaneGrowerName>दिनकर पांडूरंग ढगे</CaneGrowerName>
+    <ServeyNo>420</ServeyNo>
+    <PlantationDate>02-02-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73319">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>24077</CaneGrowerCode>
+    <CaneGrowerName>पांडूरंग आण्णा कटरे</CaneGrowerName>
+    <ServeyNo>85</ServeyNo>
+    <PlantationDate>13-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73394">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>34887</CaneGrowerCode>
+    <CaneGrowerName>महेश&#x0;&#x0;                       तातोबा&#x0;&#x0;                                 पिसाळ&#x0;&#x0;                         </CaneGrowerName>
+    <ServeyNo>350</ServeyNo>
+    <PlantationDate>25-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73432">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>34094</CaneGrowerCode>
+    <CaneGrowerName>सुरेश विलास माळी</CaneGrowerName>
+    <ServeyNo>120</ServeyNo>
+    <PlantationDate>03-02-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73433">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>34904</CaneGrowerCode>
+    <CaneGrowerName>सुनिल&#x0;&#x0;                          तानाजी&#x0;&#x0;                             रामगुंडे&#x0;&#x0;                                      </CaneGrowerName>
+    <ServeyNo>120</ServeyNo>
+    <PlantationDate>03-02-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73446">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>235</VillageCode>
+    <VillageName>घाणंद</VillageName>
+    <Distance>54</Distance>
+    <CaneGrowerCode>34876</CaneGrowerCode>
+    <CaneGrowerName>कुंडलीक&#x0;&#x0;                                    नामदेव&#x0;&#x0;                                 झंजे&#x0;&#x0;                  </CaneGrowerName>
+    <ServeyNo>64</ServeyNo>
+    <PlantationDate>15-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73320">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>690</VillageCode>
+    <VillageName>घरनिकी</VillageName>
+    <Distance>55</Distance>
+    <CaneGrowerCode>25590</CaneGrowerCode>
+    <CaneGrowerName>शहाजी यशवंत पवार</CaneGrowerName>
+    <ServeyNo>52</ServeyNo>
+    <PlantationDate>13-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73511">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>690</VillageCode>
+    <VillageName>घरनिकी</VillageName>
+    <Distance>55</Distance>
+    <CaneGrowerCode>34983</CaneGrowerCode>
+    <CaneGrowerName>सदाशिव&#x0;&#x0;                                 शंकर&#x0;&#x0;                       पवार&#x0;&#x0;                      </CaneGrowerName>
+    <ServeyNo>45</ServeyNo>
+    <PlantationDate>01-02-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73512">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>690</VillageCode>
+    <VillageName>घरनिकी</VillageName>
+    <Distance>55</Distance>
+    <CaneGrowerCode>34982</CaneGrowerCode>
+    <CaneGrowerName>संजय&#x0;&#x0;                       यशवंत&#x0;&#x0;                              पवार&#x0;&#x0;                      </CaneGrowerName>
+    <ServeyNo>14</ServeyNo>
+    <PlantationDate>15-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73513">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>690</VillageCode>
+    <VillageName>घरनिकी</VillageName>
+    <Distance>55</Distance>
+    <CaneGrowerCode>23242</CaneGrowerCode>
+    <CaneGrowerName>अशोक हरि पवार</CaneGrowerName>
+    <ServeyNo>88</ServeyNo>
+    <PlantationDate>27-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73515">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>690</VillageCode>
+    <VillageName>घरनिकी</VillageName>
+    <Distance>55</Distance>
+    <CaneGrowerCode>34979</CaneGrowerCode>
+    <CaneGrowerName>अरुण&#x0;&#x0;               गोरख&#x0;&#x0;                           पवार&#x0;&#x0;                      </CaneGrowerName>
+    <ServeyNo>99</ServeyNo>
+    <PlantationDate>13-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73516">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>690</VillageCode>
+    <VillageName>घरनिकी</VillageName>
+    <Distance>55</Distance>
+    <CaneGrowerCode>34977</CaneGrowerCode>
+    <CaneGrowerName>पोपट&#x0;&#x0;                           विष्णु&#x0;&#x0;                     पवार&#x0;&#x0;                      </CaneGrowerName>
+    <ServeyNo>420</ServeyNo>
+    <PlantationDate>27-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73517">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>690</VillageCode>
+    <VillageName>घरनिकी</VillageName>
+    <Distance>55</Distance>
+    <CaneGrowerCode>34976</CaneGrowerCode>
+    <CaneGrowerName>रामभाउ&#x0;&#x0;                             नामदेव&#x0;&#x0;                                 पवार&#x0;&#x0;                      </CaneGrowerName>
+    <ServeyNo>40</ServeyNo>
+    <PlantationDate>22-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73518">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>690</VillageCode>
+    <VillageName>घरनिकी</VillageName>
+    <Distance>55</Distance>
+    <CaneGrowerCode>34974</CaneGrowerCode>
+    <CaneGrowerName>राजेंद्र&#x0;&#x0;                       नामदेव&#x0;&#x0;                                 मेटकरी&#x0;&#x0;                                </CaneGrowerName>
+    <ServeyNo>62</ServeyNo>
+    <PlantationDate>14-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73519">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>690</VillageCode>
+    <VillageName>घरनिकी</VillageName>
+    <Distance>55</Distance>
+    <CaneGrowerCode>34972</CaneGrowerCode>
+    <CaneGrowerName>सलिम&#x0;&#x0;                       उसमान&#x0;&#x0;                          शेख&#x0;&#x0;               </CaneGrowerName>
+    <ServeyNo>67</ServeyNo>
+    <PlantationDate>03-02-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72944">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25557</CaneGrowerCode>
+    <CaneGrowerName>मधुकर जयवंत वाघमोडे</CaneGrowerName>
+    <ServeyNo>102</ServeyNo>
+    <PlantationDate>13-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72945">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25878</CaneGrowerCode>
+    <CaneGrowerName>मारुती बिरा येळे</CaneGrowerName>
+    <ServeyNo>35</ServeyNo>
+    <PlantationDate>12-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72946">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25783</CaneGrowerCode>
+    <CaneGrowerName>बाळू नारायण कुभार</CaneGrowerName>
+    <ServeyNo>342</ServeyNo>
+    <PlantationDate>10-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - खरसुंडी</BranchName>
+    <IFSC>BKID0001602</IFSC>
+    <AccountNo>160210100003455</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73074">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34844</CaneGrowerCode>
+    <CaneGrowerName>उत्तम&#x0;&#x0;              काशीनाथ&#x0;&#x0;                                    जगदाळे&#x0;&#x0;                                </CaneGrowerName>
+    <ServeyNo>87</ServeyNo>
+    <PlantationDate>21-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73075">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34843</CaneGrowerCode>
+    <CaneGrowerName>किसन&#x0;&#x0;                       काशीनाथ&#x0;&#x0;                                    जगदाळे&#x0;&#x0;                                </CaneGrowerName>
+    <ServeyNo>13</ServeyNo>
+    <PlantationDate>13-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73076">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>30224</CaneGrowerCode>
+    <CaneGrowerName>विठठल बाळु कदम</CaneGrowerName>
+    <ServeyNo>112</ServeyNo>
+    <PlantationDate>05-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73397">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34884</CaneGrowerCode>
+    <CaneGrowerName>प्रल्हाद&#x0;&#x0;                       बिरा&#x0;&#x0;                   शिंदे&#x0;&#x0;                 </CaneGrowerName>
+    <ServeyNo>454</ServeyNo>
+    <PlantationDate>28-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74782">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25957</CaneGrowerCode>
+    <CaneGrowerName>राजाराम काशीनाथ जगदाळे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>25-11-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74844">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>23976</CaneGrowerCode>
+    <CaneGrowerName>विलास निवृत्ती पाटील</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>18-11-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919423522907</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73237">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>26048</CaneGrowerCode>
+    <CaneGrowerName>निलेश वसंत गुरव</CaneGrowerName>
+    <ServeyNo>654</ServeyNo>
+    <PlantationDate>24-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73238">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25936</CaneGrowerCode>
+    <CaneGrowerName>सुदाम बाबु निकम</CaneGrowerName>
+    <ServeyNo>412</ServeyNo>
+    <PlantationDate>25-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73239">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25964</CaneGrowerCode>
+    <CaneGrowerName>संजय प्रभाकर कदम</CaneGrowerName>
+    <ServeyNo>544</ServeyNo>
+    <PlantationDate>27-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73240">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25747</CaneGrowerCode>
+    <CaneGrowerName>तोफीक इब्राईम काझी</CaneGrowerName>
+    <ServeyNo>1027</ServeyNo>
+    <PlantationDate>29-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73241">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25960</CaneGrowerCode>
+    <CaneGrowerName>उत्तम गणपती शिंदे</CaneGrowerName>
+    <ServeyNo>564</ServeyNo>
+    <PlantationDate>20-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73291">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25964</CaneGrowerCode>
+    <CaneGrowerName>संजय प्रभाकर कदम</CaneGrowerName>
+    <ServeyNo>142</ServeyNo>
+    <PlantationDate>05-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73227">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>29670</CaneGrowerCode>
+    <CaneGrowerName>तानाजी शिवाजी पाटील</CaneGrowerName>
+    <ServeyNo>324</ServeyNo>
+    <PlantationDate>05-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73231">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>26051</CaneGrowerCode>
+    <CaneGrowerName>गजानन मारूती भांगे</CaneGrowerName>
+    <ServeyNo>121</ServeyNo>
+    <PlantationDate>25-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73232">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>26076</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी प्रल्हाद पुजारी</CaneGrowerName>
+    <ServeyNo>12</ServeyNo>
+    <PlantationDate>25-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73233">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25931</CaneGrowerCode>
+    <CaneGrowerName>अजित सुभाष पाटील</CaneGrowerName>
+    <ServeyNo>290</ServeyNo>
+    <PlantationDate>20-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73235">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>26048</CaneGrowerCode>
+    <CaneGrowerName>निलेश वसंत गुरव</CaneGrowerName>
+    <ServeyNo>440</ServeyNo>
+    <PlantationDate>10-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73236">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25855</CaneGrowerCode>
+    <CaneGrowerName>पंढरीनाथ राजाराम चोपडे</CaneGrowerName>
+    <ServeyNo>654</ServeyNo>
+    <PlantationDate>16-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73149">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>24700</CaneGrowerCode>
+    <CaneGrowerName>रफिक इब्राहिम काझी</CaneGrowerName>
+    <ServeyNo>225</ServeyNo>
+    <PlantationDate>11-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73150">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>31895</CaneGrowerCode>
+    <CaneGrowerName>जयश्री राजाराम जगदाळे</CaneGrowerName>
+    <ServeyNo>65</ServeyNo>
+    <PlantationDate>30-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BranchName>सागली जि.म.स बॅंक- खरसुंडी</BranchName>
+    <IFSC>IBKL0487SDC</IFSC>
+    <AccountNo>02105110013748</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73151">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25878</CaneGrowerCode>
+    <CaneGrowerName>मारुती बिरा येळे</CaneGrowerName>
+    <ServeyNo>1030</ServeyNo>
+    <PlantationDate>28-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73152">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25783</CaneGrowerCode>
+    <CaneGrowerName>बाळू नारायण कुभार</CaneGrowerName>
+    <ServeyNo>370</ServeyNo>
+    <PlantationDate>17-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - खरसुंडी</BranchName>
+    <IFSC>BKID0001602</IFSC>
+    <AccountNo>160210100003455</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73153">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>32628</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी तुकाराम गायकवाड</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73154">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25955</CaneGrowerCode>
+    <CaneGrowerName>आप्पासो राजाराम निकम</CaneGrowerName>
+    <ServeyNo>78</ServeyNo>
+    <PlantationDate>06-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73083">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34838</CaneGrowerCode>
+    <CaneGrowerName>भाऊसो&#x0;&#x0;                              भगवान&#x0;&#x0;                              गायकवाड&#x0;&#x0;                                       </CaneGrowerName>
+    <ServeyNo>92</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>4.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73084">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34837</CaneGrowerCode>
+    <CaneGrowerName>मारूती&#x0;&#x0;                         यशवंत&#x0;&#x0;                              कदम&#x0;&#x0;                   </CaneGrowerName>
+    <ServeyNo>61</ServeyNo>
+    <PlantationDate>24-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73085">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34836</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय&#x0;&#x0;                          शिवाजी&#x0;&#x0;                             कदम&#x0;&#x0;                   </CaneGrowerName>
+    <ServeyNo>371</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73086">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34835</CaneGrowerCode>
+    <CaneGrowerName>रघूनाथ&#x0;&#x0;                                 बाळासो&#x0;&#x0;                                 जगदाळे&#x0;&#x0;                                </CaneGrowerName>
+    <ServeyNo>37</ServeyNo>
+    <PlantationDate>07-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73087">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34834</CaneGrowerCode>
+    <CaneGrowerName>शंकर&#x0;&#x0;                       रा़जाराम&#x0;&#x0;                                       देवकते&#x0;&#x0;                                </CaneGrowerName>
+    <ServeyNo>748</ServeyNo>
+    <PlantationDate>25-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73148">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25941</CaneGrowerCode>
+    <CaneGrowerName>हरिचंद्र नागु पाटील</CaneGrowerName>
+    <ServeyNo>45</ServeyNo>
+    <PlantationDate>17-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73077">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34842</CaneGrowerCode>
+    <CaneGrowerName>भिमराव&#x0;&#x0;                                 धोंडीराम&#x0;&#x0;                                       जगदाळे&#x0;&#x0;                                </CaneGrowerName>
+    <ServeyNo>330</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73078">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34841</CaneGrowerCode>
+    <CaneGrowerName>अर्जून&#x0;&#x0;                     धोंडीराम&#x0;&#x0;                                       जगदाळे&#x0;&#x0;                                </CaneGrowerName>
+    <ServeyNo>420</ServeyNo>
+    <PlantationDate>21-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73079">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>26516</CaneGrowerCode>
+    <CaneGrowerName>हरिशचंद्र नागु गायकवाड</CaneGrowerName>
+    <ServeyNo>132</ServeyNo>
+    <PlantationDate>05-11-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73080">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34840</CaneGrowerCode>
+    <CaneGrowerName>हापीज&#x0;&#x0;                          करिम&#x0;&#x0;                       काझी&#x0;&#x0;                  </CaneGrowerName>
+    <ServeyNo>1010</ServeyNo>
+    <PlantationDate>07-09-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73081">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>25747</CaneGrowerCode>
+    <CaneGrowerName>तोफीक इब्राईम काझी</CaneGrowerName>
+    <ServeyNo>415</ServeyNo>
+    <PlantationDate>15-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73082">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>884</VillageCode>
+    <VillageName>चिंचाळे</VillageName>
+    <Distance>64</Distance>
+    <CaneGrowerCode>34839</CaneGrowerCode>
+    <CaneGrowerName>मधूकर&#x0;&#x0;                              भगवान&#x0;&#x0;                              गायकवाड&#x0;&#x0;                                       </CaneGrowerName>
+    <ServeyNo>642</ServeyNo>
+    <PlantationDate>15-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>5</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73053">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>34860</CaneGrowerCode>
+    <CaneGrowerName>राहूल&#x0;&#x0;                          महादेव&#x0;&#x0;                                 सावकार&#x0;&#x0;                                </CaneGrowerName>
+    <ServeyNo>300</ServeyNo>
+    <PlantationDate>11-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73054">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>25779</CaneGrowerCode>
+    <CaneGrowerName>नंदकुमार शंकर बुडकर</CaneGrowerName>
+    <ServeyNo>991</ServeyNo>
+    <PlantationDate>24-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73055">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>34859</CaneGrowerCode>
+    <CaneGrowerName>सुनिल&#x0;&#x0;                          रामचंद्र&#x0;&#x0;                               पाटील&#x0;&#x0;                         </CaneGrowerName>
+    <ServeyNo>44</ServeyNo>
+    <PlantationDate>14-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73197">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>26101</CaneGrowerCode>
+    <CaneGrowerName>चंद्रकांत रंगनाथ जरग</CaneGrowerName>
+    <ServeyNo>73</ServeyNo>
+    <PlantationDate>05-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73230">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>25933</CaneGrowerCode>
+    <CaneGrowerName>अर्जुन गंगाधर पुजारी</CaneGrowerName>
+    <ServeyNo>1212</ServeyNo>
+    <PlantationDate>27-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73398">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>34883</CaneGrowerCode>
+    <CaneGrowerName>अमित&#x0;&#x0;                   शिवाजी&#x0;&#x0;                             पुजारी&#x0;&#x0;                            </CaneGrowerName>
+    <ServeyNo>34</ServeyNo>
+    <PlantationDate>14-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>3.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73439">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>34882</CaneGrowerCode>
+    <CaneGrowerName>विनोद&#x0;&#x0;                              शिवाजी&#x0;&#x0;                             पुजारी&#x0;&#x0;                            </CaneGrowerName>
+    <ServeyNo>88</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>3.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73635">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>35059</CaneGrowerCode>
+    <CaneGrowerName>ऊमद&#x0;&#x0;                    चांद&#x0;&#x0;                   शेख&#x0;&#x0;               </CaneGrowerName>
+    <ServeyNo>371</ServeyNo>
+    <PlantationDate>13-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73203">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>25746</CaneGrowerCode>
+    <CaneGrowerName>जगन्नाथ शंकर पुजारी</CaneGrowerName>
+    <ServeyNo>528</ServeyNo>
+    <PlantationDate>25-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73201">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>25776</CaneGrowerCode>
+    <CaneGrowerName>मधुकर प्रभाकर गुरव</CaneGrowerName>
+    <ServeyNo>529</ServeyNo>
+    <PlantationDate>27-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73200">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>25932</CaneGrowerCode>
+    <CaneGrowerName>मधुकर बापु पुजारी</CaneGrowerName>
+    <ServeyNo>37</ServeyNo>
+    <PlantationDate>15-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73199">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1060</VillageCode>
+    <VillageName>खरसुंडी</VillageName>
+    <Distance>60</Distance>
+    <CaneGrowerCode>29561</CaneGrowerCode>
+    <CaneGrowerName>प्रताप शामराव पुजारी</CaneGrowerName>
+    <ServeyNo>37</ServeyNo>
+    <PlantationDate>18-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72921">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>वलवण</VillageName>
+    <Distance>72</Distance>
+    <CaneGrowerCode>26513</CaneGrowerCode>
+    <CaneGrowerName>शहाजी तातोबा शिंदे</CaneGrowerName>
+    <ServeyNo>73</ServeyNo>
+    <PlantationDate>13-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BranchName>सागली जि.म.स बॅंक- खरसुंडी</BranchName>
+    <IFSC>IBKL0487SDC</IFSC>
+    <AccountNo>02105110007333</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72925">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>वलवण</VillageName>
+    <Distance>72</Distance>
+    <CaneGrowerCode>26513</CaneGrowerCode>
+    <CaneGrowerName>शहाजी तातोबा शिंदे</CaneGrowerName>
+    <ServeyNo>65</ServeyNo>
+    <PlantationDate>10-10-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BranchName>सागली जि.म.स बॅंक- खरसुंडी</BranchName>
+    <IFSC>IBKL0487SDC</IFSC>
+    <AccountNo>02105110007333</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72927">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>वलवण</VillageName>
+    <Distance>72</Distance>
+    <CaneGrowerCode>32381</CaneGrowerCode>
+    <CaneGrowerName>तानाजी ब्रम्हदेव जाधव</CaneGrowerName>
+    <ServeyNo>29</ServeyNo>
+    <PlantationDate>15-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - खरसुंडी</BranchName>
+    <IFSC>BKID0001602</IFSC>
+    <AccountNo>160210510004716</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72928">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>वलवण</VillageName>
+    <Distance>72</Distance>
+    <CaneGrowerCode>32394</CaneGrowerCode>
+    <CaneGrowerName>बाळासाहेब हाणमंत पोळ</CaneGrowerName>
+    <ServeyNo>80</ServeyNo>
+    <PlantationDate>25-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BranchName>सागली जि.म.स बॅंक- खरसुंडी</BranchName>
+    <IFSC>IBKL0487SDC</IFSC>
+    <AccountNo>02105090000435</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72929">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>वलवण</VillageName>
+    <Distance>72</Distance>
+    <CaneGrowerCode>25509</CaneGrowerCode>
+    <CaneGrowerName>विलास पांडुरंग कारंडे</CaneGrowerName>
+    <ServeyNo>310</ServeyNo>
+    <PlantationDate>13-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72938">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>वलवण</VillageName>
+    <Distance>72</Distance>
+    <CaneGrowerCode>25509</CaneGrowerCode>
+    <CaneGrowerName>विलास पांडुरंग कारंडे</CaneGrowerName>
+    <ServeyNo>73</ServeyNo>
+    <PlantationDate>05-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73586">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>वलवण</VillageName>
+    <Distance>72</Distance>
+    <CaneGrowerCode>25510</CaneGrowerCode>
+    <CaneGrowerName>शरद सुखदेव कारंडे</CaneGrowerName>
+    <ServeyNo>34</ServeyNo>
+    <PlantationDate>27-11-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919881175579</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73588">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>वलवण</VillageName>
+    <Distance>72</Distance>
+    <CaneGrowerCode>25510</CaneGrowerCode>
+    <CaneGrowerName>शरद सुखदेव कारंडे</CaneGrowerName>
+    <ServeyNo>390</ServeyNo>
+    <PlantationDate>14-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919881175579</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73589">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>वलवण</VillageName>
+    <Distance>72</Distance>
+    <CaneGrowerCode>32449</CaneGrowerCode>
+    <CaneGrowerName>अलका सिद्धेश्वर देवकर</CaneGrowerName>
+    <ServeyNo>66</ServeyNo>
+    <PlantationDate>11-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73591">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>वलवण</VillageName>
+    <Distance>72</Distance>
+    <CaneGrowerCode>35013</CaneGrowerCode>
+    <CaneGrowerName>पांडुरंग&#x0;&#x0;                                       परसु&#x0;&#x0;                       पाटील&#x0;&#x0;                         </CaneGrowerName>
+    <ServeyNo>412</ServeyNo>
+    <PlantationDate>21-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+</VerificationData>

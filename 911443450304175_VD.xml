@@ -1,0 +1,5103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VerificationData>
+  <PlotNo No="62921">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>371</VillageCode>
+    <VillageName>बावडा</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>26690</CaneGrowerCode>
+    <CaneGrowerName>विष्णू बाबुराव वाघमोडे</CaneGrowerName>
+    <ServeyNo>490</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70212">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>371</VillageCode>
+    <VillageName>बावडा</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>4953</CaneGrowerCode>
+    <CaneGrowerName>लक्ष्मी विलास शेंडगे</CaneGrowerName>
+    <ServeyNo>1080</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919764870196</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70213">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>371</VillageCode>
+    <VillageName>बावडा</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>4955</CaneGrowerCode>
+    <CaneGrowerName>अक्षय आजिनाथ वावरे</CaneGrowerName>
+    <ServeyNo>185</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>917350068411</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70214">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>371</VillageCode>
+    <VillageName>बावडा</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>8940</CaneGrowerCode>
+    <CaneGrowerName>मुरलीधर रामचंद्र केचे</CaneGrowerName>
+    <ServeyNo>948</ServeyNo>
+    <PlantationDate>04-09-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918308680069</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72378">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>371</VillageCode>
+    <VillageName>बावडा</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>31012</CaneGrowerCode>
+    <CaneGrowerName>तुकाराम धनाजी वाघमोडे</CaneGrowerName>
+    <ServeyNo>491</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75607">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>371</VillageCode>
+    <VillageName>बावडा</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>6613</CaneGrowerCode>
+    <CaneGrowerName>सोमनाथ राजेंद्र शेटे</CaneGrowerName>
+    <ServeyNo>111</ServeyNo>
+    <PlantationDate>28-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75607">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>371</VillageCode>
+    <VillageName>बावडा</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>6613</CaneGrowerCode>
+    <CaneGrowerName>सोमनाथ राजेंद्र शेटे</CaneGrowerName>
+    <ServeyNo>111</ServeyNo>
+    <PlantationDate>22-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75608">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>371</VillageCode>
+    <VillageName>बावडा</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>6478</CaneGrowerCode>
+    <CaneGrowerName>मोहन मल्हारी शेटे</CaneGrowerName>
+    <ServeyNo>52</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75609">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>371</VillageCode>
+    <VillageName>बावडा</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>6480</CaneGrowerCode>
+    <CaneGrowerName>नवनाथ उत्तम शेटे</CaneGrowerName>
+    <ServeyNo>70</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75609">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>371</VillageCode>
+    <VillageName>बावडा</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>6480</CaneGrowerCode>
+    <CaneGrowerName>नवनाथ उत्तम शेटे</CaneGrowerName>
+    <ServeyNo>70</ServeyNo>
+    <PlantationDate>25-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62920">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>375</VillageCode>
+    <VillageName>टणु</VillageName>
+    <Distance>69</Distance>
+    <CaneGrowerCode>4602</CaneGrowerCode>
+    <CaneGrowerName>गणेश बसवेश्वर गुजरे</CaneGrowerName>
+    <ServeyNo>161</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919158940021</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75598">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>13885</CaneGrowerCode>
+    <CaneGrowerName>वैजीनाथ बाळू घाडगे</CaneGrowerName>
+    <ServeyNo>122</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75598">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>13885</CaneGrowerCode>
+    <CaneGrowerName>वैजीनाथ बाळू घाडगे</CaneGrowerName>
+    <ServeyNo>122</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75599">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>13887</CaneGrowerCode>
+    <CaneGrowerName>यल्लाप्पा मच्छिंद्र शिंदे</CaneGrowerName>
+    <ServeyNo>301</ServeyNo>
+    <PlantationDate>20-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75600">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>6175</CaneGrowerCode>
+    <CaneGrowerName>परबतराव शाहुराव गायकवाड</CaneGrowerName>
+    <ServeyNo>92</ServeyNo>
+    <PlantationDate>30-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919764981898</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75600">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>6175</CaneGrowerCode>
+    <CaneGrowerName>परबतराव शाहुराव गायकवाड</CaneGrowerName>
+    <ServeyNo>92</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919764981898</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75601">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>5857</CaneGrowerCode>
+    <CaneGrowerName>कौशल्या बाळासाहेब घोगरे</CaneGrowerName>
+    <ServeyNo>16</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919766987033</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक ऑफ महाराष्ट्र</BankName>
+    <BranchName>बँक ऑफ महाराष्ट्र - बावडा</BranchName>
+    <IFSC>MAHB0001624</IFSC>
+    <AccountNo>60116611048</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75639">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>13886</CaneGrowerCode>
+    <CaneGrowerName>अशोक गुलाब सुर्वे</CaneGrowerName>
+    <ServeyNo>16</ServeyNo>
+    <PlantationDate>25-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75601">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>5857</CaneGrowerCode>
+    <CaneGrowerName>कौशल्या बाळासाहेब घोगरे</CaneGrowerName>
+    <ServeyNo>16</ServeyNo>
+    <PlantationDate>24-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919766987033</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक ऑफ महाराष्ट्र</BankName>
+    <BranchName>बँक ऑफ महाराष्ट्र - बावडा</BranchName>
+    <IFSC>MAHB0001624</IFSC>
+    <AccountNo>60116611048</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75637">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>13808</CaneGrowerCode>
+    <CaneGrowerName>सदाशिव जोतीराम दडस</CaneGrowerName>
+    <ServeyNo>82</ServeyNo>
+    <PlantationDate>19-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75637">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>13808</CaneGrowerCode>
+    <CaneGrowerName>सदाशिव जोतीराम दडस</CaneGrowerName>
+    <ServeyNo>82</ServeyNo>
+    <PlantationDate>22-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75638">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>12070</CaneGrowerCode>
+    <CaneGrowerName>तुकाराम जोतीबा दडस</CaneGrowerName>
+    <ServeyNo>216</ServeyNo>
+    <PlantationDate>05-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75638">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>12070</CaneGrowerCode>
+    <CaneGrowerName>तुकाराम जोतीबा दडस</CaneGrowerName>
+    <ServeyNo>216</ServeyNo>
+    <PlantationDate>19-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75639">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>426</VillageCode>
+    <VillageName>सुरवड</VillageName>
+    <Distance>63</Distance>
+    <CaneGrowerCode>13886</CaneGrowerCode>
+    <CaneGrowerName>अशोक गुलाब सुर्वे</CaneGrowerName>
+    <ServeyNo>16</ServeyNo>
+    <PlantationDate>25-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63424">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>20490</CaneGrowerCode>
+    <CaneGrowerName>धर्मेंद्र नामदेव शिंदे</CaneGrowerName>
+    <ServeyNo>102</ServeyNo>
+    <PlantationDate>22-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919527952037</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63425">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8674</CaneGrowerCode>
+    <CaneGrowerName>देविदास नामदेव शिंदे</CaneGrowerName>
+    <ServeyNo>226</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63426">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>11678</CaneGrowerCode>
+    <CaneGrowerName>आण्णासो पांडुरंग कदम</CaneGrowerName>
+    <ServeyNo>228</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>2.1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70151">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8674</CaneGrowerCode>
+    <CaneGrowerName>देविदास नामदेव शिंदे</CaneGrowerName>
+    <ServeyNo>121</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70151">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8674</CaneGrowerCode>
+    <CaneGrowerName>देविदास नामदेव शिंदे</CaneGrowerName>
+    <ServeyNo>121</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70152">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6584</CaneGrowerCode>
+    <CaneGrowerName>महेंद्र मोतीराम परकाळे</CaneGrowerName>
+    <ServeyNo>360</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74709">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6500</CaneGrowerCode>
+    <CaneGrowerName>नवनाथ प्रकाश सावंत</CaneGrowerName>
+    <ServeyNo>211</ServeyNo>
+    <PlantationDate>25-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74710">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>13805</CaneGrowerCode>
+    <CaneGrowerName>विजय दत्तात्रय माने</CaneGrowerName>
+    <ServeyNo>237</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74710">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>13805</CaneGrowerCode>
+    <CaneGrowerName>विजय दत्तात्रय माने</CaneGrowerName>
+    <ServeyNo>237</ServeyNo>
+    <PlantationDate>19-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74707">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6497</CaneGrowerCode>
+    <CaneGrowerName>सागर मनोहर कोकणे</CaneGrowerName>
+    <ServeyNo>216</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74707">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6497</CaneGrowerCode>
+    <CaneGrowerName>सागर मनोहर कोकणे</CaneGrowerName>
+    <ServeyNo>216</ServeyNo>
+    <PlantationDate>24-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74708">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6351</CaneGrowerCode>
+    <CaneGrowerName>शैलेश भानुदास गायकवाड</CaneGrowerName>
+    <ServeyNo>96</ServeyNo>
+    <PlantationDate>21-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919552609943</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74708">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6351</CaneGrowerCode>
+    <CaneGrowerName>शैलेश भानुदास गायकवाड</CaneGrowerName>
+    <ServeyNo>96</ServeyNo>
+    <PlantationDate>27-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919552609943</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74708">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6351</CaneGrowerCode>
+    <CaneGrowerName>शैलेश भानुदास गायकवाड</CaneGrowerName>
+    <ServeyNo>96</ServeyNo>
+    <PlantationDate>30-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919552609943</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74709">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6500</CaneGrowerCode>
+    <CaneGrowerName>नवनाथ प्रकाश सावंत</CaneGrowerName>
+    <ServeyNo>211</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74704">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6587</CaneGrowerCode>
+    <CaneGrowerName>कैलास पंढरीनाथ शिंदे</CaneGrowerName>
+    <ServeyNo>118</ServeyNo>
+    <PlantationDate>22-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74705">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6703</CaneGrowerCode>
+    <CaneGrowerName>रुक्मीणी केशव शिंदे</CaneGrowerName>
+    <ServeyNo>16</ServeyNo>
+    <PlantationDate>28-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74705">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6703</CaneGrowerCode>
+    <CaneGrowerName>रुक्मीणी केशव शिंदे</CaneGrowerName>
+    <ServeyNo>16</ServeyNo>
+    <PlantationDate>24-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74706">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12069</CaneGrowerCode>
+    <CaneGrowerName>विकास रामचंद्र बोडके</CaneGrowerName>
+    <ServeyNo>56</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74706">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12069</CaneGrowerCode>
+    <CaneGrowerName>विकास रामचंद्र बोडके</CaneGrowerName>
+    <ServeyNo>56</ServeyNo>
+    <PlantationDate>27-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74706">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12069</CaneGrowerCode>
+    <CaneGrowerName>विकास रामचंद्र बोडके</CaneGrowerName>
+    <ServeyNo>56</ServeyNo>
+    <PlantationDate>12-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74701">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>10347</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र मुरलीधर गरड</CaneGrowerName>
+    <ServeyNo>82</ServeyNo>
+    <PlantationDate>04-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74702">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8679</CaneGrowerCode>
+    <CaneGrowerName>रुपेश मधुकर गायकवाड</CaneGrowerName>
+    <ServeyNo>16</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74703">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8733</CaneGrowerCode>
+    <CaneGrowerName>नंदकुमार लक्ष्मण गायकवाड</CaneGrowerName>
+    <ServeyNo>110</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>AYOPG2720R</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74703">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8733</CaneGrowerCode>
+    <CaneGrowerName>नंदकुमार लक्ष्मण गायकवाड</CaneGrowerName>
+    <ServeyNo>110</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>AYOPG2720R</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74703">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8733</CaneGrowerCode>
+    <CaneGrowerName>नंदकुमार लक्ष्मण गायकवाड</CaneGrowerName>
+    <ServeyNo>110</ServeyNo>
+    <PlantationDate>02-11-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>AYOPG2720R</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74704">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6587</CaneGrowerCode>
+    <CaneGrowerName>कैलास पंढरीनाथ शिंदे</CaneGrowerName>
+    <ServeyNo>118</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74699">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6588</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय पंढरीनाथ शिंदे</CaneGrowerName>
+    <ServeyNo>19</ServeyNo>
+    <PlantationDate>29-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74699">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6588</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय पंढरीनाथ शिंदे</CaneGrowerName>
+    <ServeyNo>19</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74700">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6373</CaneGrowerCode>
+    <CaneGrowerName>सतिश विठ्ठल शिंदे</CaneGrowerName>
+    <ServeyNo>76</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960960599</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74700">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6373</CaneGrowerCode>
+    <CaneGrowerName>सतिश विठ्ठल शिंदे</CaneGrowerName>
+    <ServeyNo>76</ServeyNo>
+    <PlantationDate>22-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960960599</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74700">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6373</CaneGrowerCode>
+    <CaneGrowerName>सतिश विठ्ठल शिंदे</CaneGrowerName>
+    <ServeyNo>76</ServeyNo>
+    <PlantationDate>02-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960960599</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74701">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>10347</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र मुरलीधर गरड</CaneGrowerName>
+    <ServeyNo>82</ServeyNo>
+    <PlantationDate>30-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74696">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6520</CaneGrowerCode>
+    <CaneGrowerName>विजयकुमार श्रीपती पताळे</CaneGrowerName>
+    <ServeyNo>24</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74696">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6520</CaneGrowerCode>
+    <CaneGrowerName>विजयकुमार श्रीपती पताळे</CaneGrowerName>
+    <ServeyNo>24</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74697">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>13798</CaneGrowerCode>
+    <CaneGrowerName>सतिश महादेव माळशिखरे</CaneGrowerName>
+    <ServeyNo>143</ServeyNo>
+    <PlantationDate>12-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74697">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>13798</CaneGrowerCode>
+    <CaneGrowerName>सतिश महादेव माळशिखरे</CaneGrowerName>
+    <ServeyNo>143</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74698">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6611</CaneGrowerCode>
+    <CaneGrowerName>लक्ष्मी निळकंठ शिंगाडे</CaneGrowerName>
+    <ServeyNo>62</ServeyNo>
+    <PlantationDate>31-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74698">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6611</CaneGrowerCode>
+    <CaneGrowerName>लक्ष्मी निळकंठ शिंगाडे</CaneGrowerName>
+    <ServeyNo>62</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74693">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8790</CaneGrowerCode>
+    <CaneGrowerName>धनाजी शिवाजी परकाळे</CaneGrowerName>
+    <ServeyNo>121</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74693">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8790</CaneGrowerCode>
+    <CaneGrowerName>धनाजी शिवाजी परकाळे</CaneGrowerName>
+    <ServeyNo>121</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74694">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8680</CaneGrowerCode>
+    <CaneGrowerName>भारत निवृत्ती गायकवाड</CaneGrowerName>
+    <ServeyNo>134</ServeyNo>
+    <PlantationDate>19-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74694">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8680</CaneGrowerCode>
+    <CaneGrowerName>भारत निवृत्ती गायकवाड</CaneGrowerName>
+    <ServeyNo>134</ServeyNo>
+    <PlantationDate>29-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74695">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6514</CaneGrowerCode>
+    <CaneGrowerName>महादेव महिपती कोकणे</CaneGrowerName>
+    <ServeyNo>36</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74695">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6514</CaneGrowerCode>
+    <CaneGrowerName>महादेव महिपती कोकणे</CaneGrowerName>
+    <ServeyNo>36</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74529">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>23621</CaneGrowerCode>
+    <CaneGrowerName>सतिश महादेव माळशिकारे</CaneGrowerName>
+    <ServeyNo>39</ServeyNo>
+    <PlantationDate>03-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74529">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>23621</CaneGrowerCode>
+    <CaneGrowerName>सतिश महादेव माळशिकारे</CaneGrowerName>
+    <ServeyNo>39</ServeyNo>
+    <PlantationDate>10-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74529">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>23621</CaneGrowerCode>
+    <CaneGrowerName>सतिश महादेव माळशिकारे</CaneGrowerName>
+    <ServeyNo>39</ServeyNo>
+    <PlantationDate>30-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74530">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>11348</CaneGrowerCode>
+    <CaneGrowerName>सतिश पोपट गायकवाड</CaneGrowerName>
+    <ServeyNo>21</ServeyNo>
+    <PlantationDate>07-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74530">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>11348</CaneGrowerCode>
+    <CaneGrowerName>सतिश पोपट गायकवाड</CaneGrowerName>
+    <ServeyNo>21</ServeyNo>
+    <PlantationDate>05-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74692">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8681</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र नरहरी कदम</CaneGrowerName>
+    <ServeyNo>20</ServeyNo>
+    <PlantationDate>28-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74525">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6615</CaneGrowerCode>
+    <CaneGrowerName>आबासाहेब नामदेव कोकणे</CaneGrowerName>
+    <ServeyNo>72</ServeyNo>
+    <PlantationDate>22-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74526">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6818</CaneGrowerCode>
+    <CaneGrowerName>हनुमंत युवराज गायकवाड</CaneGrowerName>
+    <ServeyNo>147</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74527">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6586</CaneGrowerCode>
+    <CaneGrowerName>किरण युवराज गायकवाड</CaneGrowerName>
+    <ServeyNo>146</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74527">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6586</CaneGrowerCode>
+    <CaneGrowerName>किरण युवराज गायकवाड</CaneGrowerName>
+    <ServeyNo>146</ServeyNo>
+    <PlantationDate>29-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74528">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>13805</CaneGrowerCode>
+    <CaneGrowerName>विजय दत्तात्रय माने</CaneGrowerName>
+    <ServeyNo>37</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74528">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>13805</CaneGrowerCode>
+    <CaneGrowerName>विजय दत्तात्रय माने</CaneGrowerName>
+    <ServeyNo>37</ServeyNo>
+    <PlantationDate>03-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74522">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6699</CaneGrowerCode>
+    <CaneGrowerName>रंजना बबन जाधव</CaneGrowerName>
+    <ServeyNo>41</ServeyNo>
+    <PlantationDate>12-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74522">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6699</CaneGrowerCode>
+    <CaneGrowerName>रंजना बबन जाधव</CaneGrowerName>
+    <ServeyNo>41</ServeyNo>
+    <PlantationDate>29-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74523">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6703</CaneGrowerCode>
+    <CaneGrowerName>रुक्मीणी केशव शिंदे</CaneGrowerName>
+    <ServeyNo>72</ServeyNo>
+    <PlantationDate>28-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74523">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6703</CaneGrowerCode>
+    <CaneGrowerName>रुक्मीणी केशव शिंदे</CaneGrowerName>
+    <ServeyNo>72</ServeyNo>
+    <PlantationDate>24-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74524">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6616</CaneGrowerCode>
+    <CaneGrowerName>मच्छिंद्र पंढरीनाथ गायकवाड</CaneGrowerName>
+    <ServeyNo>96</ServeyNo>
+    <PlantationDate>29-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74524">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6616</CaneGrowerCode>
+    <CaneGrowerName>मच्छिंद्र पंढरीनाथ गायकवाड</CaneGrowerName>
+    <ServeyNo>96</ServeyNo>
+    <PlantationDate>14-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74518">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>10378</CaneGrowerCode>
+    <CaneGrowerName>सदानंद मुरलीधर गरड</CaneGrowerName>
+    <ServeyNo>28</ServeyNo>
+    <PlantationDate>21-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74518">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>10378</CaneGrowerCode>
+    <CaneGrowerName>सदानंद मुरलीधर गरड</CaneGrowerName>
+    <ServeyNo>28</ServeyNo>
+    <PlantationDate>30-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74520">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6611</CaneGrowerCode>
+    <CaneGrowerName>लक्ष्मी निळकंठ शिंगाडे</CaneGrowerName>
+    <ServeyNo>175</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74520">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6611</CaneGrowerCode>
+    <CaneGrowerName>लक्ष्मी निळकंठ शिंगाडे</CaneGrowerName>
+    <ServeyNo>175</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74521">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6700</CaneGrowerCode>
+    <CaneGrowerName>नंदाबाई विठ्ठल शिंदे</CaneGrowerName>
+    <ServeyNo>78</ServeyNo>
+    <PlantationDate>24-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74521">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6700</CaneGrowerCode>
+    <CaneGrowerName>नंदाबाई विठ्ठल शिंदे</CaneGrowerName>
+    <ServeyNo>78</ServeyNo>
+    <PlantationDate>28-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74512">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8679</CaneGrowerCode>
+    <CaneGrowerName>रुपेश मधुकर गायकवाड</CaneGrowerName>
+    <ServeyNo>21</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74513">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6587</CaneGrowerCode>
+    <CaneGrowerName>कैलास पंढरीनाथ शिंदे</CaneGrowerName>
+    <ServeyNo>18</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74513">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6587</CaneGrowerCode>
+    <CaneGrowerName>कैलास पंढरीनाथ शिंदे</CaneGrowerName>
+    <ServeyNo>18</ServeyNo>
+    <PlantationDate>22-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74514">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6588</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय पंढरीनाथ शिंदे</CaneGrowerName>
+    <ServeyNo>67</ServeyNo>
+    <PlantationDate>29-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74514">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6588</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय पंढरीनाथ शिंदे</CaneGrowerName>
+    <ServeyNo>67</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74518">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>10378</CaneGrowerCode>
+    <CaneGrowerName>सदानंद मुरलीधर गरड</CaneGrowerName>
+    <ServeyNo>28</ServeyNo>
+    <PlantationDate>02-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74509">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>11346</CaneGrowerCode>
+    <CaneGrowerName>विष्णू मुरलिधर गरड</CaneGrowerName>
+    <ServeyNo>87</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74509">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>11346</CaneGrowerCode>
+    <CaneGrowerName>विष्णू मुरलिधर गरड</CaneGrowerName>
+    <ServeyNo>78</ServeyNo>
+    <PlantationDate>21-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74510">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>10347</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र मुरलीधर गरड</CaneGrowerName>
+    <ServeyNo>52</ServeyNo>
+    <PlantationDate>30-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74510">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>10347</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र मुरलीधर गरड</CaneGrowerName>
+    <ServeyNo>52</ServeyNo>
+    <PlantationDate>04-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74511">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8790</CaneGrowerCode>
+    <CaneGrowerName>धनाजी शिवाजी परकाळे</CaneGrowerName>
+    <ServeyNo>105</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74511">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8790</CaneGrowerCode>
+    <CaneGrowerName>धनाजी शिवाजी परकाळे</CaneGrowerName>
+    <ServeyNo>105</ServeyNo>
+    <PlantationDate>18-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70207">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6585</CaneGrowerCode>
+    <CaneGrowerName>शहाजी नामदेव गायकवाड</CaneGrowerName>
+    <ServeyNo>115</ServeyNo>
+    <PlantationDate>29-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>2.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70208">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>20490</CaneGrowerCode>
+    <CaneGrowerName>धर्मेंद्र नामदेव शिंदे</CaneGrowerName>
+    <ServeyNo>121</ServeyNo>
+    <PlantationDate>21-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919527952037</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70208">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>20490</CaneGrowerCode>
+    <CaneGrowerName>धर्मेंद्र नामदेव शिंदे</CaneGrowerName>
+    <ServeyNo>112</ServeyNo>
+    <PlantationDate>25-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919527952037</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70211">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>13871</CaneGrowerCode>
+    <CaneGrowerName>लक्ष्मण महादेव आसबे</CaneGrowerName>
+    <ServeyNo>412</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72387">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6384</CaneGrowerCode>
+    <CaneGrowerName>मनसुर गुलाब मनेरी</CaneGrowerName>
+    <ServeyNo>305</ServeyNo>
+    <PlantationDate>20-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919623663731</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72387">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6384</CaneGrowerCode>
+    <CaneGrowerName>मनसुर गुलाब मनेरी</CaneGrowerName>
+    <ServeyNo>35</ServeyNo>
+    <PlantationDate>20-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919623663731</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70154">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12430</CaneGrowerCode>
+    <CaneGrowerName>बाळू तुळशिराम गायकवाड</CaneGrowerName>
+    <ServeyNo>340</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70155">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8683</CaneGrowerCode>
+    <CaneGrowerName>तुळशिराम किसन गायकवाड</CaneGrowerName>
+    <ServeyNo>340</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70156">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>7797</CaneGrowerCode>
+    <CaneGrowerName>आप्पा ज्ञानु पोळ</CaneGrowerName>
+    <ServeyNo>115</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70157">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6498</CaneGrowerCode>
+    <CaneGrowerName>बापुराव ज्ञानदेव गायकवाड</CaneGrowerName>
+    <ServeyNo>115</ServeyNo>
+    <PlantationDate>29-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>2.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70205">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6648</CaneGrowerCode>
+    <CaneGrowerName>वैशाली वाल्मिक पवार</CaneGrowerName>
+    <ServeyNo>41</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70206">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>8904</CaneGrowerCode>
+    <CaneGrowerName>चंद्रशेखर कांतीलाल गायकवाड</CaneGrowerName>
+    <ServeyNo>340</ServeyNo>
+    <PlantationDate>05-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70152">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6584</CaneGrowerCode>
+    <CaneGrowerName>महेंद्र मोतीराम परकाळे</CaneGrowerName>
+    <ServeyNo>360</ServeyNo>
+    <PlantationDate>15-11-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70152">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6584</CaneGrowerCode>
+    <CaneGrowerName>महेंद्र मोतीराम परकाळे</CaneGrowerName>
+    <ServeyNo>360</ServeyNo>
+    <PlantationDate>14-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70153">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>868</CaneGrowerCode>
+    <CaneGrowerName>मुरलीधर पांडूरंग टिंगरे</CaneGrowerName>
+    <ServeyNo>1980</ServeyNo>
+    <PlantationDate>28-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70153">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>868</CaneGrowerCode>
+    <CaneGrowerName>मुरलीधर पांडूरंग टिंगरे</CaneGrowerName>
+    <ServeyNo>1080</ServeyNo>
+    <PlantationDate>14-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70154">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12430</CaneGrowerCode>
+    <CaneGrowerName>बाळू तुळशिराम गायकवाड</CaneGrowerName>
+    <ServeyNo>340</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70154">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>451</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12430</CaneGrowerCode>
+    <CaneGrowerName>बाळू तुळशिराम गायकवाड</CaneGrowerName>
+    <ServeyNo>340</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74515">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>471</VillageCode>
+    <VillageName>बेडशिंगे</VillageName>
+    <Distance>73</Distance>
+    <CaneGrowerCode>6463</CaneGrowerCode>
+    <CaneGrowerName>बाबुराव लक्ष्मण यादव</CaneGrowerName>
+    <ServeyNo>201</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74515">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>471</VillageCode>
+    <VillageName>बेडशिंगे</VillageName>
+    <Distance>73</Distance>
+    <CaneGrowerCode>6463</CaneGrowerCode>
+    <CaneGrowerName>बाबुराव लक्ष्मण यादव</CaneGrowerName>
+    <ServeyNo>201</ServeyNo>
+    <PlantationDate>21-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74519">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>471</VillageCode>
+    <VillageName>बेडशिंगे</VillageName>
+    <Distance>73</Distance>
+    <CaneGrowerCode>6475</CaneGrowerCode>
+    <CaneGrowerName>मधुकर लक्ष्मण यादव</CaneGrowerName>
+    <ServeyNo>1215</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919766533642</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बॅंक ऑफ इंडिया - इंदापूर</BranchName>
+    <IFSC>SBIN0006793</IFSC>
+    <AccountNo>32730710592</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74519">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>471</VillageCode>
+    <VillageName>बेडशिंगे</VillageName>
+    <Distance>73</Distance>
+    <CaneGrowerCode>6475</CaneGrowerCode>
+    <CaneGrowerName>मधुकर लक्ष्मण यादव</CaneGrowerName>
+    <ServeyNo>1525</ServeyNo>
+    <PlantationDate>15-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919766533642</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बॅंक ऑफ इंडिया - इंदापूर</BranchName>
+    <IFSC>SBIN0006793</IFSC>
+    <AccountNo>32730710592</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62584">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>10366</CaneGrowerCode>
+    <CaneGrowerName>रामदास विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>1.2</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62585">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>10366</CaneGrowerCode>
+    <CaneGrowerName>रामदास विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>Feb-31</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62586">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>10368</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>83</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62586">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>10368</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>60/1</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62587">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>10369</CaneGrowerCode>
+    <CaneGrowerName>हरीदास विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>41</ServeyNo>
+    <PlantationDate>05-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63045">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>12067</CaneGrowerCode>
+    <CaneGrowerName>संगिता रमेश मोरे</CaneGrowerName>
+    <ServeyNo>252</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74508">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>31691</CaneGrowerCode>
+    <CaneGrowerName>गणेश बाळासाहेब गोपलकर</CaneGrowerName>
+    <ServeyNo>111</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बॅंक ऑफ इंडिया - इंदापूर</BranchName>
+    <IFSC>SBIN0006793</IFSC>
+    <AccountNo>35463874235</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74508">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>31691</CaneGrowerCode>
+    <CaneGrowerName>गणेश बाळासाहेब गोपलकर</CaneGrowerName>
+    <ServeyNo>49</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बॅंक ऑफ इंडिया - इंदापूर</BranchName>
+    <IFSC>SBIN0006793</IFSC>
+    <AccountNo>35463874235</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="74508">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>31691</CaneGrowerCode>
+    <CaneGrowerName>गणेश बाळासाहेब गोपलकर</CaneGrowerName>
+    <ServeyNo>111</ServeyNo>
+    <PlantationDate>25-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बॅंक ऑफ इंडिया - इंदापूर</BranchName>
+    <IFSC>SBIN0006793</IFSC>
+    <AccountNo>35463874235</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72385">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>9673</CaneGrowerCode>
+    <CaneGrowerName>कल्याण नागनाथ शिंदे</CaneGrowerName>
+    <ServeyNo>55</ServeyNo>
+    <PlantationDate>28-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72385">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>9673</CaneGrowerCode>
+    <CaneGrowerName>कल्याण नागनाथ शिंदे</CaneGrowerName>
+    <ServeyNo>55</ServeyNo>
+    <PlantationDate>17-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72386">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>9676</CaneGrowerCode>
+    <CaneGrowerName>नानासो दगडू पोळ</CaneGrowerName>
+    <ServeyNo>86</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72386">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>9676</CaneGrowerCode>
+    <CaneGrowerName>नानासो दगडू पोळ</CaneGrowerName>
+    <ServeyNo>86</ServeyNo>
+    <PlantationDate>20-10-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73990">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>35336</CaneGrowerCode>
+    <CaneGrowerName>गिरीजाबाई&#x0;&#x0;                                              साधु&#x0;&#x0;                   कानगुडे&#x0;&#x0;                                   </CaneGrowerName>
+    <ServeyNo>87</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73992">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>35337</CaneGrowerCode>
+    <CaneGrowerName>साधु&#x0;&#x0;                   शंकर&#x0;&#x0;                       कानपुरी&#x0;&#x0;                                   </CaneGrowerName>
+    <ServeyNo>78</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70203">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>10368</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>83</ServeyNo>
+    <PlantationDate>10-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70203">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>10368</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>60</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70204">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>10366</CaneGrowerCode>
+    <CaneGrowerName>रामदास विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>231</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72376">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>34409</CaneGrowerCode>
+    <CaneGrowerName>पांडुरंग नारायण राहिगुडे</CaneGrowerName>
+    <ServeyNo>391</ServeyNo>
+    <PlantationDate>29-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72384">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>31502</CaneGrowerCode>
+    <CaneGrowerName>सोमनाथ किसन कवितके</CaneGrowerName>
+    <ServeyNo>150</ServeyNo>
+    <PlantationDate>25-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक ऑफ महाराष्ट्र</BankName>
+    <BranchName>बॅक ऑफ महाराष्ट्र -इंदापुर</BranchName>
+    <IFSC>MAHB0000101</IFSC>
+    <AccountNo>60130877768</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72384">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>31502</CaneGrowerCode>
+    <CaneGrowerName>सोमनाथ किसन कवितके</CaneGrowerName>
+    <ServeyNo>150</ServeyNo>
+    <PlantationDate>25-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक ऑफ महाराष्ट्र</BankName>
+    <BranchName>बॅक ऑफ महाराष्ट्र -इंदापुर</BranchName>
+    <IFSC>MAHB0000101</IFSC>
+    <AccountNo>60130877768</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63422">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>16242</CaneGrowerCode>
+    <CaneGrowerName>भालचंद्र अर्जुन मोरे</CaneGrowerName>
+    <ServeyNo>108</ServeyNo>
+    <PlantationDate>21-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63423">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>12967</CaneGrowerCode>
+    <CaneGrowerName>अरुण दत्तात्रय शिंदे</CaneGrowerName>
+    <ServeyNo>90</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70200">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>31939</CaneGrowerCode>
+    <CaneGrowerName>रामदास बाबु गायकवाड</CaneGrowerName>
+    <ServeyNo>48</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बॅंक ऑफ इंडिया - इंदापूर</BranchName>
+    <IFSC>SBIN0006793</IFSC>
+    <AccountNo>34226870238</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70201">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>12063</CaneGrowerCode>
+    <CaneGrowerName>बाबु निवृत्ती शिंदे</CaneGrowerName>
+    <ServeyNo>74</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70202">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>10358</CaneGrowerCode>
+    <CaneGrowerName>शांताराम विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>148</ServeyNo>
+    <PlantationDate>09-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70202">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>10358</CaneGrowerCode>
+    <CaneGrowerName>शांताराम विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>148</ServeyNo>
+    <PlantationDate>29-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63049">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>12067</CaneGrowerCode>
+    <CaneGrowerName>संगिता रमेश मोरे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63050">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>9678</CaneGrowerCode>
+    <CaneGrowerName>विजय अंकुश कारंडे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63051">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>12969</CaneGrowerCode>
+    <CaneGrowerName>विजयकुमार सर्जेराव पेंडवळे</CaneGrowerName>
+    <ServeyNo>173</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63051">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>12969</CaneGrowerCode>
+    <CaneGrowerName>विजयकुमार सर्जेराव पेंडवळे</CaneGrowerName>
+    <ServeyNo>173</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63421">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>12067</CaneGrowerCode>
+    <CaneGrowerName>संगिता रमेश मोरे</CaneGrowerName>
+    <ServeyNo>96</ServeyNo>
+    <PlantationDate>29-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63421">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>12067</CaneGrowerCode>
+    <CaneGrowerName>संगिता रमेश मोरे</CaneGrowerName>
+    <ServeyNo>96</ServeyNo>
+    <PlantationDate>29-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63045">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>12067</CaneGrowerCode>
+    <CaneGrowerName>संगिता रमेश मोरे</CaneGrowerName>
+    <ServeyNo>252</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63046">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>9673</CaneGrowerCode>
+    <CaneGrowerName>कल्याण नागनाथ शिंदे</CaneGrowerName>
+    <ServeyNo>94</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63047">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>15931</CaneGrowerCode>
+    <CaneGrowerName>अमोल बाळासो शिंदे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63047">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>15931</CaneGrowerCode>
+    <CaneGrowerName>अमोल बाळासो शिंदे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63048">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>9674</CaneGrowerCode>
+    <CaneGrowerName>पोपट महादेव शिंदे</CaneGrowerName>
+    <ServeyNo>361</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919545631402</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63048">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>584</VillageCode>
+    <VillageName>अवसरी</VillageName>
+    <Distance>70</Distance>
+    <CaneGrowerCode>9674</CaneGrowerCode>
+    <CaneGrowerName>पोपट महादेव शिंदे</CaneGrowerName>
+    <ServeyNo>361</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919545631402</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63420">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>1117</VillageCode>
+    <VillageName>वरकुटे बु.&#x0;</VillageName>
+    <Distance>90</Distance>
+    <CaneGrowerCode>27587</CaneGrowerCode>
+    <CaneGrowerName>गौरव शिवाजी जगताप</CaneGrowerName>
+    <ServeyNo>119</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63420">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>1117</VillageCode>
+    <VillageName>वरकुटे बु.&#x0;</VillageName>
+    <Distance>90</Distance>
+    <CaneGrowerCode>27587</CaneGrowerCode>
+    <CaneGrowerName>गौरव शिवाजी जगताप</CaneGrowerName>
+    <ServeyNo>119</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72389">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>1327</VillageCode>
+    <VillageName>माळवाडी नं1(इंदापुर)&#x0;</VillageName>
+    <Distance>78</Distance>
+    <CaneGrowerCode>31516</CaneGrowerCode>
+    <CaneGrowerName>हणुमंत जालिंदर गार्डे</CaneGrowerName>
+    <ServeyNo>576</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72390">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>7</GatCode>
+    <GatName>इंदापूर</GatName>
+    <VillageCode>1327</VillageCode>
+    <VillageName>माळवाडी नं1(इंदापुर)&#x0;</VillageName>
+    <Distance>78</Distance>
+    <CaneGrowerCode>31992</CaneGrowerCode>
+    <CaneGrowerName>कमल बळी भोंग</CaneGrowerName>
+    <ServeyNo>579</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>इंदापूर अर्बन को. ऑप. बँक लि,</BankName>
+    <BranchName>इंदापूर</BranchName>
+    <IFSC>ICIC00INDPR</IFSC>
+    <AccountNo>002002029552</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+</VerificationData>
