@@ -954,7 +954,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सातारा जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सातारा जि.म.स.बँक लि.</BankName>
     <BranchName>सातारा जि.म.सह बँक लि. - कुकुडवाड</BranchName>
     <IFSC>IBKL0485SDC</IFSC>
     <AccountNo>1079006004294</AccountNo>
@@ -984,7 +984,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सातारा जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सातारा जि.म.स.बँक लि.</BankName>
     <BranchName>सातारा जि.म.सह बँक लि. - कुकुडवाड</BranchName>
     <IFSC>IBKL0485SDC</IFSC>
     <AccountNo>1079006004294</AccountNo>
@@ -2465,7 +2465,7 @@
     <GatCode>5</GatCode>
     <GatName>माण</GatName>
     <VillageCode>228</VillageCode>
-    <VillageName>जांभुळणी (मा)&#x0;</VillageName>
+    <VillageName>जांभुळणी (मा)</VillageName>
     <Distance>35</Distance>
     <CaneGrowerCode>5714</CaneGrowerCode>
     <CaneGrowerName>गंगाराम जगु कोकरे</CaneGrowerName>
@@ -2495,7 +2495,7 @@
     <GatCode>5</GatCode>
     <GatName>माण</GatName>
     <VillageCode>228</VillageCode>
-    <VillageName>जांभुळणी (मा)&#x0;</VillageName>
+    <VillageName>जांभुळणी (मा)</VillageName>
     <Distance>35</Distance>
     <CaneGrowerCode>34468</CaneGrowerCode>
     <CaneGrowerName>राघू जगू कोकरे</CaneGrowerName>
@@ -2514,7 +2514,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सातारा जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सातारा जि.म.स.बँक लि.</BankName>
     <BranchName>सातारा जि.म.स.बॅंक लि. - पुळकोटी</BranchName>
     <IFSC>IBKL0485SDC</IFSC>
     <AccountNo>1172006004677</AccountNo>
@@ -2525,7 +2525,7 @@
     <GatCode>5</GatCode>
     <GatName>माण</GatName>
     <VillageCode>228</VillageCode>
-    <VillageName>जांभुळणी (मा)&#x0;</VillageName>
+    <VillageName>जांभुळणी (मा)</VillageName>
     <Distance>0</Distance>
     <CaneGrowerCode>34468</CaneGrowerCode>
     <CaneGrowerName>राघू जगू कोकरे</CaneGrowerName>
@@ -2544,7 +2544,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सातारा जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सातारा जि.म.स.बँक लि.</BankName>
     <BranchName>सातारा जि.म.स.बॅंक लि. - पुळकोटी</BranchName>
     <IFSC>IBKL0485SDC</IFSC>
     <AccountNo>1172006004677</AccountNo>
@@ -2738,7 +2738,7 @@
     <VillageName>पानवण</VillageName>
     <Distance>37</Distance>
     <CaneGrowerCode>35633</CaneGrowerCode>
-    <CaneGrowerName>सदाशिव&#x0;&#x0;                                 ज्ञानु&#x0;&#x0;                 तुपे&#x0;&#x0;                  </CaneGrowerName>
+    <CaneGrowerName>सदाशिव                                 ज्ञानु                 तुपे                  </CaneGrowerName>
     <ServeyNo>652</ServeyNo>
     <PlantationDate>15-08-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -2768,7 +2768,7 @@
     <VillageName>पानवण</VillageName>
     <Distance>37</Distance>
     <CaneGrowerCode>35634</CaneGrowerCode>
-    <CaneGrowerName>शंकर&#x0;&#x0;                       सदाशीव&#x0;&#x0;                                 तुपे&#x0;&#x0;                  </CaneGrowerName>
+    <CaneGrowerName>शंकर                       सदाशीव                                 तुपे                  </CaneGrowerName>
     <ServeyNo>469</ServeyNo>
     <PlantationDate>20-08-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -2798,7 +2798,7 @@
     <VillageName>पानवण</VillageName>
     <Distance>37</Distance>
     <CaneGrowerCode>35634</CaneGrowerCode>
-    <CaneGrowerName>शंकर&#x0;&#x0;                       सदाशीव&#x0;&#x0;                                 तुपे&#x0;&#x0;                  </CaneGrowerName>
+    <CaneGrowerName>शंकर                       सदाशीव                                 तुपे                  </CaneGrowerName>
     <ServeyNo>649</ServeyNo>
     <PlantationDate>22-08-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>

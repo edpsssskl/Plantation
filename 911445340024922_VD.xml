@@ -1104,7 +1104,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सोलापूर जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सोलापूर जि.म.स.बँक लि.</BankName>
     <BranchName>सोलापूर जि.म. स. बॅंक लि. माणकी</BranchName>
     <IFSC>YESB0SDC001</IFSC>
     <AccountNo>151202840002599</AccountNo>
@@ -2844,7 +2844,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>वैणगंगा कृष्णा ग्रामीण बँक लि.&#x0;</BankName>
+    <BankName>वैणगंगा कृष्णा ग्रामीण बँक लि.</BankName>
     <BranchName>वैनगंगा कृष्णा ग्रामीण बॅक - ईस्लामपूर</BranchName>
     <IFSC>BKID0WAINGB</IFSC>
     <AccountNo>200810110000199</AccountNo>
@@ -4194,7 +4194,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सोलापूर जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सोलापूर जि.म.स.बँक लि.</BankName>
     <BranchName>सोलापूर जि.म. स. बॅंक लि. माणकी</BranchName>
     <IFSC>YESB0SDC001</IFSC>
     <AccountNo>151202840002599</AccountNo>
@@ -5664,7 +5664,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सोलापूर जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सोलापूर जि.म.स.बँक लि.</BankName>
     <BranchName>सोलापूर जि.म. स. बॅंक लि. माणकी</BranchName>
     <IFSC>YESB0SDC001</IFSC>
     <AccountNo>151202840004050</AccountNo>
@@ -6084,7 +6084,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>वैणगंगा कृष्णा ग्रामीण बँक लि.&#x0;</BankName>
+    <BankName>वैणगंगा कृष्णा ग्रामीण बँक लि.</BankName>
     <BranchName>वैनगंगा कृष्णा ग्रामीण बॅक - ईस्लामपूर</BranchName>
     <IFSC>BKID0WAINGB</IFSC>
     <AccountNo>200810110000199</AccountNo>
@@ -6098,7 +6098,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35352</CaneGrowerCode>
-    <CaneGrowerName>रामचंद्र&#x0;&#x0;                               भिकाजी&#x0;&#x0;                             कळसुले&#x0;&#x0;                                </CaneGrowerName>
+    <CaneGrowerName>रामचंद्र                               भिकाजी                             कळसुले                                </CaneGrowerName>
     <ServeyNo>788</ServeyNo>
     <PlantationDate>15-08-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6204,7 +6204,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सोलापूर जनता सहकारी बँक लि.&#x0;</BankName>
+    <BankName>सोलापूर जनता सहकारी बँक लि.</BankName>
     <BranchName>सोलापूर जनता सहकारी बँक लि.- माळशिरस</BranchName>
     <IFSC>SJSB0000025</IFSC>
     <AccountNo>5870252000005279</AccountNo>
@@ -6218,7 +6218,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35374</CaneGrowerCode>
-    <CaneGrowerName>नाना&#x0;&#x0;                   धुऴा&#x0;&#x0;                       गोरड&#x0;&#x0;                          </CaneGrowerName>
+    <CaneGrowerName>नाना                   धुऴा                       गोरड                          </CaneGrowerName>
     <ServeyNo>595</ServeyNo>
     <PlantationDate>25-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6248,7 +6248,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35374</CaneGrowerCode>
-    <CaneGrowerName>नाना&#x0;&#x0;                   धुऴा&#x0;&#x0;                       गोरड&#x0;&#x0;                          </CaneGrowerName>
+    <CaneGrowerName>नाना                   धुऴा                       गोरड                          </CaneGrowerName>
     <ServeyNo>595</ServeyNo>
     <PlantationDate>26-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6308,7 +6308,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35375</CaneGrowerCode>
-    <CaneGrowerName>रामचंद्र&#x0;&#x0;                               विठ्ठल&#x0;&#x0;                     गोरड&#x0;&#x0;                          </CaneGrowerName>
+    <CaneGrowerName>रामचंद्र                               विठ्ठल                     गोरड                          </CaneGrowerName>
     <ServeyNo>1</ServeyNo>
     <PlantationDate>17-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6338,7 +6338,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35376</CaneGrowerCode>
-    <CaneGrowerName>कल्याण&#x0;&#x0;                         मल्हारी&#x0;&#x0;                            हुलगे&#x0;&#x0;                         </CaneGrowerName>
+    <CaneGrowerName>कल्याण                         मल्हारी                            हुलगे                         </CaneGrowerName>
     <ServeyNo>446</ServeyNo>
     <PlantationDate>12-12-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -6368,7 +6368,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35377</CaneGrowerCode>
-    <CaneGrowerName>दत्तु&#x0;&#x0;              ज्ञानदेव&#x0;&#x0;                               हुलगे&#x0;&#x0;                         </CaneGrowerName>
+    <CaneGrowerName>दत्तु              ज्ञानदेव                               हुलगे                         </CaneGrowerName>
     <ServeyNo>188</ServeyNo>
     <PlantationDate>01-11-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -6398,7 +6398,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35384</CaneGrowerCode>
-    <CaneGrowerName>सिंधुबाई&#x0;&#x0;                                   शिवाजी&#x0;&#x0;                             कोरके&#x0;&#x0;                             </CaneGrowerName>
+    <CaneGrowerName>सिंधुबाई                                   शिवाजी                             कोरके                             </CaneGrowerName>
     <ServeyNo>11</ServeyNo>
     <PlantationDate>25-11-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -6428,7 +6428,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35384</CaneGrowerCode>
-    <CaneGrowerName>सिंधुबाई&#x0;&#x0;                                   शिवाजी&#x0;&#x0;                             कोरके&#x0;&#x0;                             </CaneGrowerName>
+    <CaneGrowerName>सिंधुबाई                                   शिवाजी                             कोरके                             </CaneGrowerName>
     <ServeyNo>14</ServeyNo>
     <PlantationDate>10-10-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -6458,7 +6458,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35414</CaneGrowerCode>
-    <CaneGrowerName>तानाजी&#x0;&#x0;                             दादा&#x0;&#x0;                   गोरड&#x0;&#x0;                          </CaneGrowerName>
+    <CaneGrowerName>तानाजी                             दादा                   गोरड                          </CaneGrowerName>
     <ServeyNo>370</ServeyNo>
     <PlantationDate>17-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6488,7 +6488,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35415</CaneGrowerCode>
-    <CaneGrowerName>धुळा&#x0;&#x0;                   विठ्ठल&#x0;&#x0;                     गोरड&#x0;&#x0;                          </CaneGrowerName>
+    <CaneGrowerName>धुळा                   विठ्ठल                     गोरड                          </CaneGrowerName>
     <ServeyNo>121</ServeyNo>
     <PlantationDate>17-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6518,7 +6518,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35416</CaneGrowerCode>
-    <CaneGrowerName>तुकाराम&#x0;&#x0;                                    ज्योतिबा&#x0;&#x0;                                   पिंगळे&#x0;&#x0;                        </CaneGrowerName>
+    <CaneGrowerName>तुकाराम                                    ज्योतिबा                                   पिंगळे                        </CaneGrowerName>
     <ServeyNo>1212</ServeyNo>
     <PlantationDate>01-09-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -6578,7 +6578,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35417</CaneGrowerCode>
-    <CaneGrowerName>लाला&#x0;&#x0;                   निवृत्ती&#x0;&#x0;                           गोरड&#x0;&#x0;                          </CaneGrowerName>
+    <CaneGrowerName>लाला                   निवृत्ती                           गोरड                          </CaneGrowerName>
     <ServeyNo>128</ServeyNo>
     <PlantationDate>25-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6608,7 +6608,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35417</CaneGrowerCode>
-    <CaneGrowerName>लाला&#x0;&#x0;                   निवृत्ती&#x0;&#x0;                           गोरड&#x0;&#x0;                          </CaneGrowerName>
+    <CaneGrowerName>लाला                   निवृत्ती                           गोरड                          </CaneGrowerName>
     <ServeyNo>1281</ServeyNo>
     <PlantationDate>27-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6638,7 +6638,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35418</CaneGrowerCode>
-    <CaneGrowerName>बानुबाई-उर्फ-कुसुम&#x0;&#x0;                                                                                 नाना&#x0;&#x0;                   गोरड&#x0;&#x0;                          </CaneGrowerName>
+    <CaneGrowerName>बानुबाई-उर्फ-कुसुम                                                                                 नाना                   गोरड                          </CaneGrowerName>
     <ServeyNo>501</ServeyNo>
     <PlantationDate>15-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6668,7 +6668,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35419</CaneGrowerCode>
-    <CaneGrowerName>सुभाष&#x0;&#x0;                          लक्ष्मण&#x0;&#x0;                    सरगर&#x0;&#x0;                          </CaneGrowerName>
+    <CaneGrowerName>सुभाष                          लक्ष्मण                    सरगर                          </CaneGrowerName>
     <ServeyNo>40</ServeyNo>
     <PlantationDate>25-07-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -6698,7 +6698,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35364</CaneGrowerCode>
-    <CaneGrowerName>धुळदेव&#x0;&#x0;                                 आज्ञान&#x0;&#x0;                     गोरड&#x0;&#x0;                          </CaneGrowerName>
+    <CaneGrowerName>धुळदेव                                 आज्ञान                     गोरड                          </CaneGrowerName>
     <ServeyNo>216</ServeyNo>
     <PlantationDate>20-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6728,7 +6728,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35404</CaneGrowerCode>
-    <CaneGrowerName>दिलीप&#x0;&#x0;                          विठ्ठल&#x0;&#x0;                     पवार&#x0;&#x0;                      </CaneGrowerName>
+    <CaneGrowerName>दिलीप                          विठ्ठल                     पवार                      </CaneGrowerName>
     <ServeyNo>12</ServeyNo>
     <PlantationDate>19-08-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6758,7 +6758,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35638</CaneGrowerCode>
-    <CaneGrowerName>हेमा&#x0;&#x0;                   रावसाहेब&#x0;&#x0;                                           कर्णवर&#x0;&#x0;                            </CaneGrowerName>
+    <CaneGrowerName>हेमा                   रावसाहेब                                           कर्णवर                            </CaneGrowerName>
     <ServeyNo>698</ServeyNo>
     <PlantationDate>17-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6788,7 +6788,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35638</CaneGrowerCode>
-    <CaneGrowerName>हेमा&#x0;&#x0;                   रावसाहेब&#x0;&#x0;                                           कर्णवर&#x0;&#x0;                            </CaneGrowerName>
+    <CaneGrowerName>हेमा                   रावसाहेब                                           कर्णवर                            </CaneGrowerName>
     <ServeyNo>504</ServeyNo>
     <PlantationDate>01-08-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -6818,7 +6818,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>35638</CaneGrowerCode>
-    <CaneGrowerName>हेमा&#x0;&#x0;                   रावसाहेब&#x0;&#x0;                                           कर्णवर&#x0;&#x0;                            </CaneGrowerName>
+    <CaneGrowerName>हेमा                   रावसाहेब                                           कर्णवर                            </CaneGrowerName>
     <ServeyNo>698</ServeyNo>
     <PlantationDate>05-08-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>

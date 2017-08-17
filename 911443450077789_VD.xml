@@ -234,7 +234,7 @@
     <PlantationType />
     <MobileNo>919881852482</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110006440</AccountNo>
@@ -714,7 +714,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110003082</AccountNo>
@@ -1988,7 +1988,7 @@
     <VillageName>दिघंची</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>34984</CaneGrowerCode>
-    <CaneGrowerName>काकासाहेब&#x0;&#x0;                                              विठ्ठल&#x0;&#x0;                     मोरे&#x0;&#x0;                      </CaneGrowerName>
+    <CaneGrowerName>काकासाहेब                                              विठ्ठल                     मोरे                      </CaneGrowerName>
     <ServeyNo>316</ServeyNo>
     <PlantationDate>10-11-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -2288,7 +2288,7 @@
     <VillageName>दिघंची</VillageName>
     <Distance>0</Distance>
     <CaneGrowerCode>34897</CaneGrowerCode>
-    <CaneGrowerName>विलास&#x0;&#x0;                          मारुती&#x0;&#x0;                         मेचकरी&#x0;&#x0;                                </CaneGrowerName>
+    <CaneGrowerName>विलास                          मारुती                         मेचकरी                                </CaneGrowerName>
     <ServeyNo>1</ServeyNo>
     <PlantationDate>20-01-2017</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -2318,7 +2318,7 @@
     <VillageName>दिघंची</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>34981</CaneGrowerCode>
-    <CaneGrowerName>दिलीप&#x0;&#x0;                          रावसाो&#x0;&#x0;                                 मोरे&#x0;&#x0;                      </CaneGrowerName>
+    <CaneGrowerName>दिलीप                          रावसाो                                 मोरे                      </CaneGrowerName>
     <ServeyNo>363</ServeyNo>
     <PlantationDate>10-09-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -2468,7 +2468,7 @@
     <VillageName>दिघंची</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>34888</CaneGrowerCode>
-    <CaneGrowerName>मनिषा&#x0;&#x0;                          बजिरंग&#x0;&#x0;                                 सकट&#x0;&#x0;                   </CaneGrowerName>
+    <CaneGrowerName>मनिषा                          बजिरंग                                 सकट                   </CaneGrowerName>
     <ServeyNo>142</ServeyNo>
     <PlantationDate>01-12-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -2498,7 +2498,7 @@
     <VillageName>दिघंची</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>34889</CaneGrowerCode>
-    <CaneGrowerName>मंगेश&#x0;&#x0;                          राजाराम&#x0;&#x0;                                    रणदिवे&#x0;&#x0;                                </CaneGrowerName>
+    <CaneGrowerName>मंगेश                          राजाराम                                    रणदिवे                                </CaneGrowerName>
     <ServeyNo>145</ServeyNo>
     <PlantationDate>30-09-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -2705,7 +2705,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>323</CaneGrowerCode>
     <CaneGrowerName>विजय काकासो मोरे</CaneGrowerName>
@@ -2735,7 +2735,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>19525</CaneGrowerCode>
     <CaneGrowerName>विठ्ठल बापूराव मोरे</CaneGrowerName>
@@ -2765,7 +2765,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>19525</CaneGrowerCode>
     <CaneGrowerName>विठ्ठल बापूराव मोरे</CaneGrowerName>
@@ -2795,7 +2795,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>3893</CaneGrowerCode>
     <CaneGrowerName>बाबूराव धुळा पुजारी</CaneGrowerName>
@@ -2825,7 +2825,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1524</CaneGrowerCode>
     <CaneGrowerName>भिमराव पांडूरंग (दाजी) मोरे</CaneGrowerName>
@@ -2855,7 +2855,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1350</CaneGrowerCode>
     <CaneGrowerName>जगन्नाथ महादेव सातपुते</CaneGrowerName>
@@ -2885,7 +2885,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1217</CaneGrowerCode>
     <CaneGrowerName>रामदास रेवण टिंगरे</CaneGrowerName>
@@ -2915,7 +2915,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>3895</CaneGrowerCode>
     <CaneGrowerName>हरीदास रेवणसिध्द टिंगरे</CaneGrowerName>
@@ -2945,7 +2945,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>944</CaneGrowerCode>
     <CaneGrowerName>संगिता बाळु पुजारी</CaneGrowerName>
@@ -2975,7 +2975,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>13</CaneGrowerCode>
     <CaneGrowerName>गोरख एकनाथ नळ</CaneGrowerName>
@@ -3005,7 +3005,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1310</CaneGrowerCode>
     <CaneGrowerName>अजय राजाराम पुजारी</CaneGrowerName>
@@ -3035,7 +3035,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>4874</CaneGrowerCode>
     <CaneGrowerName>अंकुश रामचंद्र पुजारी</CaneGrowerName>
@@ -3065,10 +3065,10 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>34934</CaneGrowerCode>
-    <CaneGrowerName>नामदेव&#x0;&#x0;                                 भगवाण&#x0;&#x0;                              डुबल&#x0;&#x0;                      </CaneGrowerName>
+    <CaneGrowerName>नामदेव                                 भगवाण                              डुबल                      </CaneGrowerName>
     <ServeyNo>520</ServeyNo>
     <PlantationDate>25-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -3095,7 +3095,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1143</CaneGrowerCode>
     <CaneGrowerName>सुनिल निवृत्ती काटे</CaneGrowerName>
@@ -3125,7 +3125,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>39</CaneGrowerCode>
     <CaneGrowerName>कुंडलीक पांडूरंग आलदर</CaneGrowerName>
@@ -3155,7 +3155,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>5715</CaneGrowerCode>
     <CaneGrowerName>नवनाथ लक्ष्मण नळ</CaneGrowerName>
@@ -3185,7 +3185,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>565</CaneGrowerCode>
     <CaneGrowerName>महादेव म्हाकू मारकड</CaneGrowerName>
@@ -3215,7 +3215,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1662</CaneGrowerCode>
     <CaneGrowerName>जगन्नाथ नाना नष्टे</CaneGrowerName>
@@ -3245,7 +3245,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>21714</CaneGrowerCode>
     <CaneGrowerName>आप्पासोा नामदेव मोरे</CaneGrowerName>
@@ -3275,7 +3275,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>24300</CaneGrowerCode>
     <CaneGrowerName>अमोल कलाप्पा कुटे</CaneGrowerName>
@@ -3305,7 +3305,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>3966</CaneGrowerCode>
     <CaneGrowerName>ज्ञानोबा तुकाराम पुजारी</CaneGrowerName>
@@ -3324,7 +3324,7 @@
     <PlantationType />
     <MobileNo>919623049096</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110011773</AccountNo>
@@ -3335,10 +3335,10 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>34851</CaneGrowerCode>
-    <CaneGrowerName>अजय&#x0;&#x0;                आण्णा&#x0;&#x0;                  शेटे&#x0;&#x0;                  </CaneGrowerName>
+    <CaneGrowerName>अजय                आण्णा                  शेटे                  </CaneGrowerName>
     <ServeyNo>540</ServeyNo>
     <PlantationDate>28-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -3365,7 +3365,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>953</CaneGrowerCode>
     <CaneGrowerName>जालिंदर कृष्णा नळ</CaneGrowerName>
@@ -3395,7 +3395,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (दि)</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>18114</CaneGrowerCode>
     <CaneGrowerName>दादासो ज्ञानेश्वर मोरे</CaneGrowerName>
@@ -3425,7 +3425,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>20</VillageCode>
-    <VillageName>पुजारवाडी (आ)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (आ)</VillageName>
     <Distance>31</Distance>
     <CaneGrowerCode>3966</CaneGrowerCode>
     <CaneGrowerName>ज्ञानोबा तुकाराम पुजारी</CaneGrowerName>
@@ -3444,7 +3444,7 @@
     <PlantationType />
     <MobileNo>919623049096</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110011773</AccountNo>
@@ -3455,7 +3455,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>20</VillageCode>
-    <VillageName>पुजारवाडी (आ)&#x0;</VillageName>
+    <VillageName>पुजारवाडी (आ)</VillageName>
     <Distance>31</Distance>
     <CaneGrowerCode>586</CaneGrowerCode>
     <CaneGrowerName>नानासो गोरख पवार</CaneGrowerName>
@@ -3488,7 +3488,7 @@
     <VillageName>उंबरगांव</VillageName>
     <Distance>25</Distance>
     <CaneGrowerCode>35052</CaneGrowerCode>
-    <CaneGrowerName>मच्छिंद्र&#x0;&#x0;                      संतु&#x0;&#x0;                   माळी&#x0;&#x0;                  </CaneGrowerName>
+    <CaneGrowerName>मच्छिंद्र                      संतु                   माळी                  </CaneGrowerName>
     <ServeyNo>1</ServeyNo>
     <PlantationDate>20-10-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -3578,7 +3578,7 @@
     <VillageName>तरटीमळा</VillageName>
     <Distance>20</Distance>
     <CaneGrowerCode>8390</CaneGrowerCode>
-    <CaneGrowerName>नामदेव&#x0;&#x0;                                 भगवान&#x0;&#x0;                              मोरे&#x0;&#x0;                      </CaneGrowerName>
+    <CaneGrowerName>नामदेव                                 भगवान                              मोरे                      </CaneGrowerName>
     <ServeyNo>142</ServeyNo>
     <PlantationDate>21-11-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -3608,7 +3608,7 @@
     <VillageName>तरटीमळा</VillageName>
     <Distance>20</Distance>
     <CaneGrowerCode>34998</CaneGrowerCode>
-    <CaneGrowerName>सुखदेव&#x0;&#x0;                                 जगन्नाथ&#x0;&#x0;                            निंबाळकर&#x0;&#x0;                                      </CaneGrowerName>
+    <CaneGrowerName>सुखदेव                                 जगन्नाथ                            निंबाळकर                                      </CaneGrowerName>
     <ServeyNo>121</ServeyNo>
     <PlantationDate>17-12-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -3638,7 +3638,7 @@
     <VillageName>तरटीमळा</VillageName>
     <Distance>20</Distance>
     <CaneGrowerCode>34997</CaneGrowerCode>
-    <CaneGrowerName>शिवाजी&#x0;&#x0;                             तातोबा&#x0;&#x0;                                 मोरे&#x0;&#x0;                      </CaneGrowerName>
+    <CaneGrowerName>शिवाजी                             तातोबा                                 मोरे                      </CaneGrowerName>
     <ServeyNo>141</ServeyNo>
     <PlantationDate>20-12-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -3878,7 +3878,7 @@
     <VillageName>काळापट्टा</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>34995</CaneGrowerCode>
-    <CaneGrowerName>वसंत&#x0;&#x0;                       मारुती&#x0;&#x0;                         मोरे&#x0;&#x0;                      </CaneGrowerName>
+    <CaneGrowerName>वसंत                       मारुती                         मोरे                      </CaneGrowerName>
     <ServeyNo>1</ServeyNo>
     <PlantationDate>13-09-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -3908,7 +3908,7 @@
     <VillageName>काळापट्टा</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>34989</CaneGrowerCode>
-    <CaneGrowerName>गोरख&#x0;&#x0;                           दत्तु&#x0;&#x0;              चव्हाण-पाटील&#x0;&#x0;                                                      </CaneGrowerName>
+    <CaneGrowerName>गोरख                           दत्तु              चव्हाण-पाटील                                                      </CaneGrowerName>
     <ServeyNo>988</ServeyNo>
     <PlantationDate>25-11-2016</PlantationDate>
     <CaneTypeCode>1</CaneTypeCode>
@@ -3938,7 +3938,7 @@
     <VillageName>काळापट्टा</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>35004</CaneGrowerCode>
-    <CaneGrowerName>बाळासाहेब&#x0;&#x0;                                              भिमराव&#x0;&#x0;                                 मोरे&#x0;&#x0;                      </CaneGrowerName>
+    <CaneGrowerName>बाळासाहेब                                              भिमराव                                 मोरे                      </CaneGrowerName>
     <ServeyNo>548</ServeyNo>
     <PlantationDate>20-10-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -3968,7 +3968,7 @@
     <VillageName>काळापट्टा</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>35006</CaneGrowerCode>
-    <CaneGrowerName>राहुल&#x0;&#x0;                          भिमराव&#x0;&#x0;                                 लांडगेद्वथ्&#x0;&#x0;                               </CaneGrowerName>
+    <CaneGrowerName>राहुल                          भिमराव                                 लांडगेद्वथ्                               </CaneGrowerName>
     <ServeyNo>142</ServeyNo>
     <PlantationDate>12-11-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -3998,7 +3998,7 @@
     <VillageName>काळापट्टा</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>35006</CaneGrowerCode>
-    <CaneGrowerName>राहुल&#x0;&#x0;                          भिमराव&#x0;&#x0;                                 लांडगेद्वथ्&#x0;&#x0;                               </CaneGrowerName>
+    <CaneGrowerName>राहुल                          भिमराव                                 लांडगेद्वथ्                               </CaneGrowerName>
     <ServeyNo>142</ServeyNo>
     <PlantationDate>20-11-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -4148,7 +4148,7 @@
     <VillageName>काळापट्टा</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>34927</CaneGrowerCode>
-    <CaneGrowerName>शरद&#x0;&#x0;                    भाऊसाहेब&#x0;&#x0;                                           यादव&#x0;&#x0;                      </CaneGrowerName>
+    <CaneGrowerName>शरद                    भाऊसाहेब                                           यादव                      </CaneGrowerName>
     <ServeyNo>387</ServeyNo>
     <PlantationDate>05-09-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -4178,7 +4178,7 @@
     <VillageName>काळापट्टा</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>34988</CaneGrowerCode>
-    <CaneGrowerName>बजरंग&#x0;&#x0;                              जालिंदर&#x0;&#x0;                                चव्हाण-पाटील&#x0;&#x0;                                                      </CaneGrowerName>
+    <CaneGrowerName>बजरंग                              जालिंदर                                चव्हाण-पाटील                                                      </CaneGrowerName>
     <ServeyNo>1902</ServeyNo>
     <PlantationDate>23-01-2017</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -4464,7 +4464,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110006072</AccountNo>
@@ -4568,7 +4568,7 @@
     <VillageName>घनचक्रमळा</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>34993</CaneGrowerCode>
-    <CaneGrowerName>सावंत&#x0;&#x0;                          नारायण&#x0;&#x0;                                 फडतरे&#x0;&#x0;                             </CaneGrowerName>
+    <CaneGrowerName>सावंत                          नारायण                                 फडतरे                             </CaneGrowerName>
     <ServeyNo>520</ServeyNo>
     <PlantationDate>20-11-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -4718,7 +4718,7 @@
     <VillageName>घनचक्रमळा</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>34994</CaneGrowerCode>
-    <CaneGrowerName>शाहजी&#x0;&#x0;                          रंगनाथ&#x0;&#x0;                                 मोरे&#x0;&#x0;                      </CaneGrowerName>
+    <CaneGrowerName>शाहजी                          रंगनाथ                                 मोरे                      </CaneGrowerName>
     <ServeyNo>1</ServeyNo>
     <PlantationDate>10-09-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -4748,7 +4748,7 @@
     <VillageName>घनचक्रमळा</VillageName>
     <Distance>0</Distance>
     <CaneGrowerCode>34994</CaneGrowerCode>
-    <CaneGrowerName>शाहजी&#x0;&#x0;                          रंगनाथ&#x0;&#x0;                                 मोरे&#x0;&#x0;                      </CaneGrowerName>
+    <CaneGrowerName>शाहजी                          रंगनाथ                                 मोरे                      </CaneGrowerName>
     <ServeyNo>1</ServeyNo>
     <PlantationDate>11-11-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -4794,7 +4794,7 @@
     <PlantationType />
     <MobileNo>919021918563</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110005074</AccountNo>
@@ -4824,7 +4824,7 @@
     <PlantationType />
     <MobileNo>919021918563</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110005074</AccountNo>
@@ -5004,7 +5004,7 @@
     <PlantationType />
     <MobileNo>919021918563</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110005074</AccountNo>
