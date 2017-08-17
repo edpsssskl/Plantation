@@ -2198,7 +2198,7 @@
     <VillageName>नातेपुते</VillageName>
     <Distance>58</Distance>
     <CaneGrowerCode>31228</CaneGrowerCode>
-    <CaneGrowerName>शंकर महादेव पांढरे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>456</ServeyNo>
     <PlantationDate>15-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -2214,10 +2214,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - नातेपुते</BranchName>
+    <IFSC>BKID0000720</IFSC>
+    <AccountNo>072010100014432</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="71538">
@@ -2228,7 +2228,7 @@
     <VillageName>नातेपुते</VillageName>
     <Distance>58</Distance>
     <CaneGrowerCode>31228</CaneGrowerCode>
-    <CaneGrowerName>शंकर महादेव पांढरे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>456</ServeyNo>
     <PlantationDate>18-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -2244,10 +2244,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - नातेपुते</BranchName>
+    <IFSC>BKID0000720</IFSC>
+    <AccountNo>072010100014432</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="71539">
@@ -2258,7 +2258,7 @@
     <VillageName>नातेपुते</VillageName>
     <Distance>58</Distance>
     <CaneGrowerCode>31228</CaneGrowerCode>
-    <CaneGrowerName>शंकर महादेव पांढरे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>456</ServeyNo>
     <PlantationDate>25-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -2274,10 +2274,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - नातेपुते</BranchName>
+    <IFSC>BKID0000720</IFSC>
+    <AccountNo>072010100014432</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="71541">
@@ -2394,7 +2394,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सोलापूर जि.म.स.बँक लि.</BankName>
+    <BankName>सोलापूर जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सोलापूर जि.म.स.बॅंक लि. - फोंडशिरस</BranchName>
     <IFSC>YESB0SDC001</IFSC>
     <AccountNo>151102840009513</AccountNo>
