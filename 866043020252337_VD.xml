@@ -1,0 +1,4051 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VerificationData>
+  <PlotNo No="62589">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>14702</CaneGrowerCode>
+    <CaneGrowerName>धनंजय हरी रासनकर</CaneGrowerName>
+    <ServeyNo>642</ServeyNo>
+    <PlantationDate>16-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया - नातेपुते</BranchName>
+    <IFSC>SBIN0012684</IFSC>
+    <AccountNo>30621086923</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62601">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3336</CaneGrowerCode>
+    <CaneGrowerName>विमल दादासो चिकणे</CaneGrowerName>
+    <ServeyNo>346</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960551603</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62601">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3336</CaneGrowerCode>
+    <CaneGrowerName>विमल दादासो चिकणे</CaneGrowerName>
+    <ServeyNo>488</ServeyNo>
+    <PlantationDate>12-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960551603</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62602">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3508</CaneGrowerCode>
+    <CaneGrowerName>विनोद विलास चिकने</CaneGrowerName>
+    <ServeyNo>566/3</ServeyNo>
+    <PlantationDate>12-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919730783054</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62603">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>19148</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय दादासो चिकणे</CaneGrowerName>
+    <ServeyNo>478</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62604">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4538</CaneGrowerCode>
+    <CaneGrowerName>उज्वला अनिल चिकणे</CaneGrowerName>
+    <ServeyNo>517</ServeyNo>
+    <PlantationDate>12-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919970587883</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62605">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3789</CaneGrowerCode>
+    <CaneGrowerName>श्रीरंग कोंडीबा चिकणे</CaneGrowerName>
+    <ServeyNo>450</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62613">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>14704</CaneGrowerCode>
+    <CaneGrowerName>गणेश भारत रासनकर</CaneGrowerName>
+    <ServeyNo>644/8</ServeyNo>
+    <PlantationDate>28-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया - नातेपुते</BranchName>
+    <IFSC>SBIN0012684</IFSC>
+    <AccountNo>30977199056</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62614">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>15179</CaneGrowerCode>
+    <CaneGrowerName>सुभाष दादा रुपनवर</CaneGrowerName>
+    <ServeyNo>643/12</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62614">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>15179</CaneGrowerCode>
+    <CaneGrowerName>सुभाष दादा रुपनवर</CaneGrowerName>
+    <ServeyNo>643</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62624">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4537</CaneGrowerCode>
+    <CaneGrowerName>अमोल हनुमंत मोरे</CaneGrowerName>
+    <ServeyNo>497/2</ServeyNo>
+    <PlantationDate>25-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919096858486</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62625">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4536</CaneGrowerCode>
+    <CaneGrowerName>दगडू सदाशिव पाटील</CaneGrowerName>
+    <ServeyNo>308</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919623474841</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62626">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2249</CaneGrowerCode>
+    <CaneGrowerName>रणजित भिमराव फुले</CaneGrowerName>
+    <ServeyNo>511</ServeyNo>
+    <PlantationDate>15-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62627">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3914</CaneGrowerCode>
+    <CaneGrowerName>चैतन्य शंकरराव पाटील</CaneGrowerName>
+    <ServeyNo>329</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919730587512</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62628">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3911</CaneGrowerCode>
+    <CaneGrowerName>अमोल शहाजी कदम</CaneGrowerName>
+    <ServeyNo>785</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>9198505328  </MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62628">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3911</CaneGrowerCode>
+    <CaneGrowerName>अमोल शहाजी कदम</CaneGrowerName>
+    <ServeyNo>785</ServeyNo>
+    <PlantationDate>21-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>9198505328  </MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62629">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12959</CaneGrowerCode>
+    <CaneGrowerName>मनिषा बापुराव कदम</CaneGrowerName>
+    <ServeyNo>786</ServeyNo>
+    <PlantationDate>29-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62630">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12957</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी बाबुराव कदम</CaneGrowerName>
+    <ServeyNo>931</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919850648345</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62631">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5859</CaneGrowerCode>
+    <CaneGrowerName>विजयकुमार निवृती सावंत</CaneGrowerName>
+    <ServeyNo>1028</ServeyNo>
+    <PlantationDate>18-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62631">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5859</CaneGrowerCode>
+    <CaneGrowerName>विजयकुमार निवृती सावंत</CaneGrowerName>
+    <ServeyNo>1028</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62632">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5866</CaneGrowerCode>
+    <CaneGrowerName>दादासाहेब निवृती सावंत</CaneGrowerName>
+    <ServeyNo>1048</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>8390695750  </MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62633">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5860</CaneGrowerCode>
+    <CaneGrowerName>शहाजी निवृती सावंत</CaneGrowerName>
+    <ServeyNo>1048</ServeyNo>
+    <PlantationDate>25-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62633">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5860</CaneGrowerCode>
+    <CaneGrowerName>शहाजी निवृती सावंत</CaneGrowerName>
+    <ServeyNo>1027</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62634">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12061</CaneGrowerCode>
+    <CaneGrowerName>शामराव रामचंद्र जाधव</CaneGrowerName>
+    <ServeyNo>780</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919421070022</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62635">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12961</CaneGrowerCode>
+    <CaneGrowerName>रोहिणी दत्तात्रय कदम</CaneGrowerName>
+    <ServeyNo>797</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919921331254</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62635">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12961</CaneGrowerCode>
+    <CaneGrowerName>रोहिणी दत्तात्रय कदम</CaneGrowerName>
+    <ServeyNo>797</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919921331254</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62636">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12955</CaneGrowerCode>
+    <CaneGrowerName>कैलास बाबुराव कदम</CaneGrowerName>
+    <ServeyNo>797</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62637">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12960</CaneGrowerCode>
+    <CaneGrowerName>संजय बाबुराव कदम</CaneGrowerName>
+    <ServeyNo>931</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62637">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12960</CaneGrowerCode>
+    <CaneGrowerName>संजय बाबुराव कदम</CaneGrowerName>
+    <ServeyNo>931</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62638">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12958</CaneGrowerCode>
+    <CaneGrowerName>दिपक दादा कदम</CaneGrowerName>
+    <ServeyNo>785</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62639">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2310</CaneGrowerCode>
+    <CaneGrowerName>भाउसाहेब हणमंत कदम</CaneGrowerName>
+    <ServeyNo>787</ServeyNo>
+    <PlantationDate>21-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919527703645</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62639">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2310</CaneGrowerCode>
+    <CaneGrowerName>भाउसाहेब हणमंत कदम</CaneGrowerName>
+    <ServeyNo>7987</ServeyNo>
+    <PlantationDate>25-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919527703645</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62640">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2244</CaneGrowerCode>
+    <CaneGrowerName>नारायण लालासो जाधव</CaneGrowerName>
+    <ServeyNo>855</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919892071468</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63663">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3508</CaneGrowerCode>
+    <CaneGrowerName>विनोद विलास चिकने</CaneGrowerName>
+    <ServeyNo>566</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919730783054</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63664">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4538</CaneGrowerCode>
+    <CaneGrowerName>उज्वला अनिल चिकणे</CaneGrowerName>
+    <ServeyNo>458</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919970587883</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63665">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3939</CaneGrowerCode>
+    <CaneGrowerName>शिला अंकुश चिकणे</CaneGrowerName>
+    <ServeyNo>517</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918975235036</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63674">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2245</CaneGrowerCode>
+    <CaneGrowerName>दत्ताञय रामदास सावंत</CaneGrowerName>
+    <ServeyNo>931</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919921615204</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63675">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5924</CaneGrowerCode>
+    <CaneGrowerName>गणेश शिवाजी पाटील</CaneGrowerName>
+    <ServeyNo>51</ServeyNo>
+    <PlantationDate>10-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63676">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5858</CaneGrowerCode>
+    <CaneGrowerName>संजीव विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>1048</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63676">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5858</CaneGrowerCode>
+    <CaneGrowerName>संजीव विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>912</ServeyNo>
+    <PlantationDate>10-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63676">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5858</CaneGrowerCode>
+    <CaneGrowerName>संजीव विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>1018</ServeyNo>
+    <PlantationDate>15-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="69876">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3508</CaneGrowerCode>
+    <CaneGrowerName>विनोद विलास चिकने</CaneGrowerName>
+    <ServeyNo>566</ServeyNo>
+    <PlantationDate>26-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919730783054</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="69881">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5858</CaneGrowerCode>
+    <CaneGrowerName>संजीव विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>10</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="69881">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5858</CaneGrowerCode>
+    <CaneGrowerName>संजीव विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>1048</ServeyNo>
+    <PlantationDate>25-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="69881">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5858</CaneGrowerCode>
+    <CaneGrowerName>संजीव विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>931</ServeyNo>
+    <PlantationDate>15-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="69890">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3336</CaneGrowerCode>
+    <CaneGrowerName>विमल दादासो चिकणे</CaneGrowerName>
+    <ServeyNo>121</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960551603</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="69894">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3242</CaneGrowerCode>
+    <CaneGrowerName>निर्मला नामदेव चिकणे</CaneGrowerName>
+    <ServeyNo>358</ServeyNo>
+    <PlantationDate>20-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919623767206</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71465">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>15562</CaneGrowerCode>
+    <CaneGrowerName>आण्णा सोपान रासनकर</CaneGrowerName>
+    <ServeyNo>644</ServeyNo>
+    <PlantationDate>01-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया - नातेपुते</BranchName>
+    <IFSC>SBIN0012684</IFSC>
+    <AccountNo>32954531836</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71465">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>15562</CaneGrowerCode>
+    <CaneGrowerName>आण्णा सोपान रासनकर</CaneGrowerName>
+    <ServeyNo>644</ServeyNo>
+    <PlantationDate>20-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया - नातेपुते</BranchName>
+    <IFSC>SBIN0012684</IFSC>
+    <AccountNo>32954531836</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71466">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>15561</CaneGrowerCode>
+    <CaneGrowerName>प्रमोद हिम्मत रासनकर</CaneGrowerName>
+    <ServeyNo>644</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71467">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>14670</CaneGrowerCode>
+    <CaneGrowerName>सुभाष दादा रूपनवर</CaneGrowerName>
+    <ServeyNo>709</ServeyNo>
+    <PlantationDate>09-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71468">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>14702</CaneGrowerCode>
+    <CaneGrowerName>धनंजय हरी रासनकर</CaneGrowerName>
+    <ServeyNo>644</ServeyNo>
+    <PlantationDate>30-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया - नातेपुते</BranchName>
+    <IFSC>SBIN0012684</IFSC>
+    <AccountNo>30621086923</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71503">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>66</Distance>
+    <CaneGrowerCode>11801</CaneGrowerCode>
+    <CaneGrowerName>भिमराव रामचंद्र हिवरकर</CaneGrowerName>
+    <ServeyNo>537</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918275026060</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71517">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3508</CaneGrowerCode>
+    <CaneGrowerName>विनोद विलास चिकने</CaneGrowerName>
+    <ServeyNo>566/3</ServeyNo>
+    <PlantationDate>08-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919730783054</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72125">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2247</CaneGrowerCode>
+    <CaneGrowerName>मोहन दिनकर जाधव</CaneGrowerName>
+    <ServeyNo>419</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919860915079</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72128">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>15883</CaneGrowerCode>
+    <CaneGrowerName>ज्ञानदेव नाथा रुपनवर</CaneGrowerName>
+    <ServeyNo>430</ServeyNo>
+    <PlantationDate>15-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72129">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>3907</CaneGrowerCode>
+    <CaneGrowerName>शकुंतला लक्ष्मण रुपनवर</CaneGrowerName>
+    <ServeyNo>435</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960989785</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72368">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3909</CaneGrowerCode>
+    <CaneGrowerName>सुभाष माधवराव पाटील</CaneGrowerName>
+    <ServeyNo>27</ServeyNo>
+    <PlantationDate>10-11-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960373954</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72403">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2324</CaneGrowerCode>
+    <CaneGrowerName>विलास भगवान पाटील</CaneGrowerName>
+    <ServeyNo>26</ServeyNo>
+    <PlantationDate>25-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919890295761</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72407">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12398</CaneGrowerCode>
+    <CaneGrowerName>विठ्ठलराव आबासाहेब पाटील</CaneGrowerName>
+    <ServeyNo>31-Jan</ServeyNo>
+    <PlantationDate>25-11-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72410">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12398</CaneGrowerCode>
+    <CaneGrowerName>विठ्ठलराव आबासाहेब पाटील</CaneGrowerName>
+    <ServeyNo>31-Jan</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72412">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12398</CaneGrowerCode>
+    <CaneGrowerName>विठ्ठलराव आबासाहेब पाटील</CaneGrowerName>
+    <ServeyNo>31-Jan</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72414">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4538</CaneGrowerCode>
+    <CaneGrowerName>उज्वला अनिल चिकणे</CaneGrowerName>
+    <ServeyNo>517</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919970587883</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72418">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3939</CaneGrowerCode>
+    <CaneGrowerName>शिला अंकुश चिकणे</CaneGrowerName>
+    <ServeyNo>488</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>918975235036</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72425">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4520</CaneGrowerCode>
+    <CaneGrowerName>सतिश किसन ढोक</CaneGrowerName>
+    <ServeyNo>522/3</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919405252448</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72427">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2247</CaneGrowerCode>
+    <CaneGrowerName>मोहन दिनकर जाधव</CaneGrowerName>
+    <ServeyNo>419</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919860915079</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72429">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3512</CaneGrowerCode>
+    <CaneGrowerName>दत्ताञय साहेबराव चिकने</CaneGrowerName>
+    <ServeyNo>478</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919922269129</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72433">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2881</CaneGrowerCode>
+    <CaneGrowerName>प्रताप पोपटराव जाधव</CaneGrowerName>
+    <ServeyNo>830</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>9423328617  </MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72435">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2881</CaneGrowerCode>
+    <CaneGrowerName>प्रताप पोपटराव जाधव</CaneGrowerName>
+    <ServeyNo>931/3</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>9423328617  </MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72437">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5266</CaneGrowerCode>
+    <CaneGrowerName>मनिषा हनुमंत मोरे</CaneGrowerName>
+    <ServeyNo>1011</ServeyNo>
+    <PlantationDate>25-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919766034755</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72441">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12957</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी बाबुराव कदम</CaneGrowerName>
+    <ServeyNo>738</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919850648345</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72445">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5938</CaneGrowerCode>
+    <CaneGrowerName>बापू दत्तू काळेल</CaneGrowerName>
+    <ServeyNo>919/1</ServeyNo>
+    <PlantationDate>25-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>BEKPK4015E</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72448">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>15991</CaneGrowerCode>
+    <CaneGrowerName>मंगेश सर्जेराव निकम</CaneGrowerName>
+    <ServeyNo>920/1</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919423328705</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72451">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>15936</CaneGrowerCode>
+    <CaneGrowerName>सुभाष वामन निकम</CaneGrowerName>
+    <ServeyNo>930</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72454">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>15989</CaneGrowerCode>
+    <CaneGrowerName>विलास श्रीरंग सस्ते</CaneGrowerName>
+    <ServeyNo>911</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919272918596</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72456">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3250</CaneGrowerCode>
+    <CaneGrowerName>सतिश दिलीप खंडागळे</CaneGrowerName>
+    <ServeyNo>824</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919960741274</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72458">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4939</CaneGrowerCode>
+    <CaneGrowerName>कल्याण तुकाराम खंडागळे</CaneGrowerName>
+    <ServeyNo>825</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919766202899</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72472">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4939</CaneGrowerCode>
+    <CaneGrowerName>कल्याण तुकाराम खंडागळे</CaneGrowerName>
+    <ServeyNo>825</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919766202899</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72476">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3322</CaneGrowerCode>
+    <CaneGrowerName>हनुमंत मच्छिंद्र खंडागळे</CaneGrowerName>
+    <ServeyNo>822</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72477">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3510</CaneGrowerCode>
+    <CaneGrowerName>पांडुरंग विठोबा खंडागळे</CaneGrowerName>
+    <ServeyNo>821</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919850267094</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72479">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2325</CaneGrowerCode>
+    <CaneGrowerName>हनुमंत श्रीरंग मोरे</CaneGrowerName>
+    <ServeyNo>1011</ServeyNo>
+    <PlantationDate>25-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919766034755</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72480">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>1905</CaneGrowerCode>
+    <CaneGrowerName>गजंेद्र नामदेव दुधाळ</CaneGrowerName>
+    <ServeyNo>789</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919881893765</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72482">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>15990</CaneGrowerCode>
+    <CaneGrowerName>दिपक हणुमंत निकम</CaneGrowerName>
+    <ServeyNo>916/1</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919637959432</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72484">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2325</CaneGrowerCode>
+    <CaneGrowerName>हनुमंत श्रीरंग मोरे</CaneGrowerName>
+    <ServeyNo>947</ServeyNo>
+    <PlantationDate>25-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919766034755</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72515">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2245</CaneGrowerCode>
+    <CaneGrowerName>दत्ताञय रामदास सावंत</CaneGrowerName>
+    <ServeyNo>131</ServeyNo>
+    <PlantationDate>17-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919921615204</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72520">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>23693</CaneGrowerCode>
+    <CaneGrowerName>रामचंद्र गणपत मगर</CaneGrowerName>
+    <ServeyNo>1045</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72523">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2252</CaneGrowerCode>
+    <CaneGrowerName>ज्ञानेश्वर सर्जेराव पाटील</CaneGrowerName>
+    <ServeyNo>312</ServeyNo>
+    <PlantationDate>01-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>8805694192  </MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72526">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5862</CaneGrowerCode>
+    <CaneGrowerName>पोपट विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>993</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72528">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5864</CaneGrowerCode>
+    <CaneGrowerName>संपत विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>1084</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72530">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5864</CaneGrowerCode>
+    <CaneGrowerName>संपत विठ्ठल सावंत</CaneGrowerName>
+    <ServeyNo>1084</ServeyNo>
+    <PlantationDate>25-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72534">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>13009</CaneGrowerCode>
+    <CaneGrowerName>नितीन रामचंद्र मगर</CaneGrowerName>
+    <ServeyNo>1026</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72540">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2252</CaneGrowerCode>
+    <CaneGrowerName>ज्ञानेश्वर सर्जेराव पाटील</CaneGrowerName>
+    <ServeyNo>191/2</ServeyNo>
+    <PlantationDate>11-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>8805694192  </MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72542">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>189</CaneGrowerCode>
+    <CaneGrowerName>जनार्धन तुळशिराम सुळे</CaneGrowerName>
+    <ServeyNo>189</ServeyNo>
+    <PlantationDate>15-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919921479711</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72547">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3940</CaneGrowerCode>
+    <CaneGrowerName>अंकुश श्रीरंग लोंढे</CaneGrowerName>
+    <ServeyNo>620</ServeyNo>
+    <PlantationDate>16-10-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919763892132</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72751">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>25978</CaneGrowerCode>
+    <CaneGrowerName>जालींदर नामदेव कदम</CaneGrowerName>
+    <ServeyNo>784</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72751">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>25978</CaneGrowerCode>
+    <CaneGrowerName>जालींदर नामदेव कदम</CaneGrowerName>
+    <ServeyNo>784</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72753">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>25977</CaneGrowerCode>
+    <CaneGrowerName>मोहन नामदेव कदम</CaneGrowerName>
+    <ServeyNo>784</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72753">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>25977</CaneGrowerCode>
+    <CaneGrowerName>मोहन नामदेव कदम</CaneGrowerName>
+    <ServeyNo>784</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72755">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>25976</CaneGrowerCode>
+    <CaneGrowerName>कृष्णा नामदेव कदम</CaneGrowerName>
+    <ServeyNo>784</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72755">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>25976</CaneGrowerCode>
+    <CaneGrowerName>कृष्णा नामदेव कदम</CaneGrowerName>
+    <ServeyNo>784</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72400">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3512</CaneGrowerCode>
+    <CaneGrowerName>दत्ताञय साहेबराव चिकने</CaneGrowerName>
+    <ServeyNo>488</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919922269129</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72756">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3339</CaneGrowerCode>
+    <CaneGrowerName>भाऊसो वसंत चिकणे</CaneGrowerName>
+    <ServeyNo>566</ServeyNo>
+    <PlantationDate>30-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919665694165</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72416">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3239</CaneGrowerCode>
+    <CaneGrowerName>लक्ष्मी नारायण चिकणे</CaneGrowerName>
+    <ServeyNo>488</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72431">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3239</CaneGrowerCode>
+    <CaneGrowerName>लक्ष्मी नारायण चिकणे</CaneGrowerName>
+    <ServeyNo>517</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72405">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>22574</CaneGrowerCode>
+    <CaneGrowerName>ज्ञानेश्वर शिवलिंग माने</CaneGrowerName>
+    <ServeyNo>1384/1</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72443">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4427</CaneGrowerCode>
+    <CaneGrowerName>शोभा मधूकर किर्दक</CaneGrowerName>
+    <ServeyNo>694/2</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919763364595</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72449">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>15937</CaneGrowerCode>
+    <CaneGrowerName>सुनिल वामन निकम</CaneGrowerName>
+    <ServeyNo>922</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75025">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>1433</CaneGrowerCode>
+    <CaneGrowerName>हर्षवर्धन सुधीर पाटील</CaneGrowerName>
+    <ServeyNo>309</ServeyNo>
+    <PlantationDate>21-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919860645215</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75029">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>1433</CaneGrowerCode>
+    <CaneGrowerName>हर्षवर्धन सुधीर पाटील</CaneGrowerName>
+    <ServeyNo>307</ServeyNo>
+    <PlantationDate>25-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919860645215</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75031">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3549</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी भगवान चिकने</CaneGrowerName>
+    <ServeyNo>522</ServeyNo>
+    <PlantationDate>20-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919503765498</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75040">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>12060</CaneGrowerCode>
+    <CaneGrowerName>संतोष श्रीरंग सावंत</CaneGrowerName>
+    <ServeyNo>1053</ServeyNo>
+    <PlantationDate>25-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919921374328</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75042">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>19505</CaneGrowerCode>
+    <CaneGrowerName>दत्तु निवृत्ती कदम</CaneGrowerName>
+    <ServeyNo>790</ServeyNo>
+    <PlantationDate>15-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75044">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>15938</CaneGrowerCode>
+    <CaneGrowerName>आप्पासाहेब अर्जुन निकम</CaneGrowerName>
+    <ServeyNo>1028</ServeyNo>
+    <PlantationDate>22-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75046">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>3908</CaneGrowerCode>
+    <CaneGrowerName>रमेश तानाजी रुपनवर</CaneGrowerName>
+    <ServeyNo>320</ServeyNo>
+    <PlantationDate>20-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919822236792</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75047">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>3908</CaneGrowerCode>
+    <CaneGrowerName>रमेश तानाजी रुपनवर</CaneGrowerName>
+    <ServeyNo>530</ServeyNo>
+    <PlantationDate>15-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919822236792</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75048">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4540</CaneGrowerCode>
+    <CaneGrowerName>भरत नामदेव मोरे</CaneGrowerName>
+    <ServeyNo>486</ServeyNo>
+    <PlantationDate>02-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75050">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2876</CaneGrowerCode>
+    <CaneGrowerName>काशिनाथ लक्ष्मण माने</CaneGrowerName>
+    <ServeyNo>327</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919422317507</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2876</CaneGrowerCode>
+    <CaneGrowerName>काशिनाथ लक्ष्मण माने</CaneGrowerName>
+    <ServeyNo>4471</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919422317507</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75051">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2876</CaneGrowerCode>
+    <CaneGrowerName>काशिनाथ लक्ष्मण माने</CaneGrowerName>
+    <ServeyNo>327</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919422317507</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75052">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4541</CaneGrowerCode>
+    <CaneGrowerName>संभाजी नामदेव मोरे</CaneGrowerName>
+    <ServeyNo>4471</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919850954986</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75054">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>5924</CaneGrowerCode>
+    <CaneGrowerName>गणेश शिवाजी पाटील</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>27-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75055">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>4447</CaneGrowerCode>
+    <CaneGrowerName>रामदास अनंता मोरे</CaneGrowerName>
+    <ServeyNo>1053</ServeyNo>
+    <PlantationDate>10-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75056">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2875</CaneGrowerCode>
+    <CaneGrowerName>अनिल रघुनाथ खाडे</CaneGrowerName>
+    <ServeyNo>328</ServeyNo>
+    <PlantationDate>19-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919422317506</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75249">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2876</CaneGrowerCode>
+    <CaneGrowerName>काशिनाथ लक्ष्मण माने</CaneGrowerName>
+    <ServeyNo>1054</ServeyNo>
+    <PlantationDate>21-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919422317507</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75250">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2878</CaneGrowerCode>
+    <CaneGrowerName>वैभव भारत मोरे</CaneGrowerName>
+    <ServeyNo>490</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75251">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>6677</CaneGrowerCode>
+    <CaneGrowerName>शहाजी दादा खांडेकर</CaneGrowerName>
+    <ServeyNo>209</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75252">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>16277</CaneGrowerCode>
+    <CaneGrowerName>बाळासो बन्यासो भगत</CaneGrowerName>
+    <ServeyNo>209</ServeyNo>
+    <PlantationDate>29-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75253">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2301</CaneGrowerCode>
+    <CaneGrowerName>विजय नारायण मोरे</CaneGrowerName>
+    <ServeyNo>487</ServeyNo>
+    <PlantationDate>29-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919922630989</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75993">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2876</CaneGrowerCode>
+    <CaneGrowerName>काशिनाथ लक्ष्मण माने</CaneGrowerName>
+    <ServeyNo>213</ServeyNo>
+    <PlantationDate>17-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919422317507</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75994">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2876</CaneGrowerCode>
+    <CaneGrowerName>काशिनाथ लक्ष्मण माने</CaneGrowerName>
+    <ServeyNo>214</ServeyNo>
+    <PlantationDate>11-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919422317507</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75995">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2791</CaneGrowerCode>
+    <CaneGrowerName>ताराबाई दत्तात्रय नाळे</CaneGrowerName>
+    <ServeyNo>101</ServeyNo>
+    <PlantationDate>26-11-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919860262942</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75996">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3915</CaneGrowerCode>
+    <CaneGrowerName>सुभाष लाला चिकणे</CaneGrowerName>
+    <ServeyNo>265</ServeyNo>
+    <PlantationDate>17-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919503403596</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75997">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>3475</CaneGrowerCode>
+    <CaneGrowerName>शंकर पोपट चिकणे</CaneGrowerName>
+    <ServeyNo>134</ServeyNo>
+    <PlantationDate>13-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919975058009</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75998">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>16</VillageCode>
+    <VillageName>दहिगांव</VillageName>
+    <Distance>65</Distance>
+    <CaneGrowerCode>2312</CaneGrowerCode>
+    <CaneGrowerName>भारत निवृत्ती किर्दक</CaneGrowerName>
+    <ServeyNo>163</ServeyNo>
+    <PlantationDate>26-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="71505">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>19</GatCode>
+    <GatName>नातेपुते</GatName>
+    <VillageCode>341</VillageCode>
+    <VillageName>लोणंद</VillageName>
+    <Distance>57</Distance>
+    <CaneGrowerCode>15561</CaneGrowerCode>
+    <CaneGrowerName>प्रमोद हिम्मत रासनकर</CaneGrowerName>
+    <ServeyNo>644/13</ServeyNo>
+    <PlantationDate>01-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+</VerificationData>
