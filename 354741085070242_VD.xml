@@ -5130,4 +5130,34 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
+  <PlotNo No="76444">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>103</VillageCode>
+    <VillageName>तांदूळवाडी</VillageName>
+    <Distance>27</Distance>
+    <CaneGrowerCode>20889</CaneGrowerCode>
+    <CaneGrowerName>दिलीप प्रताप कदम</CaneGrowerName>
+    <ServeyNo>936</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
 </VerificationData>
