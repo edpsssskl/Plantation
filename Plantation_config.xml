@@ -2,7 +2,7 @@
 <User>
   <UserCode Code="355259076718116">
     <UserName>---</UserName>
-    <Range>500</Range>
+    <Range>1</Range>
     <FarmerList>https://raw.githubusercontent.com/edpsssskl/Plantation/master/FarmerList.xml</FarmerList>
     <GatList>https://raw.githubusercontent.com/edpsssskl/Plantation/master/GatList.xml</GatList>
     <VillageList>https://raw.githubusercontent.com/edpsssskl/Plantation/master/VillageList.xml</VillageList>
