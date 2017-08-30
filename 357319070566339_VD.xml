@@ -1620,6 +1620,36 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
+  <PlotNo No="63145">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>3</VillageCode>
+    <VillageName>बचेरी</VillageName>
+    <Distance>8</Distance>
+    <CaneGrowerCode>15675</CaneGrowerCode>
+    <CaneGrowerName>गंगाधर कुंडलिक सावंत</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
   <PlotNo No="63146">
     <RegFormNo>1</RegFormNo>
     <GatCode>12</GatCode>
@@ -5700,6 +5730,36 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
+  <PlotNo No="71073">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>3</VillageCode>
+    <VillageName>बचेरी</VillageName>
+    <Distance>8</Distance>
+    <CaneGrowerCode>20246</CaneGrowerCode>
+    <CaneGrowerName>संतोष लक्ष्मण ढेकळे</CaneGrowerName>
+    <ServeyNo>172</ServeyNo>
+    <PlantationDate>30-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
   <PlotNo No="71074">
     <RegFormNo>1</RegFormNo>
     <GatCode>12</GatCode>
@@ -7636,6 +7696,36 @@
     <CaneVarietyCode>7</CaneVarietyCode>
     <CaneVariety>86032</CaneVariety>
     <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - पिलीव</BranchName>
+    <IFSC>BKID0000713</IFSC>
+    <AccountNo>071310110005781</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="68770">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>3</VillageCode>
+    <VillageName>बचेरी</VillageName>
+    <Distance>8</Distance>
+    <CaneGrowerCode>23973</CaneGrowerCode>
+    <CaneGrowerName>कुंडिलक बाळासाहेब शिंदे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>16-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>2</Area>
     <IrrigationTypeCode>0</IrrigationTypeCode>
     <IrrigationType />
     <IrrigationMethodCode>0</IrrigationMethodCode>
@@ -11610,6 +11700,66 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
+  <PlotNo No="75906">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>3</VillageCode>
+    <VillageName>बचेरी</VillageName>
+    <Distance>8</Distance>
+    <CaneGrowerCode>1868</CaneGrowerCode>
+    <CaneGrowerName>शामराव कृष्णा मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>06-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919766686700</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75906">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>3</VillageCode>
+    <VillageName>बचेरी</VillageName>
+    <Distance>8</Distance>
+    <CaneGrowerCode>1868</CaneGrowerCode>
+    <CaneGrowerName>शामराव कृष्णा मदने</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>23-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919766686700</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
   <PlotNo No="75913">
     <RegFormNo>1</RegFormNo>
     <GatCode>12</GatCode>
@@ -11753,6 +11903,36 @@
     <PlantationTypeCode>0</PlantationTypeCode>
     <PlantationType />
     <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75936">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>12</GatCode>
+    <GatName>पिलीव</GatName>
+    <VillageCode>3</VillageCode>
+    <VillageName>बचेरी</VillageName>
+    <Distance>19</Distance>
+    <CaneGrowerCode>5525</CaneGrowerCode>
+    <CaneGrowerName>दशरथ गणपत मदने-पाटील</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>04-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919403469246</MobileNo>
     <PANNo>-</PANNo>
     <BankName>-</BankName>
     <BranchName>-</BranchName>
