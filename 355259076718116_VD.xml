@@ -5,7 +5,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>323</CaneGrowerCode>
     <CaneGrowerName>विजय काकासो मोरे</CaneGrowerName>
@@ -35,7 +35,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>19525</CaneGrowerCode>
     <CaneGrowerName>विठ्ठल बापूराव मोरे</CaneGrowerName>
@@ -65,7 +65,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>19525</CaneGrowerCode>
     <CaneGrowerName>विठ्ठल बापूराव मोरे</CaneGrowerName>
@@ -95,7 +95,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1350</CaneGrowerCode>
     <CaneGrowerName>जगन्नाथ महादेव सातपुते</CaneGrowerName>
@@ -125,7 +125,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>21714</CaneGrowerCode>
     <CaneGrowerName>आप्पासोा नामदेव मोरे</CaneGrowerName>
@@ -155,7 +155,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>24300</CaneGrowerCode>
     <CaneGrowerName>अमोल कलाप्पा कुटे</CaneGrowerName>
@@ -180,432 +180,12 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="72057">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>29275</CaneGrowerCode>
-    <CaneGrowerName />
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>11-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
-    <BranchName>सांगली जि.म.स.बँक लि.- राजेवाडी</BranchName>
-    <IFSC>IBKL0487SDC</IFSC>
-    <AccountNo>17005110001884</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72104">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>25625</CaneGrowerCode>
-    <CaneGrowerName />
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>01-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
-    <BranchName>सांगली जि.म.स.बँक लि.- राजेवाडी</BranchName>
-    <IFSC>IBKL0487SDC</IFSC>
-    <AccountNo>17005110003702</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72108">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>19611</CaneGrowerCode>
-    <CaneGrowerName>बबन आण्णा चाचर</CaneGrowerName>
-    <ServeyNo>2</ServeyNo>
-    <PlantationDate>25-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72110">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>552</CaneGrowerCode>
-    <CaneGrowerName>आण्णा शिवाजी निंबाळकर</CaneGrowerName>
-    <ServeyNo>480Éà</ServeyNo>
-    <PlantationDate>16-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919975099598</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72115">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>32209</CaneGrowerCode>
-    <CaneGrowerName>दगडू मारुती खटके</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>15-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.3</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
-    <BranchName>सांगली जि.म.स.बँक लि.- राजेवाडी</BranchName>
-    <IFSC>IBKL0487SDC</IFSC>
-    <AccountNo>17005110000312</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72116">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>1294</CaneGrowerCode>
-    <CaneGrowerName>रामदास तुकाराम डिसले</CaneGrowerName>
-    <ServeyNo>445</ServeyNo>
-    <PlantationDate>30-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72118">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>538</CaneGrowerCode>
-    <CaneGrowerName />
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>05-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
-    <BranchName>सांगली जि.म.स.बँक लि.- राजेवाडी</BranchName>
-    <IFSC>IBKL0487SDC</IFSC>
-    <AccountNo>17005110004325</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72120">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>3657</CaneGrowerCode>
-    <CaneGrowerName>सुभद्रा रामचंद्र शेंंडगे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>20-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919096781590</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72130">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>29275</CaneGrowerCode>
-    <CaneGrowerName />
-    <ServeyNo>785</ServeyNo>
-    <PlantationDate>15-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
-    <BranchName>सांगली जि.म.स.बँक लि.- राजेवाडी</BranchName>
-    <IFSC>IBKL0487SDC</IFSC>
-    <AccountNo>17005110001884</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72131">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>538</CaneGrowerCode>
-    <CaneGrowerName />
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>11-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
-    <BranchName>सांगली जि.म.स.बँक लि.- राजेवाडी</BranchName>
-    <IFSC>IBKL0487SDC</IFSC>
-    <AccountNo>17005110004325</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72133">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>1384</CaneGrowerCode>
-    <CaneGrowerName>भानुदास धोंडीबा चाचर</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>11-12-2016</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>सुरु</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.5</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72134">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>519</CaneGrowerCode>
-    <CaneGrowerName />
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>11-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>बँक आँफ इंडिया</BankName>
-    <BranchName>बँक आँफ इंडिया-आटपाडी</BranchName>
-    <IFSC>BKID0001502</IFSC>
-    <AccountNo>150210110011225</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72135">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>373</CaneGrowerCode>
-    <CaneGrowerName>महेशकुमार धर्मराज यादव</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>20-12-2016</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>सुरु</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919527773507</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72136">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>32705</CaneGrowerCode>
-    <CaneGrowerName>संजीवकुमार धर्मराज यादव</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>20-12-2016</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>सुरु</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="72953">
     <RegFormNo>1</RegFormNo>
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>20</VillageCode>
-    <VillageName>पुजारवाडी (आ)</VillageName>
+    <VillageName>पुजारवाडी (आ)&#x0;</VillageName>
     <Distance>31</Distance>
     <CaneGrowerCode>3966</CaneGrowerCode>
     <CaneGrowerName>ज्ञानोबा तुकाराम पुजारी</CaneGrowerName>
@@ -624,7 +204,7 @@
     <PlantationType />
     <MobileNo>919623049096</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110011773</AccountNo>
@@ -635,7 +215,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>3966</CaneGrowerCode>
     <CaneGrowerName>ज्ञानोबा तुकाराम पुजारी</CaneGrowerName>
@@ -654,7 +234,7 @@
     <PlantationType />
     <MobileNo>919623049096</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110011773</AccountNo>
@@ -665,7 +245,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>20</VillageCode>
-    <VillageName>पुजारवाडी (आ)</VillageName>
+    <VillageName>पुजारवाडी (आ)&#x0;</VillageName>
     <Distance>31</Distance>
     <CaneGrowerCode>586</CaneGrowerCode>
     <CaneGrowerName>नानासो गोरख पवार</CaneGrowerName>
@@ -695,7 +275,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>34851</CaneGrowerCode>
     <CaneGrowerName>अजय                आण्णा                  शेटे                  </CaneGrowerName>
@@ -725,7 +305,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>953</CaneGrowerCode>
     <CaneGrowerName>जालिंदर कृष्णा नळ</CaneGrowerName>
@@ -750,42 +330,12 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="73198">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>21701</CaneGrowerCode>
-    <CaneGrowerName>रामा धोंडीबा चाचर</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>11-11-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="73243">
     <RegFormNo>1</RegFormNo>
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>18114</CaneGrowerCode>
     <CaneGrowerName>दादासो ज्ञानेश्वर मोरे</CaneGrowerName>
@@ -810,432 +360,12 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="73276">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>383</CaneGrowerCode>
-    <CaneGrowerName>सिताराम दादू खटके</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>12-12-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919763450532</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="73388">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>21698</CaneGrowerCode>
-    <CaneGrowerName>नागेश मारुती खटके</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>09-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="73389">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>24698</CaneGrowerCode>
-    <CaneGrowerName>धोंडीराम गेंदा सोन्नुर</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>10-12-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="73414">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>4297</CaneGrowerCode>
-    <CaneGrowerName>शिवाजी उजना खटके</CaneGrowerName>
-    <ServeyNo>289</ServeyNo>
-    <PlantationDate>12-09-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919421122599</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="73415">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>538</CaneGrowerCode>
-    <CaneGrowerName />
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>01-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
-    <BranchName>सांगली जि.म.स.बँक लि.- राजेवाडी</BranchName>
-    <IFSC>IBKL0487SDC</IFSC>
-    <AccountNo>17005110004325</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="73416">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>4223</CaneGrowerCode>
-    <CaneGrowerName>यशवंत रामा चोरुमले</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>25-11-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.3</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919604813293</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="73532">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>552</CaneGrowerCode>
-    <CaneGrowerName>आण्णा शिवाजी निंबाळकर</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>12-12-2016</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>सुरु</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919975099598</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="73537">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>34956</CaneGrowerCode>
-    <CaneGrowerName>बाबा                   रामा                   चोरमले                                    </CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>11-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74531">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>32209</CaneGrowerCode>
-    <CaneGrowerName>दगडू मारुती खटके</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>15-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.3</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
-    <BranchName>सांगली जि.म.स.बँक लि.- राजेवाडी</BranchName>
-    <IFSC>IBKL0487SDC</IFSC>
-    <AccountNo>17005110000312</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74533">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>82</CaneGrowerCode>
-    <CaneGrowerName>दुर्योधन विठोबा निंबाळकर</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>10-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>918975496251</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74534">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>81</CaneGrowerCode>
-    <CaneGrowerName>सुनिल जालिंदर चाचर</CaneGrowerName>
-    <ServeyNo>430</ServeyNo>
-    <PlantationDate>05-10-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919850460617</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74536">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>81</CaneGrowerCode>
-    <CaneGrowerName>सुनिल जालिंदर चाचर</CaneGrowerName>
-    <ServeyNo>476</ServeyNo>
-    <PlantationDate>12-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919850460617</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74537">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>82</CaneGrowerCode>
-    <CaneGrowerName>दुर्योधन विठोबा निंबाळकर</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>20-10-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>1.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>918975496251</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74608">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>1552</CaneGrowerCode>
-    <CaneGrowerName>काशिनाथ आबा खटके</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>25-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="74736">
     <RegFormNo>1</RegFormNo>
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1143</CaneGrowerCode>
     <CaneGrowerName>सुनिल निवृत्ती काटे</CaneGrowerName>
@@ -1265,7 +395,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1662</CaneGrowerCode>
     <CaneGrowerName />
@@ -1284,7 +414,7 @@
     <PlantationType />
     <MobileNo>919763607473</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110002478</AccountNo>
@@ -1295,7 +425,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1217</CaneGrowerCode>
     <CaneGrowerName>रामदास रेवण टिंगरे</CaneGrowerName>
@@ -1325,7 +455,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>3895</CaneGrowerCode>
     <CaneGrowerName>हरीदास रेवणसिध्द टिंगरे</CaneGrowerName>
@@ -1355,7 +485,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1310</CaneGrowerCode>
     <CaneGrowerName>अजय राजाराम पुजारी</CaneGrowerName>
@@ -1385,7 +515,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>4874</CaneGrowerCode>
     <CaneGrowerName>अंकुश रामचंद्र पुजारी</CaneGrowerName>
@@ -1403,726 +533,6 @@
     <PlantationTypeCode>0</PlantationTypeCode>
     <PlantationType />
     <MobileNo>919011826922</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74860">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>19585</CaneGrowerCode>
-    <CaneGrowerName>कैलास कृष्णा धुलगुडे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>10-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74862">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>1036</CaneGrowerCode>
-    <CaneGrowerName>अमोल दगडू खटके</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>18-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74864">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>19589</CaneGrowerCode>
-    <CaneGrowerName>रविंद्र शिवाजी ठोंबरे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>19-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74865">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>385</CaneGrowerCode>
-    <CaneGrowerName>रमेश पांडूरंग मगदूम</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>16-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74867">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>1520</CaneGrowerCode>
-    <CaneGrowerName>विठ्ठल कृष्णा शिंदे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>17-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919763542216</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74868">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>1520</CaneGrowerCode>
-    <CaneGrowerName>विठ्ठल कृष्णा शिंदे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>17-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919763542216</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74869">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>1034</CaneGrowerCode>
-    <CaneGrowerName>शंकर कृष्णा खटके</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>01-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74870">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>5716</CaneGrowerCode>
-    <CaneGrowerName>जगन्नाथ विठोबा कोळेकर</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>05-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919975187365</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74871">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>4295</CaneGrowerCode>
-    <CaneGrowerName>विराज बापूसो पुजारी</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>22-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919421122599</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74872">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>4294</CaneGrowerCode>
-    <CaneGrowerName>शंकर कोंडीबा पुजारी</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>16-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919421122599</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74873">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>1002</CaneGrowerCode>
-    <CaneGrowerName>काका विठोबा निंबाळकर</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>25-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74874">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>19603</CaneGrowerCode>
-    <CaneGrowerName>रविंद्र संदिपान चाचर</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>17-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74875">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>13506</CaneGrowerCode>
-    <CaneGrowerName>शिवाजी सोपाना खटके</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>29-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>918888441575</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74876">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>6324</CaneGrowerCode>
-    <CaneGrowerName>शंकर रामा चोरुमले</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>19-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919421223032</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74877">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>5255</CaneGrowerCode>
-    <CaneGrowerName>आगतराव रामा चोरुमले</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>15-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919766658244</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74878">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>5559</CaneGrowerCode>
-    <CaneGrowerName>मारुती दादू खटके</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>15-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919763625687</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74879">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>387</CaneGrowerCode>
-    <CaneGrowerName>प्रदिपकुमार बाबूराव चोरुमले</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>15-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74879">
-    <RegFormNo>2</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>387</CaneGrowerCode>
-    <CaneGrowerName>प्रदिपकुमार बाबूराव चोरुमले</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>25-12-2016</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>सुरु</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74880">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>535</CaneGrowerCode>
-    <CaneGrowerName>शिवाजी मारुती खटके</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>27-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919324365556</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74881">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>537</CaneGrowerCode>
-    <CaneGrowerName>बाबू दादा निंबाळकर</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>20-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.5</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74882">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>398</CaneGrowerCode>
-    <CaneGrowerName>मारुती आन्याबा महाडीक</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>19-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74883">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>1483</CaneGrowerCode>
-    <CaneGrowerName>किसन दशरथ मोरे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>19-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919403180037</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75348">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>19620</CaneGrowerCode>
-    <CaneGrowerName>शंकर मारुती माने</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>10-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74535">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>आटपाडी</GatName>
-    <VillageCode>18</VillageCode>
-    <VillageName>लिंगीवरे</VillageName>
-    <Distance>12</Distance>
-    <CaneGrowerCode>81</CaneGrowerCode>
-    <CaneGrowerName>सुनिल जालिंदर चाचर</CaneGrowerName>
-    <ServeyNo>450</ServeyNo>
-    <PlantationDate>02-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.5</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919850460617</MobileNo>
     <PANNo>-</PANNo>
     <BankName>-</BankName>
     <BranchName>-</BranchName>
