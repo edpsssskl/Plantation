@@ -360,96 +360,6 @@
     <AccountNo>60213686262</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="62780">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>17412</CaneGrowerCode>
-    <CaneGrowerName>निवृत्ती नारायण गोरड</CaneGrowerName>
-    <ServeyNo>802</ServeyNo>
-    <PlantationDate>15-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>AOLPG8825N</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="62780">
-    <RegFormNo>2</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>17412</CaneGrowerCode>
-    <CaneGrowerName>निवृत्ती नारायण गोरड</CaneGrowerName>
-    <ServeyNo>802</ServeyNo>
-    <PlantationDate>17-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>AOLPG8825N</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="62780">
-    <RegFormNo>3</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>17412</CaneGrowerCode>
-    <CaneGrowerName>निवृत्ती नारायण गोरड</CaneGrowerName>
-    <ServeyNo>802</ServeyNo>
-    <PlantationDate>27-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>AOLPG8825N</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="62781">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -810,126 +720,6 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="63249">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>17412</CaneGrowerCode>
-    <CaneGrowerName>निवृत्ती नारायण गोरड</CaneGrowerName>
-    <ServeyNo>129</ServeyNo>
-    <PlantationDate>15-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>AOLPG8825N</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="63249">
-    <RegFormNo>2</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>17412</CaneGrowerCode>
-    <CaneGrowerName>निवृत्ती नारायण गोरड</CaneGrowerName>
-    <ServeyNo>168</ServeyNo>
-    <PlantationDate>15-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>AOLPG8825N</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="63249">
-    <RegFormNo>3</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>17412</CaneGrowerCode>
-    <CaneGrowerName>निवृत्ती नारायण गोरड</CaneGrowerName>
-    <ServeyNo>501</ServeyNo>
-    <PlantationDate>16-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.5</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>AOLPG8825N</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="63249">
-    <RegFormNo>4</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>17412</CaneGrowerCode>
-    <CaneGrowerName>निवृत्ती नारायण गोरड</CaneGrowerName>
-    <ServeyNo>454</ServeyNo>
-    <PlantationDate>17-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>AOLPG8825N</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="63278">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -1080,36 +870,6 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="63282">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>25697</CaneGrowerCode>
-    <CaneGrowerName>संतोष पंढरी कळसुले</CaneGrowerName>
-    <ServeyNo>794</ServeyNo>
-    <PlantationDate>27-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>सोलापूर जि.म.स.बँक लि.</BankName>
-    <BranchName>सोलापूर जि.म. स. बॅंक लि. माणकी</BranchName>
-    <IFSC>YESB0SDC001</IFSC>
-    <AccountNo>151202840002599</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="63283">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -1178,7 +938,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>19896</CaneGrowerCode>
-    <CaneGrowerName>अज्ञान लक्ष्मण कळसुले</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>685</ServeyNo>
     <PlantationDate>17-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -1194,10 +954,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110022290</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="63286">
@@ -1718,7 +1478,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>2542</CaneGrowerCode>
-    <CaneGrowerName>ताई गोपाळ वाघमोडे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>466</ServeyNo>
     <PlantationDate>10-09-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -1734,10 +1494,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110014955</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="63708">
@@ -1838,7 +1598,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>4173</CaneGrowerCode>
-    <CaneGrowerName>मारुती रामचंद्र सिद</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1682</ServeyNo>
     <PlantationDate>30-10-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -1854,10 +1614,10 @@
     <PlantationType />
     <MobileNo>919975123797</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>30621087734</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="63721">
@@ -1871,8 +1631,8 @@
     <CaneGrowerName>संदिप शामदत्त पाटील</CaneGrowerName>
     <ServeyNo>65</ServeyNo>
     <PlantationDate>07-09-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
     <CaneVarietyCode>9</CaneVarietyCode>
     <CaneVariety>265</CaneVariety>
     <Area>0.8</Area>
@@ -1884,36 +1644,6 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>BZUPP9070M</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="63816">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>19121</CaneGrowerCode>
-    <CaneGrowerName>दादा नारायण गोरड</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>16-09-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
     <BankName>-</BankName>
     <BranchName>-</BranchName>
     <IFSC>0</IFSC>
@@ -2261,41 +1991,11 @@
     <CaneGrowerName>धुळा श्रीमंत गोरड</CaneGrowerName>
     <ServeyNo>106</ServeyNo>
     <PlantationDate>15-09-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="63827">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>5353</CaneGrowerCode>
-    <CaneGrowerName>दत्तू बापू गोरड</CaneGrowerName>
-    <ServeyNo>120</ServeyNo>
-    <PlantationDate>04-10-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
     <CaneType>पूर्व हंगामी</CaneType>
     <CaneVarietyCode>9</CaneVarietyCode>
     <CaneVariety>265</CaneVariety>
-    <Area>0.6</Area>
+    <Area>0.8</Area>
     <IrrigationTypeCode>0</IrrigationTypeCode>
     <IrrigationType />
     <IrrigationMethodCode>0</IrrigationMethodCode>
@@ -2468,11 +2168,11 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>12975</CaneGrowerCode>
-    <CaneGrowerName>सुहास शिवाजी माने</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1548</ServeyNo>
     <PlantationDate>10-10-2016</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>सुरु</CaneType>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
     <CaneVarietyCode>9</CaneVarietyCode>
     <CaneVariety>265</CaneVariety>
     <Area>0.8</Area>
@@ -2484,10 +2184,10 @@
     <PlantationType />
     <MobileNo>918275303253</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>30391011558</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70433">
@@ -2498,7 +2198,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>12975</CaneGrowerCode>
-    <CaneGrowerName>सुहास शिवाजी माने</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1548</ServeyNo>
     <PlantationDate>03-01-2017</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -2514,10 +2214,10 @@
     <PlantationType />
     <MobileNo>918275303253</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>30391011558</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70434">
@@ -2544,7 +2244,7 @@
     <PlantationType />
     <MobileNo>919970881375</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सोलापूर जि.म.स.बँक लि.</BankName>
+    <BankName>सोलापूर जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सोलापूर जि.म.स.बँक लि. - माळशिरस शहर</BranchName>
     <IFSC>YESB0SDC001</IFSC>
     <AccountNo>150402840009834</AccountNo>
@@ -2558,7 +2258,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>2542</CaneGrowerCode>
-    <CaneGrowerName>ताई गोपाळ वाघमोडे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>466</ServeyNo>
     <PlantationDate>23-01-2017</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -2574,10 +2274,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110014955</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70436">
@@ -2588,7 +2288,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>4623</CaneGrowerCode>
-    <CaneGrowerName>सुरेश एकनाथ कुलकर्णी</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>2124</ServeyNo>
     <PlantationDate>18-12-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -2604,10 +2304,10 @@
     <PlantationType />
     <MobileNo>919423328174</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>30414920367</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70436">
@@ -2618,7 +2318,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>4623</CaneGrowerCode>
-    <CaneGrowerName>सुरेश एकनाथ कुलकर्णी</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>212</ServeyNo>
     <PlantationDate>22-11-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -2634,10 +2334,10 @@
     <PlantationType />
     <MobileNo>919423328174</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>30414920367</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70437">
@@ -2768,11 +2468,11 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>29314</CaneGrowerCode>
-    <CaneGrowerName>विलास तुकाराम मस्के</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>21</ServeyNo>
     <PlantationDate>25-07-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
     <CaneVarietyCode>9</CaneVarietyCode>
     <CaneVariety>265</CaneVariety>
     <Area>0.8</Area>
@@ -2784,10 +2484,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>32652511711</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70441">
@@ -2798,7 +2498,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>14331</CaneGrowerCode>
-    <CaneGrowerName>ज्ञानेश्वर रामचंद्र वाघमोडे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>671</ServeyNo>
     <PlantationDate>30-12-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -2814,10 +2514,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>33536158599</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70442">
@@ -2828,7 +2528,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>20068</CaneGrowerCode>
-    <CaneGrowerName>सावळा रामचंद्र वाघमोडे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>670</ServeyNo>
     <PlantationDate>01-01-2017</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -2844,10 +2544,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>32811751299</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70443">
@@ -3191,8 +2891,8 @@
     <CaneGrowerName>किसन माणिक गोरड</CaneGrowerName>
     <ServeyNo>447</ServeyNo>
     <PlantationDate>12-12-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
     <CaneVarietyCode>9</CaneVarietyCode>
     <CaneVariety>265</CaneVariety>
     <Area>2.3</Area>
@@ -3390,36 +3090,6 @@
     <AccountNo>31327908295</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="70486">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>15198</CaneGrowerCode>
-    <CaneGrowerName>शिवाजी मुरलीधर सोनवणे</CaneGrowerName>
-    <ServeyNo>542</ServeyNo>
-    <PlantationDate>27-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="70487">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -3518,7 +3188,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>20372</CaneGrowerCode>
-    <CaneGrowerName>बाजीराव देनबा गोरड</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>795</ServeyNo>
     <PlantationDate>01-10-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -3534,10 +3204,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>33616316274</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70491">
@@ -3654,7 +3324,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>वैणगंगा कृष्णा ग्रामीण बँक लि.</BankName>
+    <BankName>वैणगंगा कृष्णा ग्रामीण बँक लि.&#x0;</BankName>
     <BranchName>वैनगंगा कृष्णा ग्रामीण बॅक - ईस्लामपूर</BranchName>
     <IFSC>BKID0WAINGB</IFSC>
     <AccountNo>200810110000199</AccountNo>
@@ -3773,36 +3443,6 @@
     <PlantationTypeCode>0</PlantationTypeCode>
     <PlantationType />
     <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="70553">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>3185</CaneGrowerCode>
-    <CaneGrowerName>सुर्यकांत चंद्रकांत मदने</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>15-12-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919890651499</MobileNo>
     <PANNo>-</PANNo>
     <BankName>-</BankName>
     <BranchName>-</BranchName>
@@ -3938,7 +3578,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>25042</CaneGrowerCode>
-    <CaneGrowerName>साहेबराव लक्ष्मण यमगर</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>395</ServeyNo>
     <PlantationDate>28-09-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -3954,10 +3594,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>आय.डी. बी. आय. बँक</BankName>
+    <BranchName>आय.डी.बी.आय.बँँक-म्हसवड</BranchName>
+    <IFSC>IBKL0000484</IFSC>
+    <AccountNo>0484104000066413</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70560">
@@ -4350,36 +3990,6 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="70756">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>19795</CaneGrowerCode>
-    <CaneGrowerName>दत्तात्रय विठ्ठल पिसे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>27-11-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="70757">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -4388,7 +3998,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>4093</CaneGrowerCode>
-    <CaneGrowerName>दादा नामदेव यमगर</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>0.4</ServeyNo>
     <PlantationDate>02-10-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -4404,130 +4014,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="70758">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>19795</CaneGrowerCode>
-    <CaneGrowerName>दत्तात्रय विठ्ठल पिसे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>06-11-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="70759">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>19795</CaneGrowerCode>
-    <CaneGrowerName>दत्तात्रय विठ्ठल पिसे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>25-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="70760">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>5353</CaneGrowerCode>
-    <CaneGrowerName>दत्तू बापू गोरड</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>10-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="70761">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>21351</CaneGrowerCode>
-    <CaneGrowerName>वैशाली हणमंत काटकर</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>16-09-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110020475</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70762">
@@ -4748,7 +4238,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>20694</CaneGrowerCode>
-    <CaneGrowerName>आजिनाथ नामदेव केंगार</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>554</ServeyNo>
     <PlantationDate>02-11-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -4764,10 +4254,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>33669971842</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70771">
@@ -4860,36 +4350,6 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="70775">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>2014</CaneGrowerCode>
-    <CaneGrowerName>राजेंद्र जालिंदर पाटील</CaneGrowerName>
-    <ServeyNo>368</ServeyNo>
-    <PlantationDate>02-08-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="70776">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -4948,36 +4408,6 @@
     <BranchName>बँक ऑफ महाराष्ट्र - माळशिरस</BranchName>
     <IFSC>MAHB0001838</IFSC>
     <AccountNo>68017426934</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="70778">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>20655</CaneGrowerCode>
-    <CaneGrowerName>आनंदराव निवृत्ती शिंदे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>03-10-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70779">
@@ -5190,36 +4620,6 @@
     <AccountNo>33655967478</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="70786">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>30538</CaneGrowerCode>
-    <CaneGrowerName>बाळू तुकाराम गोरड</CaneGrowerName>
-    <ServeyNo>112</ServeyNo>
-    <PlantationDate>01-12-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="70787">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -5244,7 +4644,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सोलापूर जनता सहकारी बँक लि.</BankName>
+    <BankName>सोलापूर जनता सहकारी बँक लि.&#x0;</BankName>
     <BranchName>सोलापूर जनता सहकारी बँक लि.- माळशिरस</BranchName>
     <IFSC>SJSB0000025</IFSC>
     <AccountNo>5870252000005320</AccountNo>
@@ -5258,7 +4658,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>4093</CaneGrowerCode>
-    <CaneGrowerName>दादा नामदेव यमगर</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1</ServeyNo>
     <PlantationDate>21-12-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -5274,10 +4674,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110020475</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70789">
@@ -5310,36 +4710,6 @@
     <AccountNo>071110110020474</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="70791">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>25690</CaneGrowerCode>
-    <CaneGrowerName>कुंडलीक पांडुरंग माने</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>02-08-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>बँक आँफ इंडिया</BankName>
-    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
-    <IFSC>BKID0000711</IFSC>
-    <AccountNo>071110110023896</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="70792">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -5364,7 +4734,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सोलापूर जि.म.स.बँक लि.</BankName>
+    <BankName>सोलापूर जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सोलापूर जि.म. स. बॅंक लि. माणकी</BranchName>
     <IFSC>YESB0SDC001</IFSC>
     <AccountNo>151202840002599</AccountNo>
@@ -5460,36 +4830,6 @@
     <AccountNo>30513899513</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="70797">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>32612</CaneGrowerCode>
-    <CaneGrowerName>शंकर श्रीमंत कोकरे</CaneGrowerName>
-    <ServeyNo>1712</ServeyNo>
-    <PlantationDate>17-12-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="70798">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -5548,36 +4888,6 @@
     <BranchName>बँक ऑफ महाराष्ट्र - माळशिरस</BranchName>
     <IFSC>MAHB0001838</IFSC>
     <AccountNo>60262790536</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="70800">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>24487</CaneGrowerCode>
-    <CaneGrowerName>बापू विठ्ठल नलवडे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>01-01-2017</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70801">
@@ -5668,36 +4978,6 @@
     <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
     <IFSC>SBIN0011516</IFSC>
     <AccountNo>32808973566</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="70804">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>12896</CaneGrowerCode>
-    <CaneGrowerName>नाना पंढरी यमगर</CaneGrowerName>
-    <ServeyNo>399</ServeyNo>
-    <PlantationDate>10-11-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70805">
@@ -5818,36 +5098,6 @@
     <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
     <IFSC>SBIN0011516</IFSC>
     <AccountNo>35155221388</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="70810">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>113</CaneGrowerCode>
-    <CaneGrowerName>संतोषकुमार नामदेव उघडे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>17-12-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919970074901</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="70811">
@@ -6150,36 +5400,6 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="72563">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>15963</CaneGrowerCode>
-    <CaneGrowerName />
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>02-09-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
-    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
-    <IFSC>SBIN0011516</IFSC>
-    <AccountNo>20144366257</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="72564">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -6311,8 +5531,8 @@
     <CaneGrowerName />
     <ServeyNo>150</ServeyNo>
     <PlantationDate>15-11-2016</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>सुरु</CaneType>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
     <CaneVarietyCode>7</CaneVarietyCode>
     <CaneVariety>86032</CaneVariety>
     <Area>0.6</Area>
@@ -6518,7 +5738,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>33847</CaneGrowerCode>
-    <CaneGrowerName>मोहन रामचंद्र थोरात</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1</ServeyNo>
     <PlantationDate>20-10-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -6534,10 +5754,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>सोलापूर जनता सहकारी बँक लि.&#x0;</BankName>
+    <BranchName>सोलापूर जनता सहकारी बँक लि.- माळशिरस</BranchName>
+    <IFSC>SJSB0000025</IFSC>
+    <AccountNo>5870252000003026</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="72615">
@@ -6628,36 +5848,6 @@
     <BranchName>-</BranchName>
     <IFSC>0</IFSC>
     <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72636">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>14777</CaneGrowerCode>
-    <CaneGrowerName>मुकिंद आप्पा गोरड</CaneGrowerName>
-    <ServeyNo>12</ServeyNo>
-    <PlantationDate>07-08-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>बँक ऑफ महाराष्ट्र</BankName>
-    <BranchName>बँक ऑफ महाराष्ट्र - माळशिरस</BranchName>
-    <IFSC>MAHB0001838</IFSC>
-    <AccountNo>60213686262</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="72652">
@@ -6758,7 +5948,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>25651</CaneGrowerCode>
-    <CaneGrowerName>यशवंत शंकर हांगे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>86</ServeyNo>
     <PlantationDate>20-11-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -6774,10 +5964,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया - अकलुज</BranchName>
+    <IFSC>SBIN0000305</IFSC>
+    <AccountNo>11432187407</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="72668">
@@ -6938,7 +6128,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>33917</CaneGrowerCode>
-    <CaneGrowerName>भगवान गोविंद कोळेकर</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>444</ServeyNo>
     <PlantationDate>07-10-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -6954,10 +6144,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>33794622988</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="72693">
@@ -7118,7 +6308,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>18869</CaneGrowerCode>
-    <CaneGrowerName>दाजी पंढरी गोरड</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>319</ServeyNo>
     <PlantationDate>15-12-2016</PlantationDate>
     <CaneTypeCode>1</CaneTypeCode>
@@ -7134,40 +6324,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72716">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>31737</CaneGrowerCode>
-    <CaneGrowerName>भागवत जगन्नाथ गाडवे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>14-12-2016</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>सुरु</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
-    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
-    <IFSC>SBIN0011516</IFSC>
-    <AccountNo>34778586654</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110014119</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="72717">
@@ -7194,7 +6354,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सोलापूर जि.म.स.बँक लि.</BankName>
+    <BankName>सोलापूर जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सोलापूर जि.म. स. बॅंक लि. माणकी</BranchName>
     <IFSC>YESB0SDC001</IFSC>
     <AccountNo>151202840004050</AccountNo>
@@ -7276,36 +6436,6 @@
     <CaneVarietyCode>9</CaneVarietyCode>
     <CaneVariety>265</CaneVariety>
     <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="72725">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>19855</CaneGrowerCode>
-    <CaneGrowerName>सुभाष पांडुरंग गोरड</CaneGrowerName>
-    <ServeyNo>11</ServeyNo>
-    <PlantationDate>16-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.6</Area>
     <IrrigationTypeCode>0</IrrigationTypeCode>
     <IrrigationType />
     <IrrigationMethodCode>0</IrrigationMethodCode>
@@ -7478,7 +6608,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>31527</CaneGrowerCode>
-    <CaneGrowerName>महादेव बाळकृष्ण गोरे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>453</ServeyNo>
     <PlantationDate>01-09-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -7494,7 +6624,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सोलापूर जनता सहकारी बँक लि.</BankName>
+    <BankName>सोलापूर जनता सहकारी बँक लि.&#x0;</BankName>
     <BranchName>सोलापूर जनता सहकारी बँक लि.- माळशिरस</BranchName>
     <IFSC>SJSB000025</IFSC>
     <AccountNo>025005100004264</AccountNo>
@@ -7590,36 +6720,6 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="70774">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>20240</CaneGrowerCode>
-    <CaneGrowerName>विजयराज विष्णु पाटील</CaneGrowerName>
-    <ServeyNo>364</ServeyNo>
-    <PlantationDate>03-11-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.2</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="72572">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -7644,7 +6744,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>वैणगंगा कृष्णा ग्रामीण बँक लि.</BankName>
+    <BankName>वैणगंगा कृष्णा ग्रामीण बँक लि.&#x0;</BankName>
     <BranchName>वैनगंगा कृष्णा ग्रामीण बॅक - ईस्लामपूर</BranchName>
     <IFSC>BKID0WAINGB</IFSC>
     <AccountNo>200810110000199</AccountNo>
@@ -7673,36 +6773,6 @@
     <PlantationTypeCode>0</PlantationTypeCode>
     <PlantationType />
     <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74017">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>216</CaneGrowerCode>
-    <CaneGrowerName>अशोक लक्ष्मण खुर्द</CaneGrowerName>
-    <ServeyNo>216</ServeyNo>
-    <PlantationDate>20-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919421283994</MobileNo>
     <PANNo>-</PANNo>
     <BankName>-</BankName>
     <BranchName>-</BranchName>
@@ -7764,7 +6834,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सोलापूर जनता सहकारी बँक लि.</BankName>
+    <BankName>सोलापूर जनता सहकारी बँक लि.&#x0;</BankName>
     <BranchName>सोलापूर जनता सहकारी बँक लि.- माळशिरस</BranchName>
     <IFSC>SJSB0000025</IFSC>
     <AccountNo>5870252000005279</AccountNo>
@@ -7966,66 +7036,6 @@
     <CaneVarietyCode>7</CaneVarietyCode>
     <CaneVariety>86032</CaneVariety>
     <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74039">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>35374</CaneGrowerCode>
-    <CaneGrowerName>नाना                   धुऴा                       गोरड                          </CaneGrowerName>
-    <ServeyNo>595</ServeyNo>
-    <PlantationDate>25-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74040">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>35374</CaneGrowerCode>
-    <CaneGrowerName>नाना                   धुऴा                       गोरड                          </CaneGrowerName>
-    <ServeyNo>595</ServeyNo>
-    <PlantationDate>26-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
     <IrrigationTypeCode>0</IrrigationTypeCode>
     <IrrigationType />
     <IrrigationMethodCode>0</IrrigationMethodCode>
@@ -8310,66 +7320,6 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="74093">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>35417</CaneGrowerCode>
-    <CaneGrowerName>लाला                   निवृत्ती                           गोरड                          </CaneGrowerName>
-    <ServeyNo>128</ServeyNo>
-    <PlantationDate>25-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.7</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74093">
-    <RegFormNo>2</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>35417</CaneGrowerCode>
-    <CaneGrowerName>लाला                   निवृत्ती                           गोरड                          </CaneGrowerName>
-    <ServeyNo>1281</ServeyNo>
-    <PlantationDate>27-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="74094">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -8386,66 +7336,6 @@
     <CaneVarietyCode>9</CaneVarietyCode>
     <CaneVariety>265</CaneVariety>
     <Area>1.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74095">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>35419</CaneGrowerCode>
-    <CaneGrowerName>सुभाष                          लक्ष्मण                    सरगर                          </CaneGrowerName>
-    <ServeyNo>40</ServeyNo>
-    <PlantationDate>25-07-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74159">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>35364</CaneGrowerCode>
-    <CaneGrowerName>धुळदेव                                 आज्ञान                     गोरड                          </CaneGrowerName>
-    <ServeyNo>216</ServeyNo>
-    <PlantationDate>20-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
     <IrrigationTypeCode>0</IrrigationTypeCode>
     <IrrigationType />
     <IrrigationMethodCode>0</IrrigationMethodCode>
@@ -8520,156 +7410,6 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="74554">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>35638</CaneGrowerCode>
-    <CaneGrowerName>हेमा                   रावसाहेब                                           कर्णवर                            </CaneGrowerName>
-    <ServeyNo>698</ServeyNo>
-    <PlantationDate>17-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74554">
-    <RegFormNo>2</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>35638</CaneGrowerCode>
-    <CaneGrowerName>हेमा                   रावसाहेब                                           कर्णवर                            </CaneGrowerName>
-    <ServeyNo>504</ServeyNo>
-    <PlantationDate>01-08-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74554">
-    <RegFormNo>3</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>35638</CaneGrowerCode>
-    <CaneGrowerName>हेमा                   रावसाहेब                                           कर्णवर                            </CaneGrowerName>
-    <ServeyNo>698</ServeyNo>
-    <PlantationDate>05-08-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74557">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>30402</CaneGrowerCode>
-    <CaneGrowerName>शामराव नाना गोरड</CaneGrowerName>
-    <ServeyNo>121</ServeyNo>
-    <PlantationDate>07-08-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="74557">
-    <RegFormNo>2</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>30402</CaneGrowerCode>
-    <CaneGrowerName>शामराव नाना गोरड</CaneGrowerName>
-    <ServeyNo>128</ServeyNo>
-    <PlantationDate>07-09-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="75057">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -8698,126 +7438,6 @@
     <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
     <IFSC>BKID0000711</IFSC>
     <AccountNo>071110110014706</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75058">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>1738</CaneGrowerCode>
-    <CaneGrowerName>आबासाहेब बाबूराव पाटील</CaneGrowerName>
-    <ServeyNo>11</ServeyNo>
-    <PlantationDate>16-08-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.8</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75058">
-    <RegFormNo>2</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>1738</CaneGrowerCode>
-    <CaneGrowerName>आबासाहेब बाबूराव पाटील</CaneGrowerName>
-    <ServeyNo>101</ServeyNo>
-    <PlantationDate>17-08-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75059">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>3916</CaneGrowerCode>
-    <CaneGrowerName>लक्ष्मण जगन्नाथ गोरड</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>01-08-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919623415543</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75059">
-    <RegFormNo>2</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>3916</CaneGrowerCode>
-    <CaneGrowerName>लक्ष्मण जगन्नाथ गोरड</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>01-12-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>919623415543</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="75060">
@@ -8891,8 +7511,8 @@
     <CaneGrowerName />
     <ServeyNo>683</ServeyNo>
     <PlantationDate>01-08-2016</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>सुरु</CaneType>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
     <CaneVarietyCode>9</CaneVarietyCode>
     <CaneVariety>265</CaneVariety>
     <Area>0.8</Area>
@@ -9278,7 +7898,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>3885</CaneGrowerCode>
-    <CaneGrowerName>शिवाजी मारुती कोळेकर</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>653</ServeyNo>
     <PlantationDate>15-07-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -9294,10 +7914,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110000135</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="75070">
@@ -9308,7 +7928,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>3885</CaneGrowerCode>
-    <CaneGrowerName>शिवाजी मारुती कोळेकर</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>653</ServeyNo>
     <PlantationDate>11-11-2016</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -9324,10 +7944,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110000135</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="75071">
@@ -9388,96 +8008,6 @@
     <BranchName>आय.सी.आय.सी.आय.बँक -अकलुज</BranchName>
     <IFSC>ICIC0006496</IFSC>
     <AccountNo>649601502852</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75072">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>20552</CaneGrowerCode>
-    <CaneGrowerName />
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>20-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.6</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>बँक ऑफ बडौदा</BankName>
-    <BranchName>बँक ऑफ  बडौदा - वेळापूर</BranchName>
-    <IFSC>BARB0VELAPU</IFSC>
-    <AccountNo>13050100006885</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75073">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>1504</CaneGrowerCode>
-    <CaneGrowerName>विशाल आबासो लवटे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>15-07-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75073">
-    <RegFormNo>2</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>1504</CaneGrowerCode>
-    <CaneGrowerName>विशाल आबासो लवटे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>15-11-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="75075">
@@ -9548,7 +8078,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>24403</CaneGrowerCode>
-    <CaneGrowerName>भगवान रामचंद्र कोकरे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1</ServeyNo>
     <PlantationDate>01-08-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -9564,10 +8094,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110100015169</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="75078">
@@ -9701,8 +8231,8 @@
     <CaneGrowerName>किसन रामचंद्र खुर्द</CaneGrowerName>
     <ServeyNo>1421</ServeyNo>
     <PlantationDate>30-11-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
     <CaneVarietyCode>9</CaneVarietyCode>
     <CaneVariety>265</CaneVariety>
     <Area>0.9</Area>
@@ -9878,7 +8408,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>1046</CaneGrowerCode>
-    <CaneGrowerName>निवृत्ती महादेव करे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1985</ServeyNo>
     <PlantationDate>20-08-2016</PlantationDate>
     <CaneTypeCode>2</CaneTypeCode>
@@ -9894,10 +8424,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक ऑफ महाराष्ट्र</BankName>
+    <BranchName>बँक ऑफ महाराष्ट्र - माळशिरस</BranchName>
+    <IFSC>MAHB0001838</IFSC>
+    <AccountNo>60141899463</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="75169">
@@ -9908,7 +8438,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>1046</CaneGrowerCode>
-    <CaneGrowerName>निवृत्ती महादेव करे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1985</ServeyNo>
     <PlantationDate>23-01-2017</PlantationDate>
     <CaneTypeCode>3</CaneTypeCode>
@@ -9924,10 +8454,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक ऑफ महाराष्ट्र</BankName>
+    <BranchName>बँक ऑफ महाराष्ट्र - माळशिरस</BranchName>
+    <IFSC>MAHB0001838</IFSC>
+    <AccountNo>60141899463</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="75173">
@@ -10061,8 +8591,8 @@
     <CaneGrowerName>नितिन पोपट टेळे</CaneGrowerName>
     <ServeyNo>1963</ServeyNo>
     <PlantationDate>21-08-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
     <CaneVarietyCode>7</CaneVarietyCode>
     <CaneVariety>86032</CaneVariety>
     <Area>0.4</Area>
@@ -10110,126 +8640,6 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="75209">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>21333</CaneGrowerCode>
-    <CaneGrowerName>रामचंद्र माणीकराव शेंडगे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>09-08-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75209">
-    <RegFormNo>2</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>21333</CaneGrowerCode>
-    <CaneGrowerName>रामचंद्र माणीकराव शेंडगे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>10-09-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75209">
-    <RegFormNo>3</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>21333</CaneGrowerCode>
-    <CaneGrowerName>रामचंद्र माणीकराव शेंडगे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>15-09-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75209">
-    <RegFormNo>4</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>21333</CaneGrowerCode>
-    <CaneGrowerName>रामचंद्र माणीकराव शेंडगे</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>20-09-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>7</CaneVarietyCode>
-    <CaneVariety>86032</CaneVariety>
-    <Area>1</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="75210">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -10238,7 +8648,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>893</CaneGrowerCode>
-    <CaneGrowerName>रविंद्र सदाशिव निंबाळकर</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1</ServeyNo>
     <PlantationDate>01-10-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -10254,10 +8664,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110009988</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="75210">
@@ -10268,7 +8678,7 @@
     <VillageName>माळशिरस</VillageName>
     <Distance>38</Distance>
     <CaneGrowerCode>893</CaneGrowerCode>
-    <CaneGrowerName>रविंद्र सदाशिव निंबाळकर</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1</ServeyNo>
     <PlantationDate>02-10-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -10284,10 +8694,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110009988</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="75215">
@@ -10410,66 +8820,6 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="75248">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>20520</CaneGrowerCode>
-    <CaneGrowerName>यशवंत गुलाब गोरड</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>01-08-2016</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="75248">
-    <RegFormNo>2</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>20520</CaneGrowerCode>
-    <CaneGrowerName>यशवंत गुलाब गोरड</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>11-11-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.4</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="75286">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -10478,7 +8828,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>17402</CaneGrowerCode>
-    <CaneGrowerName>महादेव देनबा गोरड</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1</ServeyNo>
     <PlantationDate>01-09-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -10494,10 +8844,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>33591161470</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="75287">
@@ -10615,7 +8965,7 @@
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
     <BankName>बँक आँफ इंडिया</BankName>
-    <BranchName>बँक ऑफ इंडिया - अकलूज (माळेवाडी)</BranchName>
+    <BranchName>बँक ऑफ इंडिया - अकलूज (माळेवाडी)&#x0;</BranchName>
     <IFSC>BKID0000707</IFSC>
     <AccountNo>070710510004487</AccountNo>
     <AADHARNO>-</AADHARNO>
@@ -11196,7 +9546,7 @@
     <GatName>माळशिरस</GatName>
     <VillageCode>10</VillageCode>
     <VillageName>गोरडवाडी</VillageName>
-    <Distance>0</Distance>
+    <Distance>49</Distance>
     <CaneGrowerCode>19466</CaneGrowerCode>
     <CaneGrowerName />
     <ServeyNo>1</ServeyNo>
@@ -11398,36 +9748,6 @@
     <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
     <IFSC>BKID0000711</IFSC>
     <AccountNo>071118210001216</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
-  <PlotNo No="76342">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>14777</CaneGrowerCode>
-    <CaneGrowerName>मुकिंद आप्पा गोरड</CaneGrowerName>
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>12-11-2016</PlantationDate>
-    <CaneTypeCode>3</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.3</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>बँक ऑफ महाराष्ट्र</BankName>
-    <BranchName>बँक ऑफ महाराष्ट्र - माळशिरस</BranchName>
-    <IFSC>MAHB0001838</IFSC>
-    <AccountNo>60213686262</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="76343">
@@ -12090,36 +10410,6 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
-  <PlotNo No="76358">
-    <RegFormNo>1</RegFormNo>
-    <GatCode>1</GatCode>
-    <GatName>माळशिरस</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>गोरडवाडी</VillageName>
-    <Distance>49</Distance>
-    <CaneGrowerCode>12037</CaneGrowerCode>
-    <CaneGrowerName />
-    <ServeyNo>1</ServeyNo>
-    <PlantationDate>20-06-2016</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>पूर्व हंगामी</CaneType>
-    <CaneVarietyCode>9</CaneVarietyCode>
-    <CaneVariety>265</CaneVariety>
-    <Area>0.3</Area>
-    <IrrigationTypeCode>0</IrrigationTypeCode>
-    <IrrigationType />
-    <IrrigationMethodCode>0</IrrigationMethodCode>
-    <IrrigationMethod />
-    <PlantationTypeCode>0</PlantationTypeCode>
-    <PlantationType />
-    <MobileNo>-</MobileNo>
-    <PANNo>-</PANNo>
-    <BankName>बँक आँफ इंडिया</BankName>
-    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
-    <IFSC>BKID0000711</IFSC>
-    <AccountNo>071110110015982</AccountNo>
-    <AADHARNO>-</AADHARNO>
-  </PlotNo>
   <PlotNo No="76359">
     <RegFormNo>1</RegFormNo>
     <GatCode>1</GatCode>
@@ -12398,7 +10688,7 @@
     <VillageName>गोरडवाडी</VillageName>
     <Distance>49</Distance>
     <CaneGrowerCode>20372</CaneGrowerCode>
-    <CaneGrowerName>बाजीराव देनबा गोरड</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>107</ServeyNo>
     <PlantationDate>01-01-2017</PlantationDate>
     <CaneTypeCode>1</CaneTypeCode>
@@ -12414,10 +10704,10 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>33616316274</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="76364">
@@ -12478,6 +10768,846 @@
     <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
     <IFSC>SBIN0011516</IFSC>
     <AccountNo>32131744987</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75059">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>गोरडवाडी</VillageName>
+    <Distance>49</Distance>
+    <CaneGrowerCode>3916</CaneGrowerCode>
+    <CaneGrowerName>लक्ष्मण जगन्नाथ गोरड</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.5</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919623415543</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="75059">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>गोरडवाडी</VillageName>
+    <Distance>49</Distance>
+    <CaneGrowerCode>3916</CaneGrowerCode>
+    <CaneGrowerName>लक्ष्मण जगन्नाथ गोरड</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.5</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919623415543</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76617">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>3284</CaneGrowerCode>
+    <CaneGrowerName>शंकर बाळू ठोंबरे</CaneGrowerName>
+    <ServeyNo>428</ServeyNo>
+    <PlantationDate>17-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110004896</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76617">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>3284</CaneGrowerCode>
+    <CaneGrowerName>शंकर बाळू ठोंबरे</CaneGrowerName>
+    <ServeyNo>428</ServeyNo>
+    <PlantationDate>10-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110004896</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76623">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>गोरडवाडी</VillageName>
+    <Distance>49</Distance>
+    <CaneGrowerCode>17385</CaneGrowerCode>
+    <CaneGrowerName>दादासाहेब नाना कळसुले</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>आय.सी. आय. सी. आय बँक</BankName>
+    <BranchName>आय.सी.आय.सी.आय.बँक -अकलुज</BranchName>
+    <IFSC>ICIC0006496</IFSC>
+    <AccountNo>649601502852</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76624">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>19085</CaneGrowerCode>
+    <CaneGrowerName>दशरथ बाबा वाघमोडे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>25-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76625">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>16313</CaneGrowerCode>
+    <CaneGrowerName>मारूती माणिक बागनवर</CaneGrowerName>
+    <ServeyNo>763</ServeyNo>
+    <PlantationDate>30-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76625">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>16313</CaneGrowerCode>
+    <CaneGrowerName>मारूती माणिक बागनवर</CaneGrowerName>
+    <ServeyNo>763</ServeyNo>
+    <PlantationDate>02-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76626">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>17028</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>778</ServeyNo>
+    <PlantationDate>16-11-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919923973526</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>33606636874</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76626">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>17028</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>776</ServeyNo>
+    <PlantationDate>07-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919923973526</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>33606636874</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76630">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>223</CaneGrowerCode>
+    <CaneGrowerName>भगवान येताळ टेळे</CaneGrowerName>
+    <ServeyNo>177</ServeyNo>
+    <PlantationDate>12-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>9190961872  </MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76631">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>1646</CaneGrowerCode>
+    <CaneGrowerName>मोहन विठ्ठल वाघमोडे</CaneGrowerName>
+    <ServeyNo>2077</ServeyNo>
+    <PlantationDate>10-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919420662551</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76631">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>1646</CaneGrowerCode>
+    <CaneGrowerName>मोहन विठ्ठल वाघमोडे</CaneGrowerName>
+    <ServeyNo>2077</ServeyNo>
+    <PlantationDate>11-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919420662551</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76631">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>1646</CaneGrowerCode>
+    <CaneGrowerName>मोहन विठ्ठल वाघमोडे</CaneGrowerName>
+    <ServeyNo>2077</ServeyNo>
+    <PlantationDate>20-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919420662551</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76632">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>20560</CaneGrowerCode>
+    <CaneGrowerName>संग्राम सुभाष पाटील</CaneGrowerName>
+    <ServeyNo>2310</ServeyNo>
+    <PlantationDate>10-12-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110100011331</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76633">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>4173</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>1726</ServeyNo>
+    <PlantationDate>03-01-2017</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919975123797</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>30621087734</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76634">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>1059</CaneGrowerCode>
+    <CaneGrowerName>शिवाजी चंद्रू तरंगे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-08-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>7</CaneVarietyCode>
+    <CaneVariety>86032</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919922399272</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76635">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>25534</CaneGrowerCode>
+    <CaneGrowerName>लिंबाजी राजाराम कोळेकर</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>28-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76636">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>14335</CaneGrowerCode>
+    <CaneGrowerName>विठ्ठल आण्णा वाघमोडे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-12-2016</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76636">
+    <RegFormNo>2</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>माळशिरस</VillageName>
+    <Distance>38</Distance>
+    <CaneGrowerCode>14335</CaneGrowerCode>
+    <CaneGrowerName>विठ्ठल आण्णा वाघमोडे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>18-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="70758">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>गोरडवाडी</VillageName>
+    <Distance>49</Distance>
+    <CaneGrowerCode>19795</CaneGrowerCode>
+    <CaneGrowerName>दत्तात्रय विठ्ठल पिसे</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>06-11-2016</PlantationDate>
+    <CaneTypeCode>3</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>1</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="62780">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>गोरडवाडी</VillageName>
+    <Distance>49</Distance>
+    <CaneGrowerCode>17412</CaneGrowerCode>
+    <CaneGrowerName>निवृत्ती नारायण गोरड</CaneGrowerName>
+    <ServeyNo>802</ServeyNo>
+    <PlantationDate>27-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.8</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>AOLPG8825N</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63249">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>गोरडवाडी</VillageName>
+    <Distance>49</Distance>
+    <CaneGrowerCode>17412</CaneGrowerCode>
+    <CaneGrowerName>निवृत्ती नारायण गोरड</CaneGrowerName>
+    <ServeyNo>129</ServeyNo>
+    <PlantationDate>15-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>AOLPG8825N</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63249">
+    <RegFormNo>3</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>गोरडवाडी</VillageName>
+    <Distance>49</Distance>
+    <CaneGrowerCode>17412</CaneGrowerCode>
+    <CaneGrowerName>निवृत्ती नारायण गोरड</CaneGrowerName>
+    <ServeyNo>501</ServeyNo>
+    <PlantationDate>16-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>AOLPG8825N</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63249">
+    <RegFormNo>4</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>गोरडवाडी</VillageName>
+    <Distance>49</Distance>
+    <CaneGrowerCode>17412</CaneGrowerCode>
+    <CaneGrowerName>निवृत्ती नारायण गोरड</CaneGrowerName>
+    <ServeyNo>454</ServeyNo>
+    <PlantationDate>17-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>AOLPG8825N</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="63827">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>गोरडवाडी</VillageName>
+    <Distance>49</Distance>
+    <CaneGrowerCode>5353</CaneGrowerCode>
+    <CaneGrowerName>दत्तू बापू गोरड</CaneGrowerName>
+    <ServeyNo>120</ServeyNo>
+    <PlantationDate>04-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.4</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="72563">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>गोरडवाडी</VillageName>
+    <Distance>49</Distance>
+    <CaneGrowerCode>15963</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>02-09-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.6</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया- माळशिरस</BranchName>
+    <IFSC>SBIN0011516</IFSC>
+    <AccountNo>20144366257</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="76358">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>1</GatCode>
+    <GatName>माळशिरस</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>गोरडवाडी</VillageName>
+    <Distance>49</Distance>
+    <CaneGrowerCode>12037</CaneGrowerCode>
+    <CaneGrowerName />
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>20-07-2016</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>बँक आँफ इंडिया</BankName>
+    <BranchName>बँक ऑफ इंडिया - माळशिरस</BranchName>
+    <IFSC>BKID0000711</IFSC>
+    <AccountNo>071110110015982</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
 </VerificationData>

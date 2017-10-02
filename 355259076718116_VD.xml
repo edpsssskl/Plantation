@@ -35,7 +35,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>323</CaneGrowerCode>
     <CaneGrowerName>विजय काकासो मोरे</CaneGrowerName>
@@ -65,7 +65,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>19525</CaneGrowerCode>
     <CaneGrowerName>विठ्ठल बापूराव मोरे</CaneGrowerName>
@@ -95,7 +95,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>19525</CaneGrowerCode>
     <CaneGrowerName>विठ्ठल बापूराव मोरे</CaneGrowerName>
@@ -335,7 +335,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1350</CaneGrowerCode>
     <CaneGrowerName>जगन्नाथ महादेव सातपुते</CaneGrowerName>
@@ -365,7 +365,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>21714</CaneGrowerCode>
     <CaneGrowerName>आप्पासोा नामदेव मोरे</CaneGrowerName>
@@ -575,7 +575,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>24300</CaneGrowerCode>
     <CaneGrowerName>अमोल कलाप्पा कुटे</CaneGrowerName>
@@ -600,12 +600,42 @@
     <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
+  <PlotNo No="72953">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>20</VillageCode>
+    <VillageName>पुजारवाडी (आ)&#x0;</VillageName>
+    <Distance>31</Distance>
+    <CaneGrowerCode>3966</CaneGrowerCode>
+    <CaneGrowerName>ज्ञानोबा तुकाराम पुजारी</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>10-10-2016</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>पूर्व हंगामी</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.3</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>919623049096</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
+    <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
+    <IFSC>IBKL0487SDC</IFSC>
+    <AccountNo>03805110011773</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
   <PlotNo No="72954">
     <RegFormNo>1</RegFormNo>
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>3966</CaneGrowerCode>
     <CaneGrowerName>ज्ञानोबा तुकाराम पुजारी</CaneGrowerName>
@@ -624,10 +654,40 @@
     <PlantationType />
     <MobileNo>919623049096</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110011773</AccountNo>
+    <AADHARNO>-</AADHARNO>
+  </PlotNo>
+  <PlotNo No="73026">
+    <RegFormNo>1</RegFormNo>
+    <GatCode>3</GatCode>
+    <GatName>आटपाडी</GatName>
+    <VillageCode>20</VillageCode>
+    <VillageName>पुजारवाडी (आ)&#x0;</VillageName>
+    <Distance>31</Distance>
+    <CaneGrowerCode>586</CaneGrowerCode>
+    <CaneGrowerName>नानासो गोरख पवार</CaneGrowerName>
+    <ServeyNo>1</ServeyNo>
+    <PlantationDate>01-01-2017</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>सुरु</CaneType>
+    <CaneVarietyCode>9</CaneVarietyCode>
+    <CaneVariety>265</CaneVariety>
+    <Area>0.2</Area>
+    <IrrigationTypeCode>0</IrrigationTypeCode>
+    <IrrigationType />
+    <IrrigationMethodCode>0</IrrigationMethodCode>
+    <IrrigationMethod />
+    <PlantationTypeCode>0</PlantationTypeCode>
+    <PlantationType />
+    <MobileNo>-</MobileNo>
+    <PANNo>-</PANNo>
+    <BankName>-</BankName>
+    <BranchName>-</BranchName>
+    <IFSC>0</IFSC>
+    <AccountNo>0</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="73066">
@@ -635,7 +695,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>34851</CaneGrowerCode>
     <CaneGrowerName>अजय                आण्णा                  शेटे                  </CaneGrowerName>
@@ -665,7 +725,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>953</CaneGrowerCode>
     <CaneGrowerName>जालिंदर कृष्णा नळ</CaneGrowerName>
@@ -725,7 +785,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>18114</CaneGrowerCode>
     <CaneGrowerName>दादासो ज्ञानेश्वर मोरे</CaneGrowerName>
@@ -1535,7 +1595,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1143</CaneGrowerCode>
     <CaneGrowerName>सुनिल निवृत्ती काटे</CaneGrowerName>
@@ -1565,7 +1625,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1662</CaneGrowerCode>
     <CaneGrowerName />
@@ -1584,7 +1644,7 @@
     <PlantationType />
     <MobileNo>919763607473</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110002478</AccountNo>
@@ -1595,7 +1655,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1217</CaneGrowerCode>
     <CaneGrowerName>रामदास रेवण टिंगरे</CaneGrowerName>
@@ -1625,7 +1685,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>3895</CaneGrowerCode>
     <CaneGrowerName>हरीदास रेवणसिध्द टिंगरे</CaneGrowerName>
@@ -1655,7 +1715,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>1310</CaneGrowerCode>
     <CaneGrowerName>अजय राजाराम पुजारी</CaneGrowerName>
@@ -1685,7 +1745,7 @@
     <GatCode>3</GatCode>
     <GatName>आटपाडी</GatName>
     <VillageCode>19</VillageCode>
-    <VillageName>पुजारवाडी (दि)</VillageName>
+    <VillageName>पुजारवाडी (दि)&#x0;</VillageName>
     <Distance>22</Distance>
     <CaneGrowerCode>4874</CaneGrowerCode>
     <CaneGrowerName>अंकुश रामचंद्र पुजारी</CaneGrowerName>
@@ -1824,7 +1884,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110003407</AccountNo>
@@ -2078,7 +2138,7 @@
     <VillageName>दिघंची</VillageName>
     <Distance>18</Distance>
     <CaneGrowerCode>576</CaneGrowerCode>
-    <CaneGrowerName>चंद्रकांत गोविंद मोरे</CaneGrowerName>
+    <CaneGrowerName />
     <ServeyNo>1</ServeyNo>
     <PlantationDate>30-10-2016</PlantationDate>
     <CaneTypeCode>4</CaneTypeCode>
@@ -2094,10 +2154,10 @@
     <PlantationType />
     <MobileNo>919921141932</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>-</BankName>
-    <BranchName>-</BranchName>
-    <IFSC>0</IFSC>
-    <AccountNo>0</AccountNo>
+    <BankName>स्टेट बँक ऑफ इंडिया</BankName>
+    <BranchName>स्टेट बँक ऑफ इंडिया - आटपाडी</BranchName>
+    <IFSC>SBIN0016328</IFSC>
+    <AccountNo>32909050918</AccountNo>
     <AADHARNO>-</AADHARNO>
   </PlotNo>
   <PlotNo No="74777">
@@ -2784,7 +2844,7 @@
     <PlantationType />
     <MobileNo>-</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110003082</AccountNo>
@@ -3024,7 +3084,7 @@
     <PlantationType />
     <MobileNo>919881852482</MobileNo>
     <PANNo>-</PANNo>
-    <BankName>सांगली जि.म.स.बँक लि.</BankName>
+    <BankName>सांगली जि.म.स.बँक लि.&#x0;</BankName>
     <BranchName>सांगली जि.म.सह.बँक लि.- दिघंची</BranchName>
     <IFSC>IBKL0487SDC</IFSC>
     <AccountNo>03805110006440</AccountNo>
