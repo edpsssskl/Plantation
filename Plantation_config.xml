@@ -1,22 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <User>
-  <UserCode Code="354144072517996">
+  <UserCode Code="354144071489858">
     <UserName>---</UserName>
-    <Range>320001</Range>
+    <Range>275001</Range>
     <FarmerList>https://raw.githubusercontent.com/edpsssskl/Plantation/master/FarmerList.xml</FarmerList>
     <GatList>https://raw.githubusercontent.com/edpsssskl/Plantation/master/GatList.xml</GatList>
     <VillageList>https://raw.githubusercontent.com/edpsssskl/Plantation/master/VillageList.xml</VillageList>
-    <VerificationData>https://raw.githubusercontent.com/edpsssskl/Plantation/master/354144072517996_VD.xml</VerificationData>
-    <UCode>30877</UCode>
-  </UserCode>
-  <UserCode Code="354919080924437">
-    <UserName>---</UserName>
-    <Range>310001</Range>
-    <FarmerList>https://raw.githubusercontent.com/edpsssskl/Plantation/master/FarmerList.xml</FarmerList>
-    <GatList>https://raw.githubusercontent.com/edpsssskl/Plantation/master/GatList.xml</GatList>
-    <VillageList>https://raw.githubusercontent.com/edpsssskl/Plantation/master/VillageList.xml</VillageList>
-    <VerificationData>https://raw.githubusercontent.com/edpsssskl/Plantation/master/354919080924437_VD.xml</VerificationData>
-    <UCode>35854</UCode>
+    <VerificationData>https://raw.githubusercontent.com/edpsssskl/Plantation/master/354144071489858_VD.xml</VerificationData>
+    <UCode>31283</UCode>
   </UserCode>
   <UserCode Code="352801087600206">
     <UserName>---</UserName>
