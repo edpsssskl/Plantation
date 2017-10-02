@@ -1,5 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <users>
+  <loginid id="35836">
+    <username>-</username>
+    <password>35836</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="31649">
+    <username>-</username>
+    <password>31649</password>
+    <level>3</level>
+  </loginid>
   <loginid id="31283">
     <username>-</username>
     <password>31283</password>
