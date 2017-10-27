@@ -1,19 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <users>
-  <loginid id="25366">
-    <username>-</username>
-    <password>25366</password>
-    <level>3</level>
-  </loginid>
   <loginid id="35654">
     <username>-</username>
     <password>35654</password>
-    <level>2</level>
+    <level>3</level>
   </loginid>
-  <loginid id="14331">
+  <loginid id="25165">
+    <username>-</username>
+    <password>25165</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="25781">
+    <username>-</username>
+    <password>25781</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="8469">
+    <username>-</username>
+    <password>8469</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="8459">
     <username>-</username>
     <password>14331</password>
-    <level>3</level>
+    <level>1</level>
   </loginid>
   <loginid id="8465">
     <username>-</username>
@@ -78,16 +88,6 @@
   <loginid id="29739">
     <username>-</username>
     <password>29739</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="25781">
-    <username>-</username>
-    <password>25781</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="25165">
-    <username>-</username>
-    <password>25165</password>
     <level>3</level>
   </loginid>
   <loginid id="23403">
@@ -155,19 +155,9 @@
     <password>11667</password>
     <level>3</level>
   </loginid>
-  <loginid id="8469">
-    <username>-</username>
-    <password>8469</password>
-    <level>3</level>
-  </loginid>
   <loginid id="8468">
     <username>-</username>
     <password>8468</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="8459">
-    <username>-</username>
-    <password>8459</password>
     <level>3</level>
   </loginid>
   <loginid id="8458">
